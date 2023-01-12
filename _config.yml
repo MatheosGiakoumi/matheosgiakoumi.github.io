@@ -1,11 +1,11 @@
-title: C. Giakoumis # your name (or website title) here
+title: Matheos Giakoumi # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  <i><b>Data, coding, geography, applications </b></i>
+  <i><b>Write your description in config.yml </b></i>
   <br><br>
 theme: jekyll-theme-minimal
 show_downloads: true
-url: "https://christosgk.github.io"
-github_username: ChristosGk
+url: "https://matheosgiakoumi.me"
+github_username: MatheosGiakoumi
 twitter: ""
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
