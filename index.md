@@ -1,9 +1,9 @@
 <h1 style="color:green; font-size:2em">Home</h1>
 ---
-[Home](index.md) | [Sample_page](sample_page.md) | [Readme](README.md) | [Twitter]({{site.twitter}})
+[Home](index.md) | [Readme](README.md) 
 
 ---
-# <i>Edit. Testing gh-pages</i>
+# <i>Portfolio - Science, Engineering, Technology</i>
 
 ---
 
