@@ -3,7 +3,7 @@
 [Home](index.md) | [Readme](README.md) 
 
 ---
-# <i>Portfolio - Science, Engineering, Technology</i>
+# <i>Portfolio - Sci, Eng, Tech</i>
 
 ---
 
