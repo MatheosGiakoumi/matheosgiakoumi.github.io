@@ -1,4 +1,4 @@
-<h1 style="color:green; font-size:2em">[Home](index.md) | [Readme](README.md) </h1>
+[Home](index.md) | [Readme](README.md)
 
 ---
 
