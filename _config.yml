@@ -1,9 +1,9 @@
 title: Matheos Giakoumi # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  <i><b>Engineering, Materials, Health, Energy, Industry, Computers </b></i>
-  <br>
-  University Research in:
+  <i><b>Engineering, Health, Energy, Industry, Computers </b></i>
+  <br><br>
+  <b>University Research for:<b>
   <br>
   Biolysis Lab
   <br>
@@ -12,10 +12,9 @@ description: > # your text below (remove <br> elements if you don't need line br
   Device Technology and Chemical Physics Lab
   <br>
   Nanostructured Material Science
-  <br>
+  <br><br>
   Tutor of Mathematics
-  <br>
-  
+  <br>  
 theme: jekyll-theme-minimal
 show_downloads: true
 url: "https://matheosgiakoumi.me"
