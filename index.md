@@ -1,8 +1,6 @@
 [Home](index.md) | [Readme](README.md)
 
----
-
-# <i>Portfolio | Sci-Eng-Tech</i>
+# <i>Engineering Portfolio</i>
 
 ---
 
