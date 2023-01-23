@@ -24,7 +24,7 @@
 
 ---
 
-<img src="images/logo.png" alt="logo" width=200 height=100%>
+![ Link ](images/logo.png)
 
 ---
 
