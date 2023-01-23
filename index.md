@@ -1,8 +1,7 @@
-<h1 style="color:green; font-size:2em">Home</h1>
----
-[Home](index.md) | [Readme](README.md) 
+<h1 style="color:green; font-size:2em">[Home](index.md) | [Readme](README.md) </h1>
 
 ---
+
 # <i>Portfolio | Sci-Eng-Tech</i>
 
 ---
