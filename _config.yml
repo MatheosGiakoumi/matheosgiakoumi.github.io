@@ -1,8 +1,21 @@
 title: Matheos Giakoumi # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  <i><b>Write your description in config.yml </b></i>
-  <br><br>
+  <i><b>Engineering, Materials, Health, Energy, Industry, Computers </b></i>
+  <br>
+  University Research in:
+  <br>
+  Biolysis Lab
+  <br>
+  Material Thermodynamics Lab
+  <br>
+  Device Technology and Chemical Physics Lab
+  <br>
+  Nanostructured Material Science
+  <br>
+  Tutor of Mathematics
+  <br>
+  
 theme: jekyll-theme-minimal
 show_downloads: true
 url: "https://matheosgiakoumi.me"
