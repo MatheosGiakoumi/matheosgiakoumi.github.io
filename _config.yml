@@ -13,8 +13,8 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br>
   Biomechanics and Living Systems Analysis - Cyprus University of Technology
 url: "http://biolisys.cut.ac.cy/"
-  Instructor, Master on Natural Gas in Energy Transition - University of Cyprus
-  <br>  
+ # Instructor, Master on Natural Gas in Energy Transition - University of Cyprus
+  #<br>  
 theme: jekyll-theme-minimal
 show_downloads: true
 url: "https://matheosgiakoumi.me"
