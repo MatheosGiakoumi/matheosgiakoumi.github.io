@@ -10,20 +10,9 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br>
   Cyprus University of Technology
   <br>
-
-#description: > # your text below (remove <br> elements if you don't need line breaks)
-# <br>
-#  Geomechanics Research for Energy and Environment - University of Cyprus
-#url: "https://websites.ucy.ac.cy/energygeomechanics/"
-#description: > # your text below (remove <br> elements if you don't need line breaks)
-#  <br>
-#  Biomechanics and Living Systems Analysis - Cyprus University of Technology
-#url: "http://biolisys.cut.ac.cy/"
-# Instructor, Master on Natural Gas in Energy Transition - University of Cyprus
-#<br> 
 theme: jekyll-theme-minimal
 #show_downloads: true
 #url: "https://matheosgiakoumi.me"
 #github_username: MatheosGiakoumi
 #twitter: ""
-google_analytics: UA-000000-0 # your Google Analytics tracking ID here
+#google_analytics: UA-000000-0 # your Google Analytics tracking ID here
