@@ -5,9 +5,9 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br><br>
   <b><u>Researcher at:</u></b>
   <a href = "https://www.feem.it/en/ricerca/programmi/technologies-for-the-energy-transition/">Fondazione Eni Enrico Mattei</a>
-  <br><br>
-  <a href = "https://websites.ucy.ac.cy/energygeomechanics/">Fondazione Eni Enrico Mattei</a>
-  <br><br>
-  <a href = "http://biolisys.cut.ac.cy/">Fondazione Eni Enrico Mattei</a>
+  <br>
+  <a href = "https://websites.ucy.ac.cy/energygeomechanics/">University of Cyprus</a>
+  <br>
+  <a href = "http://biolisys.cut.ac.cy/">Cyprus University of Technology</a>
 
 theme: jekyll-theme-minimal
