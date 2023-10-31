@@ -1,6 +1,6 @@
 [Home](index.md) | [Readme](README.md)
 
-# <i>Engineering Portfolio</i>
+# <i>Detailed Portfolio</i>
 
 ---
 
