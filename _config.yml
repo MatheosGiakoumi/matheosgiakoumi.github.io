@@ -4,17 +4,17 @@ description: > # your text below (remove <br> elements if you don't need line br
   <i><b>Mechanical & Petroleum Engineer</b></i>
   <br><br>
   Technologies for the Energy Transition - Fondazione Eni Enrico Mattei
-url: "https://www.feem.it/en/ricerca/programmi/technologies-for-the-energy-transition/"
-description: > # your text below (remove <br> elements if you don't need line breaks)
-  <br>
-  Geomechanics Research for Energy and Environment - University of Cyprus
-url: "https://websites.ucy.ac.cy/energygeomechanics/"
-description: > # your text below (remove <br> elements if you don't need line breaks)
-  <br>
-  Biomechanics and Living Systems Analysis - Cyprus University of Technology
-url: "http://biolisys.cut.ac.cy/"
- # Instructor, Master on Natural Gas in Energy Transition - University of Cyprus
-  #<br> 
+
+#description: > # your text below (remove <br> elements if you don't need line breaks)
+# <br>
+#  Geomechanics Research for Energy and Environment - University of Cyprus
+#url: "https://websites.ucy.ac.cy/energygeomechanics/"
+#description: > # your text below (remove <br> elements if you don't need line breaks)
+#  <br>
+#  Biomechanics and Living Systems Analysis - Cyprus University of Technology
+#url: "http://biolisys.cut.ac.cy/"
+# Instructor, Master on Natural Gas in Energy Transition - University of Cyprus
+#<br> 
 theme: jekyll-theme-minimal
 show_downloads: true
 url: "https://matheosgiakoumi.me"
