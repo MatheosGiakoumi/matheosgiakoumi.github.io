@@ -3,20 +3,20 @@ logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   <i><b>Mechanical & Petroleum Engineer</b></i>
   <br><br>
-  <b><u>CUT Research for:</u></b>
+  <b><u>Researcher at:</u></b>
   <br>
-  Biolysis Lab
+  Technologies for The Energy Transition - Fondazione Eni Enrico Mattei
   <br>
-  Material Thermodynamics Lab
+  Geomechanics Research for Energy and Environment - University of Cyprus
   <br>
-  Device Tech and Chemical Physics Lab
+  Biomechanics and Living Systems Analysis - Cyprus University of Technology
   <br>
-  Nanostructured Material Science
+  Material Thermodynamics Laboratory - Cyprus University of Technology
   <br><br>
-  Tutor of Mathematics
+  Instructor, Master on Natural Gas in Energy Transition - University of Cyprus
   <br>  
 theme: jekyll-theme-minimal
-show_downloads: true
+show_downloads: false
 url: "https://matheosgiakoumi.me"
 github_username: MatheosGiakoumi
 twitter: ""
