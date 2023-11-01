@@ -215,3 +215,5 @@ Coding
 ## Contact
 
 Get in touch with me at matheos.giakoumis97@hotmail.com
+
+{% include footer.html %}
