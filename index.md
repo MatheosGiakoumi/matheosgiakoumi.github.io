@@ -8,22 +8,62 @@
   
 ---
 
-## Education
-- [ Bachelor of Science  ](#beng)<br>
-- [ MSc Natural Gas in Energy Transition ](#msc)<br>
-- [ Master in Energy, Environmental Management & Economics ](#master)<br>
+## About Me
+- [ BS in Mechanical Engineering and Materials Science ](#bs)<br>
+- [ MEng in Natural Gas Engineering ](#meng)<br>
+- [ MBA in Energy and Environmental Management & Economics ](#master)<br>
 - [ Further Interests ](#further)<br>
 - [ Contact ](#contact)<br>
 
 ---
 
-## Practice Areas
-- [ Biolysis - CUT ](#biolysis)<br>
-- [ Material Thermodynamics - CUT ](#thermodyn)<br>
-- [ Device Technology and Chemical Physics - CUT ](#devicetech)<br>
-- [ Nanostructured Material Science - CUT ](#nano)<br>
+## Research Experience
+- [ Technologies for the Energy Transition - FEEM ](#feem)<br>
+- [ Geomechanics Research for Energy and Environment - UCY ](#gree)<br>
+- [ Biomechanics and Living Systems Analysis - CUT ](#biolysis)<br>
+- [ Material Thermodynamics Laboratory - CUT ](#thermodyn)<br>
+- [ Device Technology & Chemical Physics Lab - CUT ](#devicetech)<br>
+- [ Research Unit for Nanostructured Materials Science - CUT ](#nano)<br>
 - [ Tutor of Mathematics ](#maths)<br>
 
+---
+
+## Teaching Experience
+- [ Instructor - Master on Natural Gas in Energy Transition ](#instr)<br>
+- [ University Tutor - Center of Student Development ](#tutor)<br>
+- [ Mathematics Tutor for High School Students ](#math)<br>
+
+---
+<a name="feem"></a>
+## Biolysis Lab - CUT
+[Link to the website](http://)
+<br>
+"NITOXILICO"<br>
+<br>
+Toxicokinetic Modelling – Model Parameterization and Optimization of ordinary differential 
+equations with deterministic and stochastic techniques, using iterative methods and global 
+optimization algorithms.<br>
+<br>
+Contributor to USPTO provisional patent –Application Number: US 63/193,947
+<br><br>
+![ Link ](images/logo.png)
+<br>
+---
+<a name="gree"></a>
+## Biomechanics and Living Systems Analysis - Cyprus University of Technology (CUT)
+[Link to the website](http://biolisys.cut.ac.cy/)
+<br>
+["NITOXILICO" project](http://biolisys.cut.ac.cy/research/projects/active-projects/nitoxilico/)
+"NITOXILICO"<br>
+<br>
+Toxicokinetic Modelling – Model Parameterization and Optimization of ordinary differential 
+equations with deterministic and stochastic techniques, using iterative methods and global 
+optimization algorithms.<br>
+<br>
+Contributor to USPTO provisional patent –Application Number: US 63/193,947
+<br><br>
+![ Link ](images/logo.png)
+<br>
 ---
 <a name="biolysis"></a>
 ## Biolysis Lab - CUT
@@ -91,7 +131,7 @@ Preparing students for the Pancyprian examination of mathematics.
 <br>
 ---
 
-<a name="beng"></a>
+<a name="bs"></a>
 ## BSc/BEng Mechanical Engineering
 [Link to the website](http://)
 <br>
@@ -103,7 +143,7 @@ and Technology / Cyprus University of Technology<br>
 ![ Link ](images/logo.png)
 <br>
 ---
-<a name="msc"></a>
+<a name="meng"></a>
 ## MSc Natural Gas in Energy Transition
 [Link to the website](http://)
 <br>
