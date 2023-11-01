@@ -22,7 +22,7 @@
 ## Research Experience
 - [ Technologies for the Energy Transition - FEEM ](#feem)<br>
 - [ Geomechanics Research for Energy and Environment - UCY ](#gree)<br>
-- [ Biomechanics and Living Systems Analysis - CUT ](#biolysis)<br>
+- [ Biomechanics and Living Systems Analysis - CUT ](#biolisys)<br>
 - [ Material Thermodynamics Laboratory - CUT ](#thermodyn)<br>
 - [ Device Technology & Chemical Physics Lab - CUT ](#devicetech)<br>
 - [ Research Unit for Nanostructured Materials Science - CUT ](#nano)<br>
@@ -50,6 +50,7 @@ Contributor to USPTO provisional patent –Application Number: US 63/193,947
 ![ Link ](images/logo.png)
 <br>
 ---
+
 <a name="gree"></a>
 ## Biomechanics and Living Systems Analysis - Cyprus University of Technology (CUT)
 <br>
@@ -69,11 +70,18 @@ Contributor to USPTO provisional patent –Application Number: US 63/193,947
 ![ Link ](images/logo.png)
 <br>
 ---
-<a name="biolysis"></a>
-## Biolysis Lab - CUT
-[Link to the website](http://)
+<a name="biolisys"></a>
+## Biomechanics and Living Systems Analysis - Cyprus University of Technology (CUT)
 <br>
-"NITOXILICO"<br>
+- [<b><u>"NITOXILICO" project:</u></b>](http://biolisys.cut.ac.cy/research/projects/active-projects/nitoxilico/)
+(POST-DOC/0916/0237), funded by the Cyprus Research and Innovation Foundation.
+<br>
+<b><u>Granted:</u></b> €160,000
+<br>
+<b><u>Achievement:</u></b> Contributor to patent [(PCT/EP2022/064468)](https://ktisis.cut.ac.cy/handle/20.500.14279/29213)
+<br>
+- <b><u>Parameterization & Optimization of Predictive Physiological Based Toxicokinetic (PBTK) Models:</u></b> We pioneered a predictive compartmental PBTK model to assess Nickel leaching from cardiovascular devices. We conducted in-house animal experiments, integrating the data into a time-variant system of ODEs. The system was framed within a multi-objective optimization problem, aiming to balance various physiological and device-specific parameters across the compartments (organs). Inherent to such models, data limitations and measurement uncertainties introduced a high degree of non-smoothness to the model’s objective function. Τo address this, we employed global optimization algorithms and stochastic analysis. This work resulted in three publications (see [1](#pub1), (3) & (5)). We are now expanding our research to simulate the interactions in the peri-implant environment using PDEs. The current model offers valuable insights to stent manufacturers about device leachability, aiding in risk assessment and minimizing the need for additional animal testing. We are in the process of developing a platform to offer this service, with plans for monetization.
+<b><u></u></b>
 <br>
 Toxicokinetic Modelling – Model Parameterization and Optimization of ordinary differential 
 equations with deterministic and stochastic techniques, using iterative methods and global 
