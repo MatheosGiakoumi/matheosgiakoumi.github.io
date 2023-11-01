@@ -64,6 +64,7 @@ Contributor to USPTO provisional patent –Application Number: US 63/193,947
 <br><br>
 ![ Link ](images/biolisys.png)
 <br>
+
 ---
 <a name="biolisys"></a>
 ## Biomechanics and Living Systems Analysis - Cyprus University of Technology (CUT)
@@ -88,6 +89,7 @@ Contributor to USPTO provisional patent –Application Number: US 63/193,947
 <br><br>
 ![ Link ](images/logo.png)
 <br>
+
 ---
 <a name="thermodyn"></a>
 ## Material Thermodynamics - CUT
@@ -114,6 +116,7 @@ Characterisation techniques: Optical Microscope.
 <br><br>
 ![ Link ](images/logo.png)
 <br>
+
 ---
 <a name="nano"></a>
 ## Nanostructured Material Science - CUT
@@ -128,6 +131,7 @@ Scanning Electron Microscopy (SEM).
 <br><br>
 ![ Link ](images/logo.png)
 <br>
+
 ---
 <a name="maths"></a>
 ## Tutor of Mathematics
@@ -138,6 +142,7 @@ Preparing students for the Pancyprian examination of mathematics.
 <br><br>
 ![ Link ](images/logo.png)
 <br>
+
 ---
 
 <a name="bs"></a>
@@ -162,7 +167,9 @@ Department of Civil and Environmental Engineering / Faculty of Engineering / Uni
 <br><br>
 ![ Link ](images/logo.png)
 <br>
+
 ---
+
 <a name="master"></a>
 ## Master in Energy, Environmental Management & Economics
 [Link to the website](http://)
@@ -173,7 +180,9 @@ Pending details
 <br><br>
 ![ Link ](images/logo.png)
 <br>
+
 ---
+
 <a name="pubs"></a>
 ## Publications
 [Link to the website](http://)
@@ -182,7 +191,9 @@ Coding
 <br><br>
 ![ Link ](images/logo.png)
 <br>
+
 ---
+
 <a name="conf"></a>
 ## Further Interests
 [Link to the website](http://)
@@ -191,7 +202,9 @@ Coding
 <br><br>
 ![ Link ](images/logo.png)
 <br>
+
 ---
+
 <a name="further"></a>
 ## Further Interests
 [Link to the website](http://)
@@ -200,10 +213,10 @@ Coding
 <br><br>
 ![ Link ](images/logo.png)
 <br>
+
 ---
+
 <a name="contact"></a>
 ## Contact
 
 Get in touch with me at matheos.giakoumis97@hotmail.com
-
-{% include footer.html %}
