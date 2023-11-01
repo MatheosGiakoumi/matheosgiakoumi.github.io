@@ -63,7 +63,7 @@ Contributor to USPTO provisional patent –Application Number: US 63/193,947
 
 <a name="biolisys"></a>
 ## Biomechanics and Living Systems Analysis - Cyprus University of Technology (CUT)
-<br>
+
 <div style="text-align: justify;">
   
 - ***["NITOXILICO" project:](http://biolisys.cut.ac.cy/research/projects/active-projects/nitoxilico/)***
@@ -75,7 +75,6 @@ Contributor to USPTO provisional patent –Application Number: US 63/193,947
 
 </div>
 
-<br><br>
 ![ Link ](images/biolisys.png)
 
 ---
