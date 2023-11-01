@@ -80,7 +80,7 @@ test 2
 </div>
 
 <ul> 
-  <li><strong><u>Advisors:</strong></u> <a href="http://biolisys.cut.ac.cy/employees/dr-konstantinos-kapnisis-2/">Konstantinos Kapnisis (PhD)</a>, <a href="https://www.cut.ac.cy/faculties/gem/est/staff/%CE%94%CF%81.+%CE%A0%CE%B1%CF%8D%CE%BB%CE%BF%CF%82+%CE%A3.+%CE%A3%CF%84%CE%B5%CF%86%CE%AC%CE%BD%CE%BF%CF%85+/?languageId=1">Pavlos S. Stephanou (PhD)</a>, <a href="[http://biolisys.cut.ac.cy/employees/dr-konstantinos-kapnisis-2/](http://biolisys.cut.ac.cy/employees/prof-andreas-anayiotos-2/)">Andreas Anayiotos (PhD)</a> </li>
+  <li><strong><u>Advisors:</strong></u> <a href="http://biolisys.cut.ac.cy/employees/dr-konstantinos-kapnisis-2/">Konstantinos Kapnisis (PhD)</a>, <a href="https://www.cut.ac.cy/faculties/gem/est/staff/%CE%94%CF%81.+%CE%A0%CE%B1%CF%8D%CE%BB%CE%BF%CF%82+%CE%A3.+%CE%A3%CF%84%CE%B5%CF%86%CE%AC%CE%BD%CE%BF%CF%85+/?languageId=1">Pavlos S. Stephanou (PhD)</a>, <a href="http://biolisys.cut.ac.cy/employees/prof-andreas-anayiotos-2/">Andreas Anayiotos (PhD)</a> </li>
 </ul>
 
 <ul> 
