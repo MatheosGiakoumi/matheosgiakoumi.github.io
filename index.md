@@ -88,22 +88,21 @@ test
 ---
 
 <a name="thermodyn"></a>
-<h2>Material Thermodynamics Laboratory - Cyprus University of Technology (CUT)</h2>
+<h2>Material Thermodynamics Laboratory - Cyprus University of Technology <a href="https://www.cut.ac.cy/faculties/fet/mem/staff/dep/nicos.angastiniotis/?languageId=1" target="_blank"></h2>
 
 <div style="text-align: justify;">
 
 <ul>
-    <li><strong><u><a href="http://biolisys.cut.ac.cy/research/projects/active-projects/nitoxilico/">"NITOXILICO" project:</a></u></strong> (POST-DOC/0916/0237), funded by the Cyprus Research and Innovation Foundation.
-        <ul>
-            <li><strong>Granted:</strong> €160,000</li>
-            <li><strong>Achievement:</strong> Contributor to patent <a href="https://ktisis.cut.ac.cy/handle/20.500.14279/29213">(PCT/EP2022/064468)</a></li>
-        </ul>
+    <li><strong><u>Thermodynamic Control of Reactive Spontaneous Systems:</u></strong> In collaboration with my undergraduate thesis advisor, Dr. Nicos Angastiniotis, we delved into the fundamentals of materials thermodynamics. Through theoretical groundwork, MATLAB simulation studies, and hands-on experimental work, we aimed to regulate the equilibrium state of chemical reactions. Our approach focuses on adjusting the rate of change of auxiliary functions as reactions evolve. Specifically, we control the rate of change of chemical work in relation to the invoked shifts in thermal and configurational entropy by adjusting the reaction's independent variables. Before the experimental work, we simulate the attainment of the desired equilibrium state using tailor-made in-house algorithms. Our objective is the synthesis of bulk amorphous tungsten nanostructures to be used as templates for the fabrication of tungsten carbide and oxides, for industrial applications..
     </li>
-    <li><strong><u>Parameterization & Optimization of Predictive Physiological Based Toxicokinetic (PBTK) Models:</u></strong> We pioneered a predictive compartmental PBTK model to assess Nickel leaching from cardiovascular devices. We conducted in-house animal experiments, integrating the data into a time-variant system of ODEs. The system was framed within a multi-objective optimization problem, aiming to balance various physiological and device-specific parameters across the compartments (organs). Inherent to such models, data limitations and measurement uncertainties introduced a high degree of non-smoothness to the model’s objective function. Τo address this, we employed global optimization algorithms and stochastic analysis. This work resulted in three publications (see <a href="#pubs">(1)</a>, <a href="#pubs">(3)</a> & <a href="#pubs">(5)</a>). We are now expanding our research to simulate the interactions in the peri-implant environment using PDEs. The current model offers valuable insights to stent manufacturers about device leachability, aiding in risk assessment and minimizing the need for additional animal testing. We are in the process of developing a platform to offer this service, with plans for monetization.</li>
+    <li><strong><u>Advisors:</u></strong><a href="https://www.cut.ac.cy/faculties/fet/mem/staff/dep/nicos.angastiniotis/?languageId=1" target="_blank"> Nicos Angastiniotis (PhD)</a>
+    </li>
+    <li><strong><u>Contract:</u></strong> July 2021 - Now 
+    </li>  
 </ul>
 
 </div>
-
+<br>
 <img src="images/biolisys.png" alt="Link">
 
 ---
