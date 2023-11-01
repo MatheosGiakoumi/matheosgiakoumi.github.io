@@ -64,7 +64,8 @@ Contributor to USPTO provisional patent –Application Number: US 63/193,947
 
 <a name="biolisys"></a>
 <h2>Biomechanics and Living Systems Analysis - Cyprus University of Technology</h2>
-<a href="http://biolisys.cut.ac.cy" target="_blank">Link to the Website</a>
+<a href="http://biolisys.cut.ac.cy" target="_blank">Link to Website</a>
+
 <div style="text-align: justify;">
 
 <ul>
@@ -89,7 +90,9 @@ Contributor to USPTO provisional patent –Application Number: US 63/193,947
 ---
 
 <a name="thermodyn"></a>
-<h2>Material Thermodynamics Laboratory - Cyprus University of Technology <a href="https://www.cut.ac.cy/faculties/fet/mem/staff/dep/nicos.angastiniotis/?languageId=1" target="_blank"></h2>
+<h2>Material Thermodynamics Laboratory - Cyprus University of Technology</h2>
+<a href="https://www.cut.ac.cy/faculties/fet/mem/staff/dep/nicos.angastiniotis/?languageId=1" target="_blank">Link to Website</a>
+
 
 <div style="text-align: justify;">
 
