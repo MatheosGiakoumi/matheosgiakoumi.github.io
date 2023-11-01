@@ -24,7 +24,6 @@
 - [ Material Thermodynamics Laboratory - CUT ](#thermodyn)<br>
 - [ Device Technology & Chemical Physics Lab - CUT ](#devicetech)<br>
 - [ Research Unit for Nanostructured Materials Science - CUT ](#nano)<br>
-- [ Tutor of Mathematics ](#maths)<br>
 
 ---
 
@@ -53,8 +52,7 @@ Contributor to USPTO provisional patent –Application Number: US 63/193,947
 ## Biomechanics and Living Systems Analysis - Cyprus University of Technology (CUT)
 [Link to the website](http://biolisys.cut.ac.cy/)
 <br>
-["NITOXILICO" project](http://biolisys.cut.ac.cy/research/projects/active-projects/nitoxilico/)
-"NITOXILICO"<br>
+[<b><u>"NITOXILICO" project:</u></b>](http://biolisys.cut.ac.cy/research/projects/active-projects/nitoxilico/)
 <br>
 Toxicokinetic Modelling – Model Parameterization and Optimization of ordinary differential 
 equations with deterministic and stochastic techniques, using iterative methods and global 
