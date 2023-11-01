@@ -93,11 +93,10 @@ Contributor to USPTO provisional patent –Application Number: US 63/193,947
 <h2>Material Thermodynamics Laboratory - Cyprus University of Technology</h2>
 <a href="https://www.cut.ac.cy/faculties/fet/mem/staff/dep/nicos.angastiniotis/?languageId=1" target="_blank">Link to Website</a>
 
-
 <div style="text-align: justify;">
 
 <ul>
-    <li><strong><u>Thermodynamic Control of Reactive Spontaneous Systems:</u></strong> In collaboration with my undergraduate thesis advisor, Dr. Nicos Angastiniotis, we delved into the fundamentals of materials thermodynamics. Through theoretical groundwork, MATLAB simulation studies, and hands-on experimental work, we aimed to regulate the equilibrium state of chemical reactions. Our approach focuses on adjusting the rate of change of auxiliary functions as reactions evolve. Specifically, we control the rate of change of chemical work in relation to the invoked shifts in thermal and configurational entropy by adjusting the reaction's independent variables. Before the experimental work, we simulate the attainment of the desired equilibrium state using tailor-made in-house algorithms. Our objective is the synthesis of bulk amorphous tungsten nanostructures to be used as templates for the fabrication of tungsten carbide and oxides, for industrial applications..
+    <li><strong><u>Thermodynamic Control of Reactive Spontaneous Systems:</u></strong> In collaboration with my undergraduate thesis advisor, Dr. Nicos Angastiniotis, we delved into the fundamentals of materials thermodynamics. Through theoretical groundwork, MATLAB simulation studies, and hands-on experimental work, we aimed to regulate the equilibrium state of chemical reactions. Our approach focuses on adjusting the rate of change of auxiliary functions as reactions evolve. Specifically, we control the rate of change of chemical work in relation to the invoked shifts in thermal and configurational entropy by adjusting the reaction's independent variables. Before the experimental work, we simulate the attainment of the desired equilibrium state using tailor-made in-house algorithms. Our objective is the synthesis of bulk amorphous tungsten nanostructures to be used as templates for the fabrication of tungsten carbide and oxides, for industrial applications.
     </li>
     <li><strong><u>Advisors:</u></strong><a href="https://www.cut.ac.cy/faculties/fet/mem/staff/dep/nicos.angastiniotis/?languageId=1" target="_blank"> Nicos Angastiniotis (PhD)</a>
     </li>
@@ -107,58 +106,49 @@ Contributor to USPTO provisional patent –Application Number: US 63/193,947
 
 </div>
 <br>
-<img src="images/biolisys.png" alt="Link">
+<img src="images/thermo.png" alt="Link">
 
 ---
 
 <a name="devicetech"></a>
-<h2>Biomechanics and Living Systems Analysis - Cyprus University of Technology (CUT)</h2>
+<h2>Device Technology & Chemical Physics Lab - Cyprus University of Technology</h2>
+<a href="www.devtechcp.eu" target="_blank">Link to Website</a>
 
 <div style="text-align: justify;">
 
 <ul>
-    <li><strong><u><a href="http://biolisys.cut.ac.cy/research/projects/active-projects/nitoxilico/" target="_blank">"NITOXILICO" project:</a></u></strong> (POST-DOC/0916/0237), funded by the Cyprus Research and Innovation Foundation.
-        <ul>
-            <li><strong>Granted:</strong> €160,000</li>
-            <li><strong>Achievement:</strong> Contributor to patent <a href="https://ktisis.cut.ac.cy/handle/20.500.14279/29213" target="_blank">(PCT/EP2022/064468)</a></li>
-        </ul>
+    <li><strong><u>Characterization and Fabrication of Organic Nanomaterials & Electronic Devices:</u></strong> Experimental work was conducted centered on the dichroism properties of the oligomer CBP (4,4′-Bis(N-carbazolyl)-1,1′-biphenyl), structured around the materials science tetrahedron. <strong>Processing</strong>: I employed spin coating to deposit CBP into thin films. By varying spin coating speeds and applying thermal annealing, I influenced the film's microstructure. <strong>Structure</strong>: Post-deposition, I used optical microscopy to examine the microstructure of the films, gaining insights into their formation and arrangement. <strong>Properties</strong>: I conducted UV-Vis measurements, incorporating a polarizer to delve into the material's dichroism, a result of observed anisotropy in the structure. This allowed me to generate spectra for the films under different processing conditions. <strong>Performance</strong>: While I didn't directly test the performance of devices fabricated with CBP, I have experience fabricating and measuring the performance of devices using various organic materials like ITO/PEDOT:PSS and P3HT:PCBM. These devices, including Organic Photovoltaics (OPVs) and Organic Light Emitting Diodes (OLEDs), were created using various deposition techniques such as doctor blade, inkjet printing, and sputtering. I also employed further structural characterization tools like the profilometer and performance assessment methods like solar simulators.
     </li>
-    <li><strong><u>Parameterization & Optimization of Predictive Physiological Based Toxicokinetic (PBTK) Models:</u></strong> We pioneered a predictive compartmental PBTK model to assess Nickel leaching from cardiovascular devices. We conducted in-house animal experiments, integrating the data into a time-variant system of ODEs. The system was framed within a multi-objective optimization problem, aiming to balance various physiological and device-specific parameters across the compartments (organs). Inherent to such models, data limitations and measurement uncertainties introduced a high degree of non-smoothness to the model’s objective function. Τo address this, we employed global optimization algorithms and stochastic analysis. This work resulted in three publications (see <a href="#pubs">(1)</a>, <a href="#pubs">(3)</a> & <a href="#pubs">(5)</a>). We are now expanding our research to simulate the interactions in the peri-implant environment using PDEs. The current model offers valuable insights to stent manufacturers about device leachability, aiding in risk assessment and minimizing the need for additional animal testing. We are in the process of developing a platform to offer this service, with plans for monetization.
+    <li><strong><u>Advisors:</u></strong><a href="https://www.cut.ac.cy/faculties/fet/mem/staff/dep/p.keivanidis/?languageId=1" target="_blank"> Panayiotis E. Keivanidis (PhD)</a>
     </li>
-    <li><strong><u>Advisors:</u></strong><a href="http://biolisys.cut.ac.cy/employees/dr-konstantinos-kapnisis-2/" target="_blank">Konstantinos Kapnisis (PhD)</a>, <a href="https://www.cut.ac.cy/faculties/gem/est/staff/%CE%94%CF%81.+%CE%A0%CE%B1%CF%8D%CE%BB%CE%BF%CF%82+%CE%A3.+%CE%A3%CF%84%CE%B5%CF%86%CE%AC%CE%BD%CE%BF%CF%85+/?languageId=1" target="_blank">Pavlos S. Stephanou (PhD)</a>, <a href="http://biolisys.cut.ac.cy/employees/prof-andreas-anayiotos-2/" target="_blank">Andreas Anayiotos (PhD)</a>
-    </li>
-    <li><strong><u>Contract:</u></strong> July 2020 - Now 
+    <li><strong><u>Contract:</u></strong> September 2019 - December 2019 
     </li>  
 </ul>
 
 </div>
 <br>
-<img src="images/biolisys.png" alt="Link">
-
-</div>
-
-<img src="images/biolisys.png" alt="Link">
+<img src="images/devtech.png" alt="Link">
 
 ---
 
 <a name="nano"></a>
-<h2>Biomechanics and Living Systems Analysis - Cyprus University of Technology (CUT)</h2>
+<h2>Research Unit for Nanostructured Material Science - Cyprus University of Technology</h2>
+<a href="https://www.cut.ac.cy/faculties/fet/mem/research/research-units-and-laboratories/runms/?languageId=1" target="_blank">Link to Website</a>
 
 <div style="text-align: justify;">
 
 <ul>
-    <li><strong><u><a href="http://biolisys.cut.ac.cy/research/projects/active-projects/nitoxilico/">"NITOXILICO" project:</a></u></strong> (POST-DOC/0916/0237), funded by the Cyprus Research and Innovation Foundation.
-        <ul>
-            <li><strong>Granted:</strong> €160,000</li>
-            <li><strong>Achievement:</strong> Contributor to patent <a href="https://ktisis.cut.ac.cy/handle/20.500.14279/29213">(PCT/EP2022/064468)</a></li>
-        </ul>
+    <li><strong><u>Fabrication & Characterization of Supercapacitors:</u></strong> I delved into supercapacitors' principles, highlighting the capabilities derived from activated carbon's surface area and the Helmholtz electric double layer's thickness. Using materials like aluminum foil, activated carbon from water filters, glue, and saltwater, I fabricated various configurations of home-made supercapacitors, experimenting with carbon grinding durations, salt solutions, and glue quantities and I finally examined the nanostructure of selected electrodes through Scanning Electrode Microscopy. Concurrently, I engaged in X-ray Powder Diffraction (XRD) studies, practicing with Reference Intensity Ratio (RIR) quantitative phase analysis and Match! Software, to further explore advanced electrode configurations via techniques like Chemical Vapor Deposition (CVD).
     </li>
-    <li><strong><u>Parameterization & Optimization of Predictive Physiological Based Toxicokinetic (PBTK) Models:</u></strong> We pioneered a predictive compartmental PBTK model to assess Nickel leaching from cardiovascular devices. We conducted in-house animal experiments, integrating the data into a time-variant system of ODEs. The system was framed within a multi-objective optimization problem, aiming to balance various physiological and device-specific parameters across the compartments (organs). Inherent to such models, data limitations and measurement uncertainties introduced a high degree of non-smoothness to the model’s objective function. Τo address this, we employed global optimization algorithms and stochastic analysis. This work resulted in three publications (see <a href="#pubs">(1)</a>, <a href="#pubs">(3)</a> & <a href="#pubs">(5)</a>). We are now expanding our research to simulate the interactions in the peri-implant environment using PDEs. The current model offers valuable insights to stent manufacturers about device leachability, aiding in risk assessment and minimizing the need for additional animal testing. We are in the process of developing a platform to offer this service, with plans for monetization.</li>
+    <li><strong><u>Advisors:</u></strong><a href="https://www.cut.ac.cy/faculties/fet/mem/staff/l.koutsokeras/?languageId=1" target="_blank"> Loukas Koutsokeras (PhD)</a>, <a href="https://www.cut.ac.cy/faculties/fet/mem/staff/l.koutsokeras/?languageId=1" target="_blank"> Georgios Constantinides (PhD)</a>
+    </li>
+    <li><strong><u>Contract:</u></strong> July 2018 - August 2018 
+    </li>  
 </ul>
 
 </div>
-
-<img src="images/biolisys.png" alt="Link">
+<br>
+<img src="images/nano.png" alt="Link">
 
 ---
 
