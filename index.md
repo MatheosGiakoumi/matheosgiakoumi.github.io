@@ -56,7 +56,7 @@ Contributor to USPTO provisional patent –Application Number: US 63/193,947
 <a name="gree"></a>
 ## Biomechanics and Living Systems Analysis - Cyprus University of Technology (CUT)
 <br>
-test 4
+test 
 <br>
 
 ---
@@ -82,7 +82,7 @@ test 4
 </ul>
 
 </div>
-
+<br>
 <img src="images/biolisys.png" alt="Link">
 
 ---
