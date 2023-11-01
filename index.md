@@ -62,8 +62,8 @@ test
 ---
 
 <a name="biolisys"></a>
-<h2>Biomechanics and Living Systems Analysis - Cyprus University of Technology <a href="http://biolisys.cut.ac.cy/" target="_blank"></h2>
-
+<h2>Biomechanics and Living Systems Analysis - Cyprus University of Technology</h2>
+<a href="http://biolisys.cut.ac.cy" target="_blank">Link to the Website</a>
 <div style="text-align: justify;">
 
 <ul>
