@@ -80,7 +80,7 @@ test 2
 </div>
 
 <ul> 
-  <li><strong><u>Contract:</strong></u> July 20 - Now </li>
+  <li><strong><u>Contract:</strong></u> July 2020 - Now </li>
 </ul>
 
 <img src="images/biolisys.png" alt="Link">
