@@ -9,7 +9,7 @@
 ---
 
 ## About Me
-- [ MBA in Energy and Environmental Management & Economics ](#master)<br>
+- [ MBas in Energy and Environmental Management & Economics ](#master)<br>
 - [ MEng in Natural Gas Engineering ](#meng)<br>
 - [ BS in Mechanical Engineering and Materials Science ](#bs)<br>
 - [ Publications ](#pubs)<br>
