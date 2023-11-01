@@ -4,8 +4,17 @@
 
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=_HGQZlK08gQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_HGQZlK08gQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
   
+---
+
+## Education
+- [ BSc/BEng Mechanical Engineering ](#beng)<br>
+- [ MSc Natural Gas in Energy Transition ](#msc)<br>
+- [ Master in Energy, Environmental Management & Economics ](#master)<br>
+- [ Further Interests ](#further)<br>
+- [ Contact ](#contact)<br>
+
 ---
 
 ## Practice Areas
@@ -14,15 +23,6 @@
 - [ Device Technology and Chemical Physics - CUT ](#devicetech)<br>
 - [ Nanostructured Material Science - CUT ](#nano)<br>
 - [ Tutor of Mathematics ](#maths)<br>
-
----
-
-## About Me
-- [ BSc/BEng Mechanical Engineering ](#beng)<br>
-- [ MSc Natural Gas in Energy Transition ](#msc)<br>
-- [ Master in Energy, Environmental Management & Economics ](#master)<br>
-- [ Further Interests ](#further)<br>
-- [ Contact ](#contact)<br>
 
 ---
 <a name="biolysis"></a>
