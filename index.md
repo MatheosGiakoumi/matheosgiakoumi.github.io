@@ -62,7 +62,7 @@ Contributor to USPTO provisional patent –Application Number: US 63/193,947
 <b><u></u></b>
 <br>
 <br><br>
-![ Link ](images/Biolisys.png)
+![ Link ](images/biolisys.png)
 <br>
 ---
 <a name="biolisys"></a>
