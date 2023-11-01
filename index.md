@@ -9,6 +9,7 @@
 ---
 
 ## About Me
+test
 - [ MBA in Energy and Environmental Management & Economics ](#master)<br>
 - [ MEng in Natural Gas Engineering ](#meng)<br>
 - [ BS in Mechanical Engineering and Materials Science ](#bs)<br>
@@ -56,7 +57,7 @@ Contributor to USPTO provisional patent –Application Number: US 63/193,947
 <a name="gree"></a>
 ## Biomechanics and Living Systems Analysis - Cyprus University of Technology (CUT)
 <br>
-test 
+
 <br>
 
 ---
