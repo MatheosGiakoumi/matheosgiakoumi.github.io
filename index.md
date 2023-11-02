@@ -41,7 +41,7 @@
 <br><br>
 
 <a name="master"></a>
-<h2>MBA in Energy and Environmental Management and EConomics - MEDEA (93/10)</h2>
+<h2>MBA in Energy and Environmental Management and Economics - MEDEA (93/100)</h2>
 <a href="https://www.eni.com/en-IT/careers/medea-masters.html" target="_blank">Link to Website</a>
 
 <div style="text-align: justify;">
@@ -52,7 +52,7 @@
         <li> Honorary distinction for the highest grade among the program (Managing Technical Assets).</li>
         <li> Luciano Novelli Award: Awarded for the best dissertation in the program.</li>
     </ul>    
-    <li><strong><u>Notable Courses:</u></strong> Quantitative Methods for Management (97/100), Economics (97/100), Energy Transition and Climate Change Economics (94/100), Energy Economics and Policy (95/100), Corporate Finance (100/100), Strategic Management (99/100), Renewables and economics of electricity (96/100), Field Development Strategy (100/100),
+    <li><strong><u>Notable Courses:</u></strong> Quantitative Methods for Management (97/100), Economics (97/100), Energy Transition and Climate Change Economics (94/100), Energy Economics and Policy (95/100), Corporate Finance (100/100), Strategic Management (99/100), Renewables and Economics of Electricity (96/100), Field Development Strategy (100/100),
     </li>
     <li><strong><u>Scolarship:</u></strong> The program was fully funded (Tuition, Stipend & Living Expenses) by <a href="https://www.eni.com/en-IT/home.html" target="_blank">ENI S.p.A</a>  <strong>(Awarded: €39,000)</strong>. 
     </li>
