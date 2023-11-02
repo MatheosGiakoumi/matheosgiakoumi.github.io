@@ -220,6 +220,39 @@ test 1
 </div>
 <br>
 
+<a name="Tutor"></a>
+<h2>University Tutor, Center of Student Development - Cyprus University of Technology</h2>
+<a href="https://www.cut.ac.cy/students/advisory-and-counseling/?languageId=1" target="_blank">Link to Website</a>
+
+<div style="text-align: justify;">
+
+<ul>
+    <li>Tutor for the following undergraduate courses: Heat and Mass Transfer (MEM 323), Control Systems (MEM 322), Dynamic Systems (MEM 324), Stress Analysis (MEM 414), Industrial Methods (MEM 421), HVAC (MEM 423), Energy Resources (MEM 426), 
+    </li>
+    <br>
+    <li> September 2018 - December 2022
+    </li>  
+</ul>
+
+</div>
+<br>
+
+<a name="math"></a>
+<h2>Mathematics Tutor for High School Students</h2>
+
+<div style="text-align: justify;">
+
+<ul>
+    <li>•	Preparing students for the National examination of mathematics.
+    </li>
+    <br>
+    <li> September 2019 - June 2022
+    </li>  
+</ul>
+
+</div>
+<br>
+
 ---
 
 <a name="bs"></a>
