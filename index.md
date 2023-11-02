@@ -366,7 +366,6 @@ Pending details
     </li>
     <li><strong>Languages:</strong> Greek  (Native), English (Professional), Italian (Intermediate)
     </li>
-    <br>
     <li> <strong>Hobbies & Interests:</strong> Basketball, Full Stack Development, Web3 DApps (developing and deploying Smart Contracts on the Ethereum blockchain), Geopolitics of Energy.
     </li>  
 </ul>
