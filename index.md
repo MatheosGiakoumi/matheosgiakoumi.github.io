@@ -65,7 +65,7 @@
 
 </div>
 <br>
-<img src="images/master.png">
+<img src="images/master.jpg">
 
 <a name="meng"></a>
 <h2>MEng Natural Gas Engineering (9.57/10 - Distinction)</h2>
