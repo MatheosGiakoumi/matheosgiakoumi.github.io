@@ -324,7 +324,7 @@ Pending details
 </div>
 <br>
 
-<a name="Tutor"></a>
+<a name="tutor"></a>
 <h2>University Tutor, Center of Student Development - Cyprus University of Technology</h2>
 <a href="https://www.cut.ac.cy/students/advisory-and-counseling/?languageId=1" target="_blank">Link to Website</a>
 <br>
