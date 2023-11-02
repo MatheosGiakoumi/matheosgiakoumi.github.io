@@ -59,6 +59,11 @@ test 1
     <li>September 2023 - Now 
     </li>  
 </ul>
+
+</div>
+<br>
+<img src="images/biolisys.png">
+
 ---
 
 <a name="gree"></a>
@@ -89,6 +94,7 @@ test 1
 </div>
 <br>
 <img src="images/biolisys.png">
+
 ---
 
 <a name="biolisys"></a>
