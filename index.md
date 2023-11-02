@@ -9,7 +9,7 @@
 ---
 
 ## About Me
-test
+test 1
 - [ MBA in Energy and Environmental Management & Economics ](#master)<br>
 - [ MEng in Natural Gas Engineering ](#meng)<br>
 - [ BS in Mechanical Engineering and Materials Science ](#bs)<br>
@@ -81,7 +81,7 @@ Contributor to USPTO provisional patent –Application Number: US 63/193,947
     <li><strong><u>Advisors:</u></strong><a href="http://biolisys.cut.ac.cy/employees/dr-konstantinos-kapnisis-2/" target="_blank"> Konstantinos Kapnisis (PhD)</a>, <a href="https://www.cut.ac.cy/faculties/gem/est/staff/%CE%94%CF%81.+%CE%A0%CE%B1%CF%8D%CE%BB%CE%BF%CF%82+%CE%A3.+%CE%A3%CF%84%CE%B5%CF%86%CE%AC%CE%BD%CE%BF%CF%85+/?languageId=1" target="_blank">Pavlos S. Stephanou (PhD)</a>, <a href="http://biolisys.cut.ac.cy/employees/prof-andreas-anayiotos-2/" target="_blank">Andreas Anayiotos (PhD)</a>
     </li>
     <br>
-    <li><strong><u>Contract:</u></strong> July 2020 - Now 
+    <li>July 2020 - Now 
     </li>  
 </ul>
 
@@ -100,9 +100,11 @@ Contributor to USPTO provisional patent –Application Number: US 63/193,947
 <ul>
     <li><strong><u>Thermodynamic Control of Reactive Spontaneous Systems:</u></strong> In collaboration with my undergraduate thesis advisor, Dr. Nicos Angastiniotis, we delved into the fundamentals of materials thermodynamics. Through theoretical groundwork, MATLAB simulation studies, and hands-on experimental work, we aimed to regulate the equilibrium state of chemical reactions. Our approach focuses on adjusting the rate of change of auxiliary functions as reactions evolve. Specifically, we control the rate of change of chemical work in relation to the invoked shifts in thermal and configurational entropy by adjusting the reaction's independent variables. Before the experimental work, we simulate the attainment of the desired equilibrium state using tailor-made in-house algorithms. Our objective is the synthesis of bulk amorphous tungsten nanostructures to be used as templates for the fabrication of tungsten carbide and oxides, for industrial applications.
     </li>
+    <br>
     <li><strong><u>Advisors:</u></strong><a href="https://www.cut.ac.cy/faculties/fet/mem/staff/dep/nicos.angastiniotis/?languageId=1" target="_blank"> Nicos Angastiniotis (PhD)</a>
     </li>
-    <li><strong><u>Contract:</u></strong> July 2021 - Now 
+    <br>
+    <li>July 2021 - Now 
     </li>  
 </ul>
 
@@ -123,7 +125,8 @@ Contributor to USPTO provisional patent –Application Number: US 63/193,947
     </li>
     <li><strong><u>Advisors:</u></strong><a href="https://www.cut.ac.cy/faculties/fet/mem/staff/dep/p.keivanidis/?languageId=1" target="_blank"> Panayiotis E. Keivanidis (PhD)</a>
     </li>
-    <li><strong><u>Contract:</u></strong> September 2019 - December 2019 
+    <br>
+    <li>September 2019 - December 2019 
     </li>  
 </ul>
 
@@ -142,9 +145,11 @@ Contributor to USPTO provisional patent –Application Number: US 63/193,947
 <ul>
     <li><strong><u>Fabrication & Characterization of Supercapacitors:</u></strong> I delved into supercapacitors' principles, highlighting the capabilities derived from activated carbon's surface area and the Helmholtz electric double layer's thickness. Using materials like aluminum foil, activated carbon from water filters, glue, and saltwater, I fabricated various configurations of home-made supercapacitors, experimenting with carbon grinding durations, salt solutions, and glue quantities and I finally examined the nanostructure of selected electrodes through Scanning Electrode Microscopy. Concurrently, I engaged in X-ray Powder Diffraction (XRD) studies, practicing with Reference Intensity Ratio (RIR) quantitative phase analysis and Match! Software, to further explore advanced electrode configurations via techniques like Chemical Vapor Deposition (CVD).
     </li>
+    <br>
     <li><strong><u>Advisors:</u></strong><a href="https://www.cut.ac.cy/faculties/fet/mem/staff/l.koutsokeras/?languageId=1" target="_blank"> Loukas Koutsokeras (PhD)</a>, <a href="https://www.cut.ac.cy/faculties/fet/mem/staff/l.koutsokeras/?languageId=1" target="_blank"> Georgios Constantinides (PhD)</a>
     </li>
-    <li><strong><u>Contract:</u></strong> July 2018 - August 2018 
+    <br>
+    <li> July 2018 - August 2018 
     </li>  
 </ul>
 
