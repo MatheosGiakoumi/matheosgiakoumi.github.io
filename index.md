@@ -59,7 +59,7 @@
     <li><strong><u>Dissertation Topic:</u></strong> “Smart Contracts in Well Operations” (Novelli Award) <br>
     In a group project supervised by the Well Operations department at ENI S.p.A., we aimed to assess if Smart Contracts could optimize the operating working capital in offshore drilling rig operations. An extensive literature review was conducted, focusing on blockchain technology, particularly the Ethereum blockchain. Our exploration covered the applications and industry trends of blockchain technology. We gained hands-on experience deploying and coding real smart contracts on the Ethereum Blockchain, specifically for contract agreements between operators and contractors in drilling operations. Additionally, and developed stochastic business and economic models to evaluate the potential impact of this technology on the operating working capital. A comprehensive thesis report was compiled, and we presented our findings, which included a live demonstration of deploying a Decentralized Application — a lottery for the audience (with a pineapple as the prize) on the Ethereum Blockchain (<a href="https://sepolia.etherscan.io/" target="_blank">Sepolia TestNet</a>). This demonstration effectively showcased the practical use of the technology (the transaction of the winning entry can be viewed <a href="https://sepolia.etherscan.io/tx/0xd89b6647e13959242dbdf696936509ca4c366e46341131e0fbbde87aa963d07f" target="_blank"> here</a>) and provided an introduction to its application in the Oil and Gas Industry. Our project was guided by industry professionals including <a href="https://it.linkedin.com/in/carla-sanasi-078211245"> Carla Sanasi</a>, <a href="" target="_blank"> Marco Amicosante</a>, <a href="https://it.linkedin.com/in/uperna" target="_blank"> Umberto Pena</a>. 
 <br>
-Group Members: <a href="https://it.linkedin.com/in/giacomo-pernazza-b73a4a11b"> Giacomo Pernazza</a>, <a href="https://it.linkedin.com/in/lorenza-bifano-a56551199"> Lorenza Bifano</a>, <a href="https://ly.linkedin.com/in/tarek-zaghonni-62b93b1b4"> Tarek Zaghonni</a>
+Group Members: <a href="https://it.linkedin.com/in/lorenza-bifano-a56551199"> Lorenza Bifano</a>, <a href="https://it.linkedin.com/in/giacomo-pernazza-b73a4a11b"> Giacomo Pernazza</a>, <a href="https://ly.linkedin.com/in/tarek-zaghonni-62b93b1b4"> Tarek Zaghonni</a>
     </li>
     <li>2022 - 2023 
     </li>  
@@ -119,7 +119,6 @@ Group Members: <a href="https://it.linkedin.com/in/giacomo-pernazza-b73a4a11b"> 
 <a name="pubs"></a>
 <h1>PUBLICATIONS (PEER-REVIEWED)</h1>
 <br>
-<div style="text-align: justify;">
 
 <ul><strong></strong>
     <li>(1)<strong> Giakoumi, M.</strong>, Stephanou, PS., Kapnisis, KK., Anayiotos, A. “On the Development of Physiologically Based Toxicokinetic Models (PBTK) for Cardiovascular Implants”. <a href="https://www.sciencedirect.com/journal/regulatory-toxicology-and-pharmacology" target="_blank"> Regulatory Toxicology and Pharmacology</a>. 2023 Sep 1;144:105489. <a href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwjA6YrgtvGBAxUPQ_EDHV63DV4QFnoECBUQAQ&url=https%3A%2F%2Fwww.sciencedirect.com%2Fscience%2Farticle%2Fabs%2Fpii%2FS0273230023001575&usg=AOvVaw2gpEDNYd8DaoGd9F8zNdsu&opi=89978449" target="_blank"> DOI: 10.1016/j.yrtph.2023.105489</a>. PMID: 37659713.
@@ -151,7 +150,6 @@ Group Members: <a href="https://it.linkedin.com/in/giacomo-pernazza-b73a4a11b"> 
     <br>
 </ul>
 
-</div>
 <br>
 
 
