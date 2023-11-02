@@ -56,9 +56,9 @@ Pending details
 <a href="https://websites.ucy.ac.cy/petcy/en/" target="_blank">Link to Website</a>
 
 <div style="text-align: justify;">
-<I><strong>Department of Civil and Environmental Engineering / Faculty of Engineering / University of Cyprus
+<I><strong>Department of Civil and Environmental Engineering / Faculty of Engineering / University of Cyprus</strong>
 <ul>
-    <li><strong><u>Dissertation Topic:</u></strong> “The Frigg Field Development Plan (FDP) revisited”. For more details check <a name="gree">here</a>.
+    <li><strong><u>Dissertation Topic:</u></strong> “The Frigg Field Development Plan (FDP) revisited”. For more details check <a href="#gree">here</a>.
     </li>
     <li><strong><u>Notable Courses:</u></strong> Petroleum Geomechanics (10/10), Reservoir Engineering (10/10), Formation Evaluation (10/10), Well and Subsea Completion and Production (10/10).
     </li>
