@@ -47,7 +47,7 @@ test 1
 <br><br>
 
 <a name="bs"></a>
-## BSc/BEng Mechanical Engineering
+## Bachelor Of Science in Mechanical Engineering and Materials Science - Cyprus University of technology
 [Link to the website](http://)
 <br>
 Department of Mechanical Engineering and Materials Science and Engineering / Faculty of Engineering 
@@ -55,7 +55,6 @@ and Technology / Cyprus University of Technology<br>
 <br>
 <b>GPA:</b> 8.975/10 – 1st Hons.<br>
 <br><br>
-![ Link ](images/logo.png)
 <br>
 
 <a name="meng"></a>
@@ -66,7 +65,6 @@ Department of Civil and Environmental Engineering / Faculty of Engineering / Uni
 <br>
 <b>GPA:</b> 9.57/10
 <br><br>
-![ Link ](images/logo.png)
 <br>
 
 <a name="master"></a>
@@ -77,7 +75,7 @@ Department of Economics and Management & ENI Scuola Mattei / University of Pavia
 <br>
 Pending details
 <br><br>
-![ Link ](images/logo.png)
+![ Link ](images/medea.png)
 <br>
 
 
@@ -381,29 +379,6 @@ Pending details
     <li> <strong>Hobbies & Interests:</strong> Basketball, Full Stack Development, Web3 DApps (developing and deploying smart contracts on the Ethereum blockchain), geopolitics of energy.
     </li>  
 </ul>
-
-<a name="pubs"></a>
-## Publications
-[Link to the website](http://)
-<br>
-Coding
-<br><br>
-![ Link ](images/logo.png)
-<br>
-
----
-
-<a name="conf"></a>
-## Further Interests
-[Link to the website](http://)
-<br>
-Coding
-<br><br>
-![ Link ](images/logo.png)
-<br>
-
----
-
 
 ---
 
