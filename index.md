@@ -183,7 +183,7 @@ test 1
 <div style="text-align: justify;">
 
 <ul>
-    <li><strong><u>Fabrication & Characterization of Supercapacitors:</u></strong> I delved into supercapacitors' principles, highlighting the capabilities derived from activated carbon's surface area and the Helmholtz electric double layer's thickness. Using materials like aluminum foil, activated carbon from water filters, glue, and saltwater, I fabricated various configurations of home-made supercapacitors, experimenting with carbon grinding durations, salt solutions, and glue quantities and I finally examined the nanostructure of selected electrodes through Scanning Electrode Microscopy. Concurrently, I engaged in X-ray Powder Diffraction (XRD) studies, practicing with Reference Intensity Ratio (RIR) quantitative phase analysis and Match! Software, to further explore advanced electrode configurations via techniques like Chemical Vapor Deposition (CVD).
+    <li><strong><u>Fabrication & Characterization of Supercapacitors:</u></strong> I delved into supercapacitors' principles, highlighting the capabilities derived from activated carbon's surface area and the Helmholtz electric double layer's thickness. Using materials like aluminum foil, activated carbon from water filters, glue, and saltwater, I fabricated various configurations of home-made supercapacitors, experimenting with carbon grinding durations, salt solutions, and glue quantities and I finally examined the nanostructure of selected electrodes through Scanning Electrode Microscopy. Concurrently, I engaged in X-ray Powder Diffraction (XRD) studies, practicing with Reference Intensity Ratio (RIR) quantitative phase analysis and <a href="https://www.crystalimpact.com/match/" target="_blank">  Match! Software(PhD)</a>, to further explore advanced electrode configurations via techniques like Chemical Vapor Deposition (CVD).
     </li>
     <br>
     <li><strong><u>Advisors:</u></strong><a href="https://www.cut.ac.cy/faculties/fet/mem/staff/l.koutsokeras/?languageId=1" target="_blank"> Loukas Koutsokeras (PhD)</a>, <a href="https://www.cut.ac.cy/faculties/fet/mem/staff/l.koutsokeras/?languageId=1" target="_blank"> Georgios Constantinides (PhD)</a>
@@ -213,7 +213,7 @@ test 1
     <li><strong><u>Instructor of the graduate course Natural Gas Economics (NGE 502):</u></strong> I am instructing this course for international students (Spring 2024). Over five in-person lectures, I will cover: The History of the Oil & Gas Prices, Gas Markets, Fundamental Principles of Development Economics in an Oil and Gas field, Stochastic Project Cashflow, Project Screening and Ranking. The course leads to a project analyzing the economics of a real gas field from an IOC perspective and by using publicly available data. My curriculum draws from sources like <a href="https://link.springer.com/book/10.1007/978-0-85729-268-1" target="_blank"> Bhattacharyya (2011)</a>, <a href="http://www.ir.harambeeuniversity.edu.et/bitstream/handle/123456789/1418/Natural Resource and Environmental Economics Natural Resource and Environmental ... %28 PDFDrive.com %29.pdf?sequence=1&isAllowed=y" target="_blank"> Perman et al. (2011)</a>, <a href="https://shop.elsevier.com/books/hydrocarbon-exploration-and-production/jahn/978-0-444-53236-7" target="_blank"> Jahn et al (2008)</a>, <a href="https://www.mheducation.it/oil-gas-wells-performance-fields-development-production-optimization-and-carbon-management-9788838659157-italy" target="_blank"> De Ghetto (2023)</a>, daily energy news outlets, my industry experience from the Well Operations department at <a href="https://www.eni.com/en-IT/home.html" target="_blank"> Eni S.p.A</a>, and my current role at <a href="https://www.feem.it/en/chi-siamo/persone/matthaios-giakoumi/" target="_blank">Fondazione Eni Enrico Mattei</a>.
     </li>
     <br>
-    <li><strong><u>•	Instructor of the graduate course Natural Gas Production in Energy Transition (NGE 501):</u></strong> I contributed to this course designed to introduce incoming international students to the oil and gas industry. Over the three lectures that I had delivered, I covered: The field life cycle, Petroleum & Gas Agreements and Biddings, An introduction to stochastic modelling and Volumetric Estimations. In collaboration with the lecturer of Petroleum Geology (NGE 511), we co-designed a project for the students on performing stochastic volumetric estimations. My curriculum draws from sources like <a href="https://shop.elsevier.com/books/hydrocarbon-exploration-and-production/jahn/978-0-444-53236-7" target="_blank"> Jahn et al (2008)</a>,<a href="https://link.springer.com/book/10.1007/978-3-030-70163-5" target="_blank">Bentley et al. (2017)</a>, <a href="https://www.mheducation.it/oil-gas-wells-performance-fields-development-production-optimization-and-carbon-management-9788838659157-italy" target="_blank"> De Ghetto (2023)</a>, daily energy news outlets, my industry experience from the Well Operations department at <a href="https://www.eni.com/en-IT/home.html" target="_blank"> Eni S.p.A</a>.
+    <li><strong><u>Instructor of the graduate course Natural Gas Production in Energy Transition (NGE 501):</u></strong> I contributed to this course designed to introduce incoming international students to the oil and gas industry. Over the three lectures that I had delivered, I covered: The field life cycle, Petroleum & Gas Agreements and Biddings, An introduction to stochastic modelling and Volumetric Estimations. In collaboration with the lecturer of Petroleum Geology (NGE 511), we co-designed a project for the students on performing stochastic volumetric estimations. My curriculum draws from sources like <a href="https://shop.elsevier.com/books/hydrocarbon-exploration-and-production/jahn/978-0-444-53236-7" target="_blank"> Jahn et al (2008)</a>,<a href="https://link.springer.com/book/10.1007/978-3-030-70163-5" target="_blank">Bentley et al. (2017)</a>, <a href="https://www.mheducation.it/oil-gas-wells-performance-fields-development-production-optimization-and-carbon-management-9788838659157-italy" target="_blank"> De Ghetto (2023)</a>, daily energy news outlets, my industry experience from the Well Operations department at <a href="https://www.eni.com/en-IT/home.html" target="_blank"> Eni S.p.A</a>.
     </li>
     <br>
     <li> September 2023 - Now 
@@ -226,7 +226,7 @@ test 1
 <a name="Tutor"></a>
 <h2>University Tutor, Center of Student Development - Cyprus University of Technology</h2>
 <a href="https://www.cut.ac.cy/students/advisory-and-counseling/?languageId=1" target="_blank">Link to Website</a>
-
+<br>
 <div style="text-align: justify;">
 
 <ul>
@@ -242,11 +242,11 @@ test 1
 
 <a name="math"></a>
 <h2>Mathematics Tutor for High School Students</h2>
-
+<br>
 <div style="text-align: justify;">
 
 <ul>
-    <li>•	Preparing students for the National examination of mathematics.
+    <li>Preparing students for the National examination of mathematics.
     </li>
     <br>
     <li> September 2019 - June 2022
@@ -255,6 +255,23 @@ test 1
 
 </div>
 <br>
+
+---
+
+<br><br>
+<h1>OTHER SKILLS</h1>
+<br><br>
+
+<a name="further"></a>
+<ul>
+    <li><strong>IT/Software:</strong> <a href="https://www.mathworks.com/" target="_blank">MATLAB & Simulink</a>, <a href="https://soliditylang.org/" target="_blank">Solidity</a>, <a href="https://www.python.org/" target="_blank">Python</a>,<a href="https://isocpp.org/" target="_blank">C++</a>,<a href="https://www.mathworks.com/" target="_blank">Petrel</a>,<a href="https://www.originlab.com/" target="_blank">OriginLab</a>,<a href="https://www.solidworks.com/" target="_blank">Solidworks,</a>, Agorithmic Thinking
+    </li>
+    <li><strong>Languages:</strong> Greek  (Native), English (Professional), Italian (INtermediate)
+    </li>
+    <br>
+    <li> <strong>Hobbies & Interests:</strong> Basketball, Full Stack Development, Web3 DApps (developing and deploying smart contracts on the Ethereum blockchain), geopolitics of energy.
+    </li>  
+</ul>
 
 ---
 
@@ -319,14 +336,6 @@ Coding
 
 ---
 
-<a name="further"></a>
-## Further Interests
-[Link to the website](http://)
-<br>
-Coding
-<br><br>
-![ Link ](images/logo.png)
-<br>
 
 ---
 
