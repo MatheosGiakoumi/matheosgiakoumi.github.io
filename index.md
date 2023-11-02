@@ -77,7 +77,7 @@ Group Members: <a href="https://it.linkedin.com/in/lorenza-bifano-a56551199"> Lo
 <div style="text-align: justify;">
 <I><strong>Department of Civil and Environmental Engineering / Faculty of Engineering / University of Cyprus</strong></strong></I>
 <ul>
-    <li><strong><u>Dissertation Topic:</u></strong> “The Frigg Field Development Plan (FDP) revisited”. For more details check <a href="#gree">here</a>.
+    <li><strong><u>Dissertation Topic:</u></strong> “The Frigg Field Development Plan (FDP) revisited”. For more information click <a href="#gree">here</a>.
     </li>
     <li><strong><u>Notable Courses:</u></strong> Petroleum Geomechanics (10/10), Reservoir Engineering (10/10), Formation Evaluation (10/10), Well and Subsea Completion and Production (10/10).
     </li>
@@ -97,7 +97,7 @@ Group Members: <a href="https://it.linkedin.com/in/lorenza-bifano-a56551199"> Lo
 <div style="text-align: justify;">
 <I><strong>Department of Mechanical Engineering and Materials Science and Engineering / Faculty of Engineering and Technology / Cyprus University of Technology</strong></I>
 <ul>
-    <li><strong><u>Dissertation Topic:</u></strong> “Reactive gas systems with simulated and non-limiting controlled equilibrium”. For more details check <a href="#thermodyn">here</a>.
+    <li><strong><u>Dissertation Topic:</u></strong> “Reactive gas systems with simulated and non-limiting controlled equilibrium”. For more information click <a href="#thermodyn">here</a>.
     </li>
     <li><strong><u>Notable Courses:</u></strong> Programming Principles (10/10), Thermodynamics of Engineering Materials (10/10), Mathematics (Average) (9.625/10), Fluid Mechanics (9.5/10), Stress Analysis (9.5/10), Materials Laboratory (9.0/10), Dynamics of Mechanical Systems (9.0/10), Automatic Control Systems (9.5/10), Quantum Mechanics and Statistical Thermodynamics (9.5/10), Solid State Physics (9.0/10), Building Energy Performance (9.0/10).
     </li>
