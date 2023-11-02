@@ -8,6 +8,10 @@
   
 ---
 
+<h1>Navigation Panel</h1>
+
+---
+
 ## About Me
 test 1
 - [ MBA in Energy and Environmental Management & Economics ](#master)<br>
@@ -18,7 +22,6 @@ test 1
 - [ Further Interests ](#further)<br>
 - [ Contact ](#contact)<br>
 
----
 
 ## Research Experience
 - [ Technologies for the Energy Transition - FEEM ](#feem)<br>
@@ -28,7 +31,6 @@ test 1
 - [ Device Technology & Chemical Physics Lab - CUT ](#devicetech)<br>
 - [ Research Unit for Nanostructured Materials Science - CUT ](#nano)<br>
 
----
 
 ## Teaching Experience
 - [ Instructor - Master on Natural Gas in Energy Transition ](#instr)<br>
@@ -37,6 +39,8 @@ test 1
 
 ---
 
+<h1>RESEARCH EXPERIENCE</h1>
+<br><br>
 <a name="feem"></a>
 <h2>Technologies for the Energy Transition - Fondazione Eni Enrico Mattei</h2>
 <a href="https://www.feem.it/en/ricerca/programmi/technologies-for-the-energy-transition/" target="_blank">Link to Website</a>
@@ -193,27 +197,28 @@ test 1
 <img src="images/nano.png">
 
 ---
+<h1>TEACHING EXPERIENCE</h1>
+<br><br>
 
-<a name="nano"></a>
-<h2>Research Unit for Nanostructured Material Science - Cyprus University of Technology</h2>
-<a href="https://www.cut.ac.cy/faculties/fet/mem/research/research-units-and-laboratories/runms/?languageId=1" target="_blank">Link to Website</a>
+<a name="instr"></a>
+<h2>Instructor, Master on Natural Gas in Energy Transition - University of Cyprus</h2>
+<a href="https://websites.ucy.ac.cy/petcy/en/" target="_blank">Link to Website</a>
 
 <div style="text-align: justify;">
 
 <ul>
-    <li><strong><u>Fabrication & Characterization of Supercapacitors:</u></strong> I delved into supercapacitors' principles, highlighting the capabilities derived from activated carbon's surface area and the Helmholtz electric double layer's thickness. Using materials like aluminum foil, activated carbon from water filters, glue, and saltwater, I fabricated various configurations of home-made supercapacitors, experimenting with carbon grinding durations, salt solutions, and glue quantities and I finally examined the nanostructure of selected electrodes through Scanning Electrode Microscopy. Concurrently, I engaged in X-ray Powder Diffraction (XRD) studies, practicing with Reference Intensity Ratio (RIR) quantitative phase analysis and Match! Software, to further explore advanced electrode configurations via techniques like Chemical Vapor Deposition (CVD).
+    <li><strong><u>Instructor of the graduate course Natural Gas Economics (NGE 502):</u></strong> I am instructing this course for international students (Spring 2024). Over five in-person lectures, I will cover: The History of the Oil & Gas Prices, Gas Markets, Fundamental Principles of Development Economics in an Oil and Gas field, Stochastic Project Cashflow, Project Screening and Ranking. The course leads to a project analyzing the economics of a real gas field from an IOC perspective and by using publicly available data. My curriculum draws from sources like <a href="https://link.springer.com/book/10.1007/978-0-85729-268-1" target="_blank"> Bhattacharyya (2011)</a>, <a href="http://www.ir.harambeeuniversity.edu.et/bitstream/handle/123456789/1418/Natural Resource and Environmental Economics Natural Resource and Environmental ... %28 PDFDrive.com %29.pdf?sequence=1&isAllowed=y" target="_blank"> Perman et al. (2011)</a>, <a href="https://shop.elsevier.com/books/hydrocarbon-exploration-and-production/jahn/978-0-444-53236-7" target="_blank"> Jahn et al (2008)</a>, <a href="https://www.mheducation.it/oil-gas-wells-performance-fields-development-production-optimization-and-carbon-management-9788838659157-italy" target="_blank"> De Ghetto (2023)</a>, daily energy news outlets, my industry experience from the Well Operations department at <a href="https://www.eni.com/en-IT/home.html" target="_blank"> Eni S.p.A/a>, and my current role at <a href="https://www.feem.it/en/chi-siamo/persone/matthaios-giakoumi/" target="_blank">Fondazione Eni Enrico Mattei/a>.
     </li>
     <br>
-    <li><strong><u>Advisors:</u></strong><a href="https://www.cut.ac.cy/faculties/fet/mem/staff/l.koutsokeras/?languageId=1" target="_blank"> Loukas Koutsokeras (PhD)</a>, <a href="https://www.cut.ac.cy/faculties/fet/mem/staff/l.koutsokeras/?languageId=1" target="_blank"> Georgios Constantinides (PhD)</a>
+    <li><strong><u>•	Instructor of the graduate course Natural Gas Production in Energy Transition (NGE 501):</u></strong> I contributed to this course designed to introduce incoming international students to the oil and gas industry. Over the three lectures that I had delivered, I covered: The field life cycle, Petroleum & Gas Agreements and Biddings, An introduction to stochastic modelling and Volumetric Estimations. In collaboration with the lecturer of Petroleum Geology (NGE 511), we co-designed a project for the students on performing stochastic volumetric estimations. My curriculum draws from sources like <a href="https://shop.elsevier.com/books/hydrocarbon-exploration-and-production/jahn/978-0-444-53236-7" target="_blank"> Jahn et al (2008)</a>,<a href="https://link.springer.com/book/10.1007/978-3-030-70163-5" target="_blank">Bentley et al. (2017)/a>, <a href="https://www.mheducation.it/oil-gas-wells-performance-fields-development-production-optimization-and-carbon-management-9788838659157-italy" target="_blank"> De Ghetto (2023)</a>, daily energy news outlets, my industry experience from the Well Operations department at <a href="https://www.eni.com/en-IT/home.html" target="_blank"> Eni S.p.A/a>.
     </li>
     <br>
-    <li> July 2018 - August 2018 
+    <li> September 2023 - Now 
     </li>  
 </ul>
 
 </div>
 <br>
-<img src="images/nano.png">
 
 ---
 
