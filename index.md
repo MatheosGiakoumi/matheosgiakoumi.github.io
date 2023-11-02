@@ -194,15 +194,26 @@ test 1
 
 ---
 
-<a name="maths"></a>
-## Tutor of Mathematics
-[Link to the website](http://)
+<a name="nano"></a>
+<h2>Research Unit for Nanostructured Material Science - Cyprus University of Technology</h2>
+<a href="https://www.cut.ac.cy/faculties/fet/mem/research/research-units-and-laboratories/runms/?languageId=1" target="_blank">Link to Website</a>
+
+<div style="text-align: justify;">
+
+<ul>
+    <li><strong><u>Fabrication & Characterization of Supercapacitors:</u></strong> I delved into supercapacitors' principles, highlighting the capabilities derived from activated carbon's surface area and the Helmholtz electric double layer's thickness. Using materials like aluminum foil, activated carbon from water filters, glue, and saltwater, I fabricated various configurations of home-made supercapacitors, experimenting with carbon grinding durations, salt solutions, and glue quantities and I finally examined the nanostructure of selected electrodes through Scanning Electrode Microscopy. Concurrently, I engaged in X-ray Powder Diffraction (XRD) studies, practicing with Reference Intensity Ratio (RIR) quantitative phase analysis and Match! Software, to further explore advanced electrode configurations via techniques like Chemical Vapor Deposition (CVD).
+    </li>
+    <br>
+    <li><strong><u>Advisors:</u></strong><a href="https://www.cut.ac.cy/faculties/fet/mem/staff/l.koutsokeras/?languageId=1" target="_blank"> Loukas Koutsokeras (PhD)</a>, <a href="https://www.cut.ac.cy/faculties/fet/mem/staff/l.koutsokeras/?languageId=1" target="_blank"> Georgios Constantinides (PhD)</a>
+    </li>
+    <br>
+    <li> July 2018 - August 2018 
+    </li>  
+</ul>
+
+</div>
 <br>
-<br>
-Preparing students for the Pancyprian examination of mathematics.
-<br><br>
-![ Link ](images/logo.png)
-<br>
+<img src="images/nano.png">
 
 ---
 
