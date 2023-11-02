@@ -5,9 +5,9 @@
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_HGQZlK08gQ?autoplay=1" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<br><br>
 
 ## Academics
-test 1
 - [ MBA in Energy and Environmental Management & Economics ](#master)<br>
 - [ MEng in Natural Gas Engineering ](#meng)<br>
 - [ BS in Mechanical Engineering and Materials Science ](#bs)<br>
