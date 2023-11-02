@@ -87,38 +87,40 @@ Pending details
 <h1>PUBLICATIONS (PEER-REVIEWED)</h1>
 <br><br>
 
-<a name="bs"></a>
-## BSc/BEng Mechanical Engineering
-[Link to the website](http://)
-<br>
-Department of Mechanical Engineering and Materials Science and Engineering / Faculty of Engineering 
-and Technology / Cyprus University of Technology<br>
-<br>
-<b>GPA:</b> 8.975/10 – 1st Hons.<br>
-<br><br>
-![ Link ](images/logo.png)
-<br>
+<a name="pubs"></a>
+<div style="text-align: justify;">
 
-<a name="meng"></a>
-## MSc Natural Gas in Energy Transition
-[Link to the website](http://)
-<br>
-Department of Civil and Environmental Engineering / Faculty of Engineering / University of Cyprus<br>
-<br>
-<b>GPA:</b> 9.57/10
-<br><br>
-![ Link ](images/logo.png)
-<br>
+<ul><strong></strong>
+    <li>(1) <strong>Giakoumi, M.</strong>, Stephanou, PS., Kapnisis, KK., Anayiotos, A. “On the Development of Physiologically Based Toxicokinetic Models (PBTK) for Cardiovascular Implants”. <a href="https://www.sciencedirect.com/journal/regulatory-toxicology-and-pharmacology" target="_blank"> Regulatory Toxicology and Pharmacology</a>. 2023 Sep 1;144:105489. <a href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwjA6YrgtvGBAxUPQ_EDHV63DV4QFnoECBUQAQ&url=https%3A%2F%2Fwww.sciencedirect.com%2Fscience%2Farticle%2Fabs%2Fpii%2FS0273230023001575&usg=AOvVaw2gpEDNYd8DaoGd9F8zNdsu&opi=89978449" target="_blank"> DOI: 10.1016/j.yrtph.2023.105489</a>. PMID: 37659713.
+    </li>
+    <li><strong>Status</strong>: Published
+    </li>
+    <br>
+    <li>(2) <strong>Giakoumi, M.</strong>, Konstantinou, C., Ehlig-Economides, C., Papanastasiou, P. “A Screening Tool for Carbon Dioxide Injection in Gas Reservoirs with Water Influx Based on the Material Balance Approach”. <a href="https://www.sciencedirect.com/journal/geomechanics-for-energy-and-the-environment" target="_blank"> Geomechanics for Energy and The Environment</a>
+    </li>
+    <li><strong>Status</strong>: Submitted
+    </li>
+    <br>
+    <li>(3) <strong>Giakoumi, M.</strong>, Stephanou, PS., Kapnisis, KK., Anayiotos, A. “A Predictive Toxicokinetic Model for Nickel Leaching from Cardiovascular Stents”. <a href="https://pubs.acs.org/journal/abseba" target="_blank"> ACS Biomaterials Science & Engineering</a>.
+    </li>
+    <li><strong>Status</strong>: Under Review
+    </li>
+    <br>
+    <li>(4) Konstantinou, C., <strong>Giakoumi, M.*</strong>, Papadimitriou, N., Panagiotou, F. C., Tsangarides, A., Iosif, G., Stasis, N., Finiris, S., Georgiou, V., Papanastasiou, P. “Advances in the Field Development Plans (FDPs): The case of the Frigg Field”.
+    </li>
+    <li><strong>*Corresponding Author</strong>
+    </li>
+    <li><strong>Status</strong>: In Preparation
+    </li>
+    <br>
+    <li>(5) <strong>Giakoumi, M.</strong>, Stephanou, PS., Kapnisis, KK., Anayiotos, A. “Analytical solutions to PBKT (or simply biokinetic) models using the matrix exponential”.
+    </li>
+    <li><strong>Status</strong>: In preparation
+    </li>
+    <br>
+</ul>
 
-<a name="master"></a>
-## Master in Energy, Environmental Management & Economics
-[Link to the website](http://)
-<br>
-Department of Economics and Management & ENI Scuola Mattei / University of Pavia<br>
-<br>
-Pending details
-<br><br>
-![ Link ](images/logo.png)
+</div>
 <br>
 
 
