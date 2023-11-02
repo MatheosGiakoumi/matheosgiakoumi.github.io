@@ -41,15 +41,31 @@
 <br><br>
 
 <a name="master"></a>
-## Master in Energy, Environmental Management & Economics
-[Link to the website](http://)
+<h2>BS Master in Energy and Environmental Management and EConomics - MEDEA (93/10)</h2>
+<a href="https://www.eni.com/en-IT/careers/medea-masters.html" target="_blank">Link to Website</a>
+
+<div style="text-align: justify;">
+<I><strong>Department of Economics and Management & ENI Scuola Mattei / University of Pavia</strong></I>
+<ul>
+    <li><strong><u>Honors and Awards:</u></strong> </li>
+    <ul> 
+        <li> Honorary distinction for the highest grade among the program (Managing Technical Assets).</li>
+        <li> Luciano Novelli Award: Awarded for the best dissertation in the program.</li>
+    </ul>    
+    <li><strong><u>Notable Courses:</u></strong> Petroleum Geomechanics (10/10), Reservoir Engineering (10/10), Formation Evaluation (10/10), Well and Subsea Completion and Production (10/10).
+    </li>
+    <li><strong><u>Scolarship:</u></strong> The program was fully funded (Tuition, Stipend & Living Expenses) by <a href="https://www.eni.com/en-IT/home.html" target="_blank">ENI S.p.A</a>  <strong>(Awarded: €39,000)</strong>. 
+    </li>
+    <li><strong><u>Dissertation Topic:</u></strong> “Smart Contracts in Well Operations” (Novelli Award) <br>
+    A group project under the guidance of Well Operations department at ENI S.p.A. The objective was to evaluate whether Smart Contracts can optimize the operating working capital of drilling offshore rigs contracts. Extensive literature review was contacted related to blockchain technology and more specifically the ethereum blockchain. We delved into the applications and industry trends of blockchain technology. We learned to deploy and code real smart contracts on the Ethereum Blockchain and we prepared stochastic business and economic models to evaluate the impact that this technologies can have on the operating working capital. A thesis report was prepared and a presentation was presented, where we deployed live during the presentation a Decentralized Application of a lottery for the audience (the award was a pineapple!) on the Ethereum Blockchain (<a href="https://sepolia.etherscan.io/" target="_blank"> Sepolia TestNet/a>) in order to demonstrate the usage of it (you can check <a href="" target="_blank"> here/a> the transaction of the winner). Supervisors: <a href="https://it.linkedin.com/in/carla-sanasi-078211245"> Carla Sanasi</a>, <a href="" target="_blank"> Marco Amicosante/a>, <a href="https://it.linkedin.com/in/uperna" target="_blank"> Umberto Pena</a>
+    </li>
+    <li>2022 - 2023 
+    </li>  
+</ul>
+
+</div>
 <br>
-Department of Economics and Management & ENI Scuola Mattei / University of Pavia<br>
-<br>
-Pending details
-<br><br>
-![ Link ](images/medea.png)
-<br>
+<img src="images/master.png">
 
 <a name="meng"></a>
 <h2>MEng Natural Gas Engineering (9.57/10 - Distinction)</h2>
@@ -64,7 +80,6 @@ Pending details
     </li>
     <li><strong><u>Scolarship:</u></strong> The program was fully funded (Tuition & Stipend) by the <a href="https://hydrocarbons.gov.cy/en/" target="_blank">Hydrocarbons Service from Ministry of Energy Commerce and Industry of Cyprus</a>  <strong>(Awarded: €14,500)</strong>. 
     </li>
-    <br>
     <li>2021 - 2023 
     </li>  
 </ul>
@@ -87,13 +102,13 @@ Pending details
     </li>
     <li><strong><u>Scolarship:</u></strong> The program was fully funded (Stipend) by the <a href="http://www.cyscholarships.gov.cy/mof/ikyk/ikyk.nsf/index_gr/index_gr?OpenDocument" target="_blank">Cyprus State Scholarship Foundation</a>  <strong>(Awarded: €12,000)</strong>. 
     </li>
-    <br>
     <li>2017 - 2021 
     </li>  
 </ul>
 
 </div>
 <br>
+
 ---
 
 <br><br>
