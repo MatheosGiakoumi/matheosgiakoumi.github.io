@@ -38,28 +38,57 @@ test 1
 ---
 
 <a name="feem"></a>
-## Biolysis Lab - CUT
-[Link to the website](http://)
-<br>
-"NITOXILICO"<br>
-<br>
-Toxicokinetic Modelling – Model Parameterization and Optimization of ordinary differential 
-equations with deterministic and stochastic techniques, using iterative methods and global 
-optimization algorithms.<br>
-<br>
-Contributor to USPTO provisional patent –Application Number: US 63/193,947
-<br><br>
-![ Link ](images/logo.png)
-<br>
+<h2>Technologies for the Energy Transition - Fondazione Eni Enrico Mattei</h2>
+<a href="https://www.feem.it/en/ricerca/programmi/technologies-for-the-energy-transition/" target="_blank">Link to Website</a>
 
+<div style="text-align: justify;">
+
+<ul>
+    <li><strong><u>Development of Economic Models for Carbon Capture & Storage:</u></strong> Working on a Cooperative Game Theoretic model for carbon dioxide emitters in Lombardy, Veneto, and Emilia Romagna, known as the  <a href="https://www.sciencedirect.com/science/article/abs/pii/S0377221715004245" target="_blank"> CCS Club!</a>CCS Club!, first introduced by Massol et al. (2015). Enhances were made in the model, including the integration of a multi-objective optimization procedure that treats carbon dioxide as a marketable product. Based on this, we constructed a utility function to isolate an optimal point drawing from my recent publication <a href="#pubs">(2)</a>. A conference paper and a publication are planned for 2024.
+    </li>
+    <br>
+    <li><strong><u>Decarbonization of a Residential House in EU:</u></strong> Few years ago, my family in Cyprus decided to upgrade our house in Limassol to Net-Zero. I designed the insulation and photovoltaic system and computed the investment costs. This groundwork evolved into a novel stochastic cashflow model for assessing the project's profitability. Currently, we are generalizing the model for the whole market of Cyprus, shaping the input distribution functions of this model based on behavioral economics. A conference paper and a publication are planned for 2024.
+    </li>
+    <br>
+    <li><strong><u>Modelling Energy Transition in the European Electricity and Gas System via PLEXOS:</u></strong> We offer consultancy services to firms interested in modeling the electricity and gas markets using <a href="https://www.energyexemplar.com/plexos" target="_blank">PLEXOS</a>. Beyond modeling, I provide software development solutions (AWS, API integration, automation). 
+    </li>
+    <br>
+    <li><strong><u>Advisors:</u></strong> <a href="https://ngi.stanford.edu/people/philippine-burdeau" target="_blank"> Philippine Burdeau (PhD Candidate)</a>, <a href="https://www.feem.it/chi-siamo/persone/sara-zanini/" target="_blank"> Sara Zanini (PhD Candidate)</a>, <a href="https://www.ucy.ac.cy/directory/en/profile/ragath03" target="_blank"> Rafaela Agathokleous (PhD)(</a>,<a href="https://www.feem.it/en/chi-siamo/persone/del-grosso-filippo/" target="_blank"> Filippo Del Grosso (PhD)(</a>, <a href="https://www.feem.it/chi-siamo/persone/pontoni-federico/" target="_blank"> Federico Pontoni (PhD)(</a>
+    </li>
+    <br>
+    <li>September 2023 - Now 
+    </li>  
+</ul>
 ---
 
 <a name="gree"></a>
-## Biomechanics and Living Systems Analysis - Cyprus University of Technology (CUT)
-<br>
+<h2>Geomechanics Research for Energy and Environment - University of Cyprus</h2>
+<a href="https://websites.ucy.ac.cy/energygeomechanics/" target="_blank">Link to Website</a>
 
-<br>
+<div style="text-align: justify;">
 
+<ul>
+    <li><strong><u>FLINUGEE project:</u></strong> (Fluid Injection in Unconsolidated formations for Geo Energy and Environmental Applications - EXCELLENCE/0421/0456), funded by the Cyprus Research and Innovation Foundation.
+        <ul>
+            <li><strong>Granted:</strong> €200,000</li>
+        </ul>
+    </li>
+    <li><strong><u>Mathematical and Computational Modelling of Geo-Energy Processes:</u></strong> We developed a screening tool using the material balance approach for carbon dioxide injection with water influx. The tool addresses two injection scenarios: depleted gas reservoirs and piston-like injection for Enhanced Gas Recovery. It is adaptable for both dry and condensate reservoirs, considering reservoir heterogeneities through stochastic petrophysical properties. Our model, inspired by <a href="https://link.springer.com/book/10.1007/978-3-030-70163-5" target="_blank"> Bentley et al (2017)</a>, and <a href="https://link.springer.com/book/10.1007/978-3-030-33113-9" target="_blank"> Ringrose (2020)</a>, offers grid-independent techniques and addresses the socio-economic challenges of CCS by position carbon dioxide as a marketable product. This work resulted in a publication (see <a href="#pubs">(2)</a>) and will be instrumental in the development of a future socio-economic model (see my work at <a href="#feem">FEEM</a>). We are currently enhancing the model for Hydrogen Storage, introducing "pseudo-dispersion" and planning to integrate it with geomechanics simulators.
+    </li>
+    <br>
+    <li><strong><u>Field Development Strategies:</u></strong> During my MEng thesis at University of Cyprus, we used Petrel and MATLAB to simulate the Norwegian section of the Frigg field, leading to several innovative strategies for Field Development Plans. Our key innovations presented at <a href="https://erc.aapg.org/2023" target="_blank"> AAPG Europe Regional Conference</a>, <a href="https://eage.eventsair.com/east-med-2023/event-overview" target="_blank"> 4th EAGE Eastern Mediterranean Workshop</a>, and set to be detailed in publication (see <a href="#pubs">(4)</a>), encompass the application of carbon dioxide piston-like injection for Enhanced Gas Recovery, referencing methodology from <a href="#pubs">(2)</a>; a semi-stochastic algorithm for optimal double section casing design that minimizes drilling costs using real-market configurations (heuristic filter-and-sort method); a kernel algorithm assessing spatial accident risk in the field, factoring in distance and Points of Interest, from facilities to personnel; and a stochastic approach to Project Economics, accounting for uncertainties like production delays, gas price fluctuations and CAPEX and OPEX. Notably, several of these strategies have been integrated into the master’s curriculum for new students, which I am instructing.
+    </li>
+    <br>
+    <li><strong><u>Advisors:</u></strong><a href="https://cy.linkedin.com/in/charalampos-konstantinou" target="_blank"> Charalampos Konstantinou (PhD)</a>, <a href="https://fr.linkedin.com/in/nikolas-papadimitriou-phd-89629765" target="_blank"> Nikolas Papadimitriou (PhD)</a>, <a href="https://eratosthenes.org.cy/team/dr-constantinos-panayiotou/" target="_blank"> Konstantinos F. Panagiotou (PhD)(</a>,<a href="https://www.petro.uh.edu/faculty/ehlig-economides" target="_blank"> CHrstine Ehlig-Economides (PhD)(</a>, <a href="https://www.ucy.ac.cy/directory/en/profile/panospap" target="_blank"> Panos Papanastasiou (PhD)(</a>
+    </li>
+    <br>
+    <li>January 2023 - Now 
+    </li>  
+</ul>
+
+</div>
+<br>
+<img src="images/biolisys.png">
 ---
 
 <a name="biolisys"></a>
