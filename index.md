@@ -64,7 +64,7 @@
 </ul>
 
 </div>
-<img src="images/master.jpg">
+<img src="images/master.png">
 <br>
 
 <br>
