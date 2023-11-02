@@ -3,39 +3,44 @@
     
 # <i>Detailed Portfolio</i>
 
----
+<hr>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_HGQZlK08gQ?autoplay=1" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 <br><br>
 
-## Academics
-- [ MBA in Energy and Environmental Management & Economics ](#master)<br>
-- [ MEng in Natural Gas Engineering ](#meng)<br>
-- [ BS in Mechanical Engineering and Materials Science ](#bs)<br>
-- [ Publications (peer-reviewed) ](#pubs)<br>
-- [ Conference Presentations ](#conf)<br>
+<h2>Academics</h2>
+  <ul>
+    <li><a href="#master">MBA in Energy and Environmental Management & Economics</a></li>
+    <li><a href="#meng">MEng in Natural Gas Engineering</a></li>
+    <li><a href="#bs">BS in Mechanical Engineering and Materials Science</a></li>
+    <li><a href="#pubs">Publications (peer-reviewed)</a></li>
+    <li><a href="#conf">Conference Presentations</a></li>
+  </ul>
 
+  <h2>Research Experience</h2>
+  <ul>
+    <li><a href="#feem">Technologies for the Energy Transition - FEEM</a></li>
+    <li><a href="#gree">Geomechanics Research for Energy and Environment - UCY</a></li>
+    <li><a href="#biolisys">Biomechanics and Living Systems Analysis - CUT</a></li>
+    <li><a href="#thermodyn">Material Thermodynamics Laboratory - CUT</a></li>
+    <li><a href="#devicetech">Device Technology & Chemical Physics Lab - CUT</a></li>
+    <li><a href="#nano">Research Unit for Nanostructured Materials Science - CUT</a></li>
+  </ul>
 
-## Research Experience
-- [ Technologies for the Energy Transition - FEEM ](#feem)<br>
-- [ Geomechanics Research for Energy and Environment - UCY ](#gree)<br>
-- [ Biomechanics and Living Systems Analysis - CUT ](#biolisys)<br>
-- [ Material Thermodynamics Laboratory - CUT ](#thermodyn)<br>
-- [ Device Technology & Chemical Physics Lab - CUT ](#devicetech)<br>
-- [ Research Unit for Nanostructured Materials Science - CUT ](#nano)<br>
+  <h2>Teaching Experience</h2>
+  <ul>
+    <li><a href="#instr">Instructor - Master on Natural Gas in Energy Transition</a></li>
+    <li><a href="#tutor">University Tutor - Center of Student Development</a></li>
+    <li><a href="#math">Mathematics Tutor for High School Students</a></li>
+  </ul>
 
+  <h2>Other</h2>
+  <ul>
+    <li><a href="#further">Further Interests</a></li>
+    <li><a href="#contact">Contact</a></li>
+  </ul>
 
-## Teaching Experience
-- [ Instructor - Master on Natural Gas in Energy Transition ](#instr)<br>
-- [ University Tutor - Center of Student Development ](#tutor)<br>
-- [ Mathematics Tutor for High School Students ](#math)<br>
-
-
-## About Me
-- [ Further Interests ](#further)<br>
-- [ Contact ](#contact)<br>
-
----
+ <hr>
 
 <br><br>
 <h1>EDUCATION</h1>
@@ -114,7 +119,7 @@ Winner: <a href="https://uk.linkedin.com/in/spyridonas-thakis-christodoulou-3100
 </div>
 <br>
 
----
+<hr>
 
 <br><br>
 
@@ -158,8 +163,7 @@ Winner: <a href="https://uk.linkedin.com/in/spyridonas-thakis-christodoulou-3100
 
 <br>
 
-
----
+<hr>
 
 <a name="conf"></a>
 <br><br>
@@ -180,7 +184,7 @@ Winner: <a href="https://uk.linkedin.com/in/spyridonas-thakis-christodoulou-3100
 
 <br>
 
----
+<hr>
 
 <br><br>
 <h1>RESEARCH EXPERIENCE</h1>
@@ -213,7 +217,7 @@ Winner: <a href="https://uk.linkedin.com/in/spyridonas-thakis-christodoulou-3100
 <br>
 <img src="images/feem.png">
 
----
+<hr>
 
 <a name="gree"></a>
 <h2>Geomechanics Research for Energy and Environment - University of Cyprus</h2>
@@ -244,7 +248,7 @@ Winner: <a href="https://uk.linkedin.com/in/spyridonas-thakis-christodoulou-3100
 <br>
 <img src="images/gree.png">
 
----
+ <hr>
 
 <a name="biolisys"></a>
 <h2>Biomechanics and Living Systems Analysis - Cyprus University of Technology</h2>
@@ -273,7 +277,7 @@ Winner: <a href="https://uk.linkedin.com/in/spyridonas-thakis-christodoulou-3100
 <br>
 <img src="images/biolisys.png">
 
----
+ <hr>
 
 <a name="thermodyn"></a>
 <h2>Material Thermodynamics Laboratory - Cyprus University of Technology</h2>
@@ -296,7 +300,7 @@ Winner: <a href="https://uk.linkedin.com/in/spyridonas-thakis-christodoulou-3100
 <br>
 <img src="images/thermo.png">
 
----
+ <hr>
 
 <a name="devicetech"></a>
 <h2>Device Technology & Chemical Physics Lab - Cyprus University of Technology</h2>
@@ -318,7 +322,7 @@ Winner: <a href="https://uk.linkedin.com/in/spyridonas-thakis-christodoulou-3100
 <br>
 <img src="images/devtech.png">
 
----
+ <hr>
 
 <a name="nano"></a>
 <h2>Research Unit for Nanostructured Material Science - Cyprus University of Technology</h2>
@@ -341,7 +345,7 @@ Winner: <a href="https://uk.linkedin.com/in/spyridonas-thakis-christodoulou-3100
 <br>
 <img src="images/nano.png">
 
----
+ <hr>
 
 <br><br>
 <h1>TEACHING EXPERIENCE</h1>
@@ -398,7 +402,7 @@ Winner: <a href="https://uk.linkedin.com/in/spyridonas-thakis-christodoulou-3100
 </div>
 <br>
 
----
+ <hr>
 
 <br><br>
 <h1>OTHER SKILLS</h1>
@@ -417,7 +421,7 @@ Winner: <a href="https://uk.linkedin.com/in/spyridonas-thakis-christodoulou-3100
 </div>
 <br>
 
----
+ <hr>
 
 <a name="contact"></a>
 ## Contact
