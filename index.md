@@ -159,7 +159,6 @@ Group Members: <a href="https://it.linkedin.com/in/lorenza-bifano-a56551199"> Lo
 <br><br>
 <h1>CONFERENCE PRESENTATIONS</h1>
 <br>
-<div style="text-align: justify;">
 
 <ul>
     <li>(1) Konstantinou, C., <strong>Giakoumi, M.</strong>, Tsangarides, A., Iosif, G., Stasis, N., Finiris, S., Georgiou, V., Panagiotou, F. C., Papadimitriou, N., Papanastasiou, P. (2023). “Lessons learned from the Frigg Field: Applicability of the findings in the Eastern Mediterranean analogues”. Presentation at the <a href="https://erc.aapg.org/2023" target="_blank">AAPG Europe Regional Conference</a> , Larnaca, Cyprus, 23 – 24 May 2023.
@@ -169,7 +168,6 @@ Group Members: <a href="https://it.linkedin.com/in/lorenza-bifano-a56551199"> Lo
     </li>  
 </ul>
 
-</div>
 <br>
 
 ---
