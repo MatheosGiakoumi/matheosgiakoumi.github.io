@@ -40,27 +40,6 @@
 <h1>EDUCATION</h1>
 <br><br>
 
-<a name="bs"></a>
-## Bachelor Of Science in Mechanical Engineering and Materials Science - Cyprus University of technology
-[Link to the website](http://)
-<br>
-Department of Mechanical Engineering and Materials Science and Engineering / Faculty of Engineering 
-and Technology / Cyprus University of Technology<br>
-<br>
-<b>GPA:</b> 8.975/10 – 1st Hons.<br>
-<br><br>
-<br>
-
-<a name="meng"></a>
-## MSc Natural Gas in Energy Transition
-[Link to the website](http://)
-<br>
-Department of Civil and Environmental Engineering / Faculty of Engineering / University of Cyprus<br>
-<br>
-<b>GPA:</b> 9.57/10
-<br><br>
-<br>
-
 <a name="master"></a>
 ## Master in Energy, Environmental Management & Economics
 [Link to the website](http://)
@@ -72,6 +51,37 @@ Pending details
 ![ Link ](images/medea.png)
 <br>
 
+<a name="meng"></a>
+<h2>MEng Natural Gas Engineering (9.57/10 - Distinction)</h2>
+<a href="https://websites.ucy.ac.cy/petcy/en/" target="_blank">Link to Website</a>
+
+<div style="text-align: justify;">
+<I><strong>Department of Civil and Environmental Engineering / Faculty of Engineering / University of Cyprus
+<ul>
+    <li><strong><u>Dissertation Topic:</u></strong> “The Frigg Field Development Plan (FDP) revisited”. For more details check <a name="gree">here</a>.
+    </li>
+    <li><strong><u>Notable Courses:</u></strong> Petroleum Geomechanics (10/10), Reservoir Engineering (10/10), Formation Evaluation (10/10), Well and Subsea Completion and Production (10/10).
+    </li>
+    <li><strong><u>Scolarship:</u></strong> The program was fully funded (Tuition & Stipend) by the <a href="https://hydrocarbons.gov.cy/en/" target="_blank">Hydrocarbons Service from Ministry of Energy Commerce and Industry of Cyprus</a>  <strong>(Awarded: €14,500)</strong>. 
+    </li>
+    <br>
+    <li>2021 - 2023 
+    </li>  
+</ul>
+
+</div>
+<br>
+
+<a name="bs"></a>
+## Bachelor Of Science in Mechanical Engineering and Materials Science - Cyprus University of technology
+[Link to the website](http://)
+<br>
+Department of Mechanical Engineering and Materials Science and Engineering / Faculty of Engineering 
+and Technology / Cyprus University of Technology<br>
+<br>
+<b>GPA:</b> 8.975/10 – 1st Hons.<br>
+<br><br>
+<br>
 
 ---
 
