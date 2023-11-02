@@ -79,14 +79,16 @@ Pending details
 <div style="text-align: justify;">
 <I><strong>Department of Mechanical Engineering and Materials Science and Engineering / Faculty of Engineering and Technology / Cyprus University of Technology</strong></I>
 <ul>
-    <li><strong><u>Dissertation Topic:</u></strong> “The Frigg Field Development Plan (FDP) revisited”. For more details check <a href="#gree">here</a>.
+    <li><strong><u>Dissertation Topic:</u></strong> “Reactive gas systems with simulated and non-limiting controlled equilibrium”. For more details check <a href="#thermodyn">here</a>.
     </li>
     <li><strong><u>Notable Courses:</u></strong> Petroleum Geomechanics (10/10), Reservoir Engineering (10/10), Formation Evaluation (10/10), Well and Subsea Completion and Production (10/10).
     </li>
-    <li><strong><u>Scolarship:</u></strong> The program was fully funded (Tuition & Stipend) by the <a href="https://hydrocarbons.gov.cy/en/" target="_blank">Hydrocarbons Service from Ministry of Energy Commerce and Industry of Cyprus</a>  <strong>(Awarded: €14,500)</strong>. 
+    <li><strong><u>Honors and Awards:</u></strong> Honorary distinction for the highest grade among the department’s undergraduates for all the academic years enrolled (2017 – 2021) and for the best dissertation in the program. Awarded by ExxonMobil Cyprus & Cyprus Ministry of Education and Culture  <strong>(Awarded: €4,500)</strong>. 
+    </li>
+    <li><strong><u>Scolarship:</u></strong> The program was fully funded (Stipend) by the <a href="http://www.cyscholarships.gov.cy/mof/ikyk/ikyk.nsf/index_gr/index_gr?OpenDocument" target="_blank">Cyprus State Scholarship Foundation</a>  <strong>(Awarded: €12,000)</strong>. 
     </li>
     <br>
-    <li>2021 - 2023 
+    <li>2017 - 2021 
     </li>  
 </ul>
 
