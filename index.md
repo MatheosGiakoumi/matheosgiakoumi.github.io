@@ -5,12 +5,6 @@
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_HGQZlK08gQ?autoplay=1" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-  
----
-
-<h1>Navigation Panel</h1>
-
----
 
 ## Academics
 test 1
