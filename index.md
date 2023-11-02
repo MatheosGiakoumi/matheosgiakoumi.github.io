@@ -164,7 +164,7 @@ Group Members: <a href="https://it.linkedin.com/in/lorenza-bifano-a56551199"> Lo
     <li>(1) Konstantinou, C., <strong>Giakoumi, M.</strong>, Tsangarides, A., Iosif, G., Stasis, N., Finiris, S., Georgiou, V., Panagiotou, F. C., Papadimitriou, N., Papanastasiou, P. (2023). “Lessons learned from the Frigg Field: Applicability of the findings in the Eastern Mediterranean analogues”. Presentation at the <a href="https://erc.aapg.org/2023" target="_blank">AAPG Europe Regional Conference</a> , Larnaca, Cyprus, 23 – 24 May 2023.
     </li>
     <br>
-    <li>(2) Konstantinou, C., Papadimitriou, N., <strong>Giakoumi, M.</strong>, Tsangarides, A., Iosif, G., Stasis, N., Finiris, S., Georgiou, V., Panagiotou, F. C., Papanastasiou, P. (2023). “Advancements in Field Development Plans: Applicability of the Frigg field findings in the Eastern Mediterranean analogues”. Accepted for oral presentation at theat the <a href="https://eage.eventsair.com/east-med-2023/event-overview" target="_blank">4th EAGE Eastern Mediterranean Workshop</a>, Athens, Greece, 04 – 06 December 2023.
+    <li>(2) Konstantinou, C., Papadimitriou, N., <strong>Giakoumi, M.</strong>, Tsangarides, A., Iosif, G., Stasis, N., Finiris, S., Georgiou, V., Panagiotou, F. C., Papanastasiou, P. (2023). “Advancements in Field Development Plans: Applicability of the Frigg field findings in the Eastern Mediterranean analogues”. Accepted for oral presentation at the <a href="https://eage.eventsair.com/east-med-2023/event-overview" target="_blank">4th EAGE Eastern Mediterranean Workshop</a>, Athens, Greece, 04 – 06 December 2023.
     </li>  
 </ul>
 
