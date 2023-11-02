@@ -76,10 +76,10 @@ Pending details
 ---
 
 <br><br>
-<h1>PUBLICATIONS (PEER-REVIEWED)</h1>
-<br>
 
 <a name="pubs"></a>
+<h1>PUBLICATIONS (PEER-REVIEWED)</h1>
+<br>
 <div style="text-align: justify;">
 
 <ul><strong></strong>
@@ -118,12 +118,10 @@ Pending details
 
 ---
 
-
+<a name="conf"></a>
 <br><br>
 <h1>CONFERENCE PRESENTATIONS</h1>
 <br>
-
-<a name="conf"></a>
 <div style="text-align: justify;">
 
 <ul>
