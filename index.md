@@ -141,7 +141,7 @@ Pending details
 
 <br><br>
 <h1>RESEARCH EXPERIENCE</h1>
-<br><br>
+<br>
 
 <a name="feem"></a>
 <h2>Technologies for the Energy Transition - Fondazione Eni Enrico Mattei</h2>
@@ -302,7 +302,7 @@ Pending details
 
 <br><br>
 <h1>TEACHING EXPERIENCE</h1>
-<br><br>
+<br>
 
 <a name="instr"></a>
 <h2>Instructor, Master on Natural Gas in Energy Transition - University of Cyprus</h2>
@@ -343,9 +343,7 @@ Pending details
 
 <a name="math"></a>
 <h2>Mathematics Tutor for High School Students</h2>
-<br>
 <div style="text-align: justify;">
-
 <ul>
     <li>Preparing students for the National examination of mathematics.
     </li>
@@ -361,24 +359,27 @@ Pending details
 
 <br><br>
 <h1>OTHER SKILLS</h1>
-<br><br>
+<br>
 
 <a name="further"></a>
+<div style="text-align: justify;">
 <ul>
-    <li><strong>IT/Software:</strong> <a href="https://www.mathworks.com/" target="_blank">MATLAB & Simulink</a>, <a href="https://soliditylang.org/" target="_blank">Solidity</a>, <a href="https://www.python.org/" target="_blank">Python</a>,<a href="https://isocpp.org/" target="_blank">C++</a>,<a href="https://www.mathworks.com/" target="_blank">Petrel</a>,<a href="https://www.originlab.com/" target="_blank">OriginLab</a>,<a href="https://www.solidworks.com/" target="_blank">Solidworks,</a>, Agorithmic Thinking
+    <li><strong>IT/Software:</strong> <a href="https://www.mathworks.com/" target="_blank">MATLAB & Simulink</a>, <a href="https://soliditylang.org/" target="_blank">Solidity</a>, <a href="https://www.python.org/" target="_blank">Python</a>,<a href="https://isocpp.org/" target="_blank"> C++</a>,<a href="https://www.mathworks.com/" target="_blank">Petrel</a>,<a href="https://www.originlab.com/" target="_blank">OriginLab</a>, <a href="https://www.solidworks.com/" target="_blank">Solidworks</a>, Agorithmic Thinking
     </li>
-    <li><strong>Languages:</strong> Greek  (Native), English (Professional), Italian (INtermediate)
+    <li><strong>Languages:</strong> Greek  (Native), English (Professional), Italian (Intermediate)
     </li>
     <br>
-    <li> <strong>Hobbies & Interests:</strong> Basketball, Full Stack Development, Web3 DApps (developing and deploying smart contracts on the Ethereum blockchain), geopolitics of energy.
+    <li> <strong>Hobbies & Interests:</strong> Basketball, Full Stack Development, Web3 DApps (developing and deploying Smart Contracts on the Ethereum blockchain), Geopolitics of Energy.
     </li>  
 </ul>
+</div>
+<br>
 
 ---
 
 <a name="contact"></a>
 ## Contact
 
-Get in touch with me at matheos.giakoumis97@hotmail.com
+Get in touch with me at <a href="matheos.giakoumis97@hotmail.com" target="_blank">matheos.giakoumis97@hotmail.com</a>
 
 {% include footer.html %}
