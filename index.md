@@ -1,3 +1,4 @@
+<div class="text-block">
 [Home](index.md)
 
 # <i>Detailed Portfolio</i>
@@ -424,3 +425,4 @@ Winner: <a href="https://uk.linkedin.com/in/spyridonas-thakis-christodoulou-3100
 Get in touch with me at <a href="matheos.giakoumis97@hotmail.com" target="_blank">matheos.giakoumis97@hotmail.com</a>
 
 {% include footer.html %}
+</div>
