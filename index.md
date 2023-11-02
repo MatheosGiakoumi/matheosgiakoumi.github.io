@@ -53,7 +53,7 @@ test 1
     <li><strong><u>Modelling Energy Transition in the European Electricity and Gas System via PLEXOS:</u></strong> We offer consultancy services to firms interested in modeling the electricity and gas markets using <a href="https://www.energyexemplar.com/plexos" target="_blank">PLEXOS</a>. Beyond modeling, I provide software development solutions (AWS, API integration, automation). 
     </li>
     <br>
-    <li><strong><u>Advisors:</u></strong> <a href="https://ngi.stanford.edu/people/philippine-burdeau" target="_blank"> Philippine Burdeau (PhD Candidate)</a>, <a href="https://www.feem.it/chi-siamo/persone/sara-zanini/" target="_blank"> Sara Zanini (PhD Candidate)</a>, <a href="https://www.ucy.ac.cy/directory/en/profile/ragath03" target="_blank"> Rafaela Agathokleous (PhD)(</a>,<a href="https://www.feem.it/en/chi-siamo/persone/del-grosso-filippo/" target="_blank"> Filippo Del Grosso (PhD)(</a>, <a href="https://www.feem.it/chi-siamo/persone/pontoni-federico/" target="_blank"> Federico Pontoni (PhD)(</a>
+    <li><strong><u>Advisors:</u></strong> <a href="https://ngi.stanford.edu/people/philippine-burdeau" target="_blank"> Philippine Burdeau (PhD Candidate)</a>, <a href="https://www.feem.it/chi-siamo/persone/sara-zanini/" target="_blank"> Sara Zanini (PhD Candidate)</a>, <a href="https://www.ucy.ac.cy/directory/en/profile/ragath03" target="_blank"> Rafaela Agathokleous (PhD)</a>,<a href="https://www.feem.it/en/chi-siamo/persone/del-grosso-filippo/" target="_blank"> Filippo Del Grosso (PhD)</a>, <a href="https://www.feem.it/chi-siamo/persone/pontoni-federico/" target="_blank"> Federico Pontoni (PhD)</a>
     </li>
     <br>
     <li>September 2023 - Now 
