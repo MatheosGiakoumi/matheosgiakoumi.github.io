@@ -56,7 +56,7 @@ Pending details
 <a href="https://websites.ucy.ac.cy/petcy/en/" target="_blank">Link to Website</a>
 
 <div style="text-align: justify;">
-<I><strong>Department of Civil and Environmental Engineering / Faculty of Engineering / University of Cyprus</strong>
+<I><strong>Department of Civil and Environmental Engineering / Faculty of Engineering / University of Cyprus</strong></strong></I>
 <ul>
     <li><strong><u>Dissertation Topic:</u></strong> “The Frigg Field Development Plan (FDP) revisited”. For more details check <a href="#gree">here</a>.
     </li>
@@ -73,16 +73,25 @@ Pending details
 <br>
 
 <a name="bs"></a>
-## Bachelor Of Science in Mechanical Engineering and Materials Science - Cyprus University of technology
-[Link to the website](http://)
-<br>
-Department of Mechanical Engineering and Materials Science and Engineering / Faculty of Engineering 
-and Technology / Cyprus University of Technology<br>
-<br>
-<b>GPA:</b> 8.975/10 – 1st Hons.<br>
-<br><br>
-<br>
+<h2>BS Mechanical Engineering and Materials Science (8.975/10 - Highest Honors)</h2>
+<a href="https://www.cut.ac.cy/faculties/fet/mem/study-guide/Bachelor/?languageId=1" target="_blank">Link to Website</a>
 
+<div style="text-align: justify;">
+<I><strong>Department of Mechanical Engineering and Materials Science and Engineering / Faculty of Engineering and Technology / Cyprus University of Technology</strong></I>
+<ul>
+    <li><strong><u>Dissertation Topic:</u></strong> “The Frigg Field Development Plan (FDP) revisited”. For more details check <a href="#gree">here</a>.
+    </li>
+    <li><strong><u>Notable Courses:</u></strong> Petroleum Geomechanics (10/10), Reservoir Engineering (10/10), Formation Evaluation (10/10), Well and Subsea Completion and Production (10/10).
+    </li>
+    <li><strong><u>Scolarship:</u></strong> The program was fully funded (Tuition & Stipend) by the <a href="https://hydrocarbons.gov.cy/en/" target="_blank">Hydrocarbons Service from Ministry of Energy Commerce and Industry of Cyprus</a>  <strong>(Awarded: €14,500)</strong>. 
+    </li>
+    <br>
+    <li>2021 - 2023 
+    </li>  
+</ul>
+
+</div>
+<br>
 ---
 
 <br><br>
