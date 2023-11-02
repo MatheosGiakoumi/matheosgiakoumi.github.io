@@ -124,7 +124,7 @@ Winner: <a href="https://uk.linkedin.com/in/spyridonas-thakis-christodoulou-3100
 <div style="text-align: justify;">
 
 <ol>
-    <li>strong> Giakoumi, M.</strong>, Stephanou, PS., Kapnisis, KK., Anayiotos, A. “On the Development of Physiologically Based Toxicokinetic Models (PBTK) for Cardiovascular Implants”. <a href="https://www.sciencedirect.com/journal/regulatory-toxicology-and-pharmacology" target="_blank"> Regulatory Toxicology and Pharmacology</a>. 2023 Sep 1;144:105489. <a href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwjA6YrgtvGBAxUPQ_EDHV63DV4QFnoECBUQAQ&url=https%3A%2F%2Fwww.sciencedirect.com%2Fscience%2Farticle%2Fabs%2Fpii%2FS0273230023001575&usg=AOvVaw2gpEDNYd8DaoGd9F8zNdsu&opi=89978449" target="_blank"> DOI: 10.1016/j.yrtph.2023.105489</a>. PMID: 37659713.
+    <li><strong> Giakoumi, M.</strong>, Stephanou, PS., Kapnisis, KK., Anayiotos, A. “On the Development of Physiologically Based Toxicokinetic Models (PBTK) for Cardiovascular Implants”. <a href="https://www.sciencedirect.com/journal/regulatory-toxicology-and-pharmacology" target="_blank"> Regulatory Toxicology and Pharmacology</a>. 2023 Sep 1;144:105489. <a href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwjA6YrgtvGBAxUPQ_EDHV63DV4QFnoECBUQAQ&url=https%3A%2F%2Fwww.sciencedirect.com%2Fscience%2Farticle%2Fabs%2Fpii%2FS0273230023001575&usg=AOvVaw2gpEDNYd8DaoGd9F8zNdsu&opi=89978449" target="_blank"> DOI: 10.1016/j.yrtph.2023.105489</a>. PMID: 37659713.
     <br>
     <strong>Status</strong>: Published
     </li>
