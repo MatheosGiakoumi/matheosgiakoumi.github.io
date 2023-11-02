@@ -362,7 +362,7 @@ Pending details
 <a name="further"></a>
 <div style="text-align: justify;">
 <ul>
-    <li><strong>IT/Software:</strong> <a href="https://www.mathworks.com/" target="_blank">MATLAB & Simulink</a>, <a href="https://soliditylang.org/" target="_blank">Solidity</a>, <a href="https://www.python.org/" target="_blank">Python</a>,<a href="https://isocpp.org/" target="_blank"> C++</a>,<a href="https://www.mathworks.com/" target="_blank"> Petrel</a>,<a href="https://www.originlab.com/" target="_blank"> OriginLab</a>, <a href="https://www.solidworks.com/" target="_blank">Solidworks</a>, Agorithmic Thinking
+    <li><strong>IT/Software:</strong> <a href="https://www.mathworks.com/" target="_blank">MATLAB & Simulink</a>, <a href="https://soliditylang.org/" target="_blank">Solidity</a>, <a href="https://www.python.org/" target="_blank">Python</a>,<a href="https://isocpp.org/" target="_blank"> C++</a>,<a href="https://www.software.slb.com/products/petrel" target="_blank"> Petrel</a>,<a href="https://www.originlab.com/" target="_blank"> OriginLab</a>, <a href="https://www.solidworks.com/" target="_blank">Solidworks</a>, Agorithmic Thinking
     </li>
     <li><strong>Languages:</strong> Greek  (Native), English (Professional), Italian (Intermediate)
     </li>
