@@ -77,8 +77,10 @@ Contributor to USPTO provisional patent –Application Number: US 63/193,947
     </li>
     <li><strong><u>Parameterization & Optimization of Predictive Physiological Based Toxicokinetic (PBTK) Models:</u></strong> We pioneered a predictive compartmental PBTK model to assess Nickel leaching from cardiovascular devices. We conducted in-house animal experiments, integrating the data into a time-variant system of ODEs. The system was framed within a multi-objective optimization problem, aiming to balance various physiological and device-specific parameters across the compartments (organs). Inherent to such models, data limitations and measurement uncertainties introduced a high degree of non-smoothness to the model’s objective function. Τo address this, we employed global optimization algorithms and stochastic analysis. This work resulted in three publications (see <a href="#pubs">(1)</a>, <a href="#pubs">(3)</a> & <a href="#pubs">(5)</a>). We are now expanding our research to simulate the interactions in the peri-implant environment using PDEs. The current model offers valuable insights to stent manufacturers about device leachability, aiding in risk assessment and minimizing the need for additional animal testing. We are in the process of developing a platform to offer this service, with plans for monetization.
     </li>
+    <br>
     <li><strong><u>Advisors:</u></strong><a href="http://biolisys.cut.ac.cy/employees/dr-konstantinos-kapnisis-2/" target="_blank"> Konstantinos Kapnisis (PhD)</a>, <a href="https://www.cut.ac.cy/faculties/gem/est/staff/%CE%94%CF%81.+%CE%A0%CE%B1%CF%8D%CE%BB%CE%BF%CF%82+%CE%A3.+%CE%A3%CF%84%CE%B5%CF%86%CE%AC%CE%BD%CE%BF%CF%85+/?languageId=1" target="_blank">Pavlos S. Stephanou (PhD)</a>, <a href="http://biolisys.cut.ac.cy/employees/prof-andreas-anayiotos-2/" target="_blank">Andreas Anayiotos (PhD)</a>
     </li>
+    <br>
     <li><strong><u>Contract:</u></strong> July 2020 - Now 
     </li>  
 </ul>
