@@ -12,15 +12,13 @@
 
 ---
 
-## About Me
+## Academics
 test 1
 - [ MBA in Energy and Environmental Management & Economics ](#master)<br>
 - [ MEng in Natural Gas Engineering ](#meng)<br>
 - [ BS in Mechanical Engineering and Materials Science ](#bs)<br>
-- [ Publications ](#pubs)<br>
+- [ Publications (peer-reviewed) ](#pubs)<br>
 - [ Conference Presentations ](#conf)<br>
-- [ Further Interests ](#further)<br>
-- [ Contact ](#contact)<br>
 
 
 ## Research Experience
@@ -37,11 +35,120 @@ test 1
 - [ University Tutor - Center of Student Development ](#tutor)<br>
 - [ Mathematics Tutor for High School Students ](#math)<br>
 
+
+## About Me
+- [ Further Interests ](#further)<br>
+- [ Contact ](#contact)<br>
+
+---
+
+<br><br>
+<h1>EDUCATION</h1>
+<br><br>
+
+<a name="bs"></a>
+## BSc/BEng Mechanical Engineering
+[Link to the website](http://)
+<br>
+Department of Mechanical Engineering and Materials Science and Engineering / Faculty of Engineering 
+and Technology / Cyprus University of Technology<br>
+<br>
+<b>GPA:</b> 8.975/10 – 1st Hons.<br>
+<br><br>
+![ Link ](images/logo.png)
+<br>
+
+<a name="meng"></a>
+## MSc Natural Gas in Energy Transition
+[Link to the website](http://)
+<br>
+Department of Civil and Environmental Engineering / Faculty of Engineering / University of Cyprus<br>
+<br>
+<b>GPA:</b> 9.57/10
+<br><br>
+![ Link ](images/logo.png)
+<br>
+
+<a name="master"></a>
+## Master in Energy, Environmental Management & Economics
+[Link to the website](http://)
+<br>
+Department of Economics and Management & ENI Scuola Mattei / University of Pavia<br>
+<br>
+Pending details
+<br><br>
+![ Link ](images/logo.png)
+<br>
+
+
+---
+
+<br><br>
+<h1>PUBLICATIONS (PEER-REVIEWED)</h1>
+<br><br>
+
+<a name="bs"></a>
+## BSc/BEng Mechanical Engineering
+[Link to the website](http://)
+<br>
+Department of Mechanical Engineering and Materials Science and Engineering / Faculty of Engineering 
+and Technology / Cyprus University of Technology<br>
+<br>
+<b>GPA:</b> 8.975/10 – 1st Hons.<br>
+<br><br>
+![ Link ](images/logo.png)
+<br>
+
+<a name="meng"></a>
+## MSc Natural Gas in Energy Transition
+[Link to the website](http://)
+<br>
+Department of Civil and Environmental Engineering / Faculty of Engineering / University of Cyprus<br>
+<br>
+<b>GPA:</b> 9.57/10
+<br><br>
+![ Link ](images/logo.png)
+<br>
+
+<a name="master"></a>
+## Master in Energy, Environmental Management & Economics
+[Link to the website](http://)
+<br>
+Department of Economics and Management & ENI Scuola Mattei / University of Pavia<br>
+<br>
+Pending details
+<br><br>
+![ Link ](images/logo.png)
+<br>
+
+
+---
+
+
+<br><br>
+<h1>CONFERENCE PRESENTATIONS</h1>
+<br><br>
+
+<a name="conf"></a>
+<div style="text-align: justify;">
+
+<ul>
+    <li>(1) Konstantinou, C., Giakoumi, M., Tsangarides, A., Iosif, G., Stasis, N., Finiris, S., Georgiou, V., Panagiotou, F. C., Papadimitriou, N., Papanastasiou, P. (2023). “Lessons learned from the Frigg Field: Applicability of the findings in the Eastern Mediterranean analogues”. Presentation at the <a href="https://erc.aapg.org/2023" target="_blank">AAPG Europe Regional Conference</a> , Larnaca, Cyprus, 23 – 24 May 2023.
+    </li>
+    <br>
+    <li>(2) Konstantinou, C., Papadimitriou, N., Giakoumi, M., Tsangarides, A., Iosif, G., Stasis, N., Finiris, S., Georgiou, V., Panagiotou, F. C., Papanastasiou, P. (2023). “Advancements in Field Development Plans: Applicability of the Frigg field findings in the Eastern Mediterranean analogues”. Accepted for oral presentation at theat the <a href="https://eage.eventsair.com/east-med-2023/event-overview" target="_blank">4th EAGE Eastern Mediterranean Workshop</a>, Athens, Greece, 04 – 06 December 2023.
+    </li>  
+</ul>
+
+</div>
+<br>
+
 ---
 
 <br><br>
 <h1>RESEARCH EXPERIENCE</h1>
 <br><br>
+
 <a name="feem"></a>
 <h2>Technologies for the Energy Transition - Fondazione Eni Enrico Mattei</h2>
 <a href="https://www.feem.it/en/ricerca/programmi/technologies-for-the-energy-transition/" target="_blank">Link to Website</a>
@@ -67,7 +174,7 @@ test 1
 
 </div>
 <br>
-<img src="images/biolisys.png">
+<img src="images/feem.png">
 
 ---
 
@@ -98,7 +205,7 @@ test 1
 
 </div>
 <br>
-<img src="images/biolisys.png">
+<img src="images/gree.png">
 
 ---
 
@@ -272,47 +379,6 @@ test 1
     <li> <strong>Hobbies & Interests:</strong> Basketball, Full Stack Development, Web3 DApps (developing and deploying smart contracts on the Ethereum blockchain), geopolitics of energy.
     </li>  
 </ul>
-
----
-
-<a name="bs"></a>
-## BSc/BEng Mechanical Engineering
-[Link to the website](http://)
-<br>
-Department of Mechanical Engineering and Materials Science and Engineering / Faculty of Engineering 
-and Technology / Cyprus University of Technology<br>
-<br>
-<b>GPA:</b> 8.975/10 – 1st Hons.<br>
-<br><br>
-![ Link ](images/logo.png)
-<br>
-
----
-<a name="meng"></a>
-## MSc Natural Gas in Energy Transition
-[Link to the website](http://)
-<br>
-Department of Civil and Environmental Engineering / Faculty of Engineering / University of Cyprus<br>
-<br>
-<b>GPA:</b> 9.57/10
-<br><br>
-![ Link ](images/logo.png)
-<br>
-
----
-
-<a name="master"></a>
-## Master in Energy, Environmental Management & Economics
-[Link to the website](http://)
-<br>
-Department of Economics and Management & ENI Scuola Mattei / University of Pavia<br>
-<br>
-Pending details
-<br><br>
-![ Link ](images/logo.png)
-<br>
-
----
 
 <a name="pubs"></a>
 ## Publications
