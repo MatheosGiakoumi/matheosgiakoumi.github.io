@@ -1,6 +1,6 @@
-<div class="text-block">
 [Home](index.md)
-
+<div class="text-block">
+    
 # <i>Detailed Portfolio</i>
 
 ---
