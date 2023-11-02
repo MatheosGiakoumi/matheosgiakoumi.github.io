@@ -85,7 +85,7 @@ Contributor to USPTO provisional patent –Application Number: US 63/193,947
 
 </div>
 <br>
-<img src="images/biolisys.png" alt="Link">
+<img src="images/biolisys.png">
 
 ---
 
@@ -106,7 +106,7 @@ Contributor to USPTO provisional patent –Application Number: US 63/193,947
 
 </div>
 <br>
-<img src="images/thermo.png" alt="Link">
+<img src="images/thermo.png">
 
 ---
 
@@ -127,7 +127,7 @@ Contributor to USPTO provisional patent –Application Number: US 63/193,947
 
 </div>
 <br>
-<img src="images/devtech.png" alt="Link">
+<img src="images/devtech.png">
 
 ---
 
@@ -148,7 +148,7 @@ Contributor to USPTO provisional patent –Application Number: US 63/193,947
 
 </div>
 <br>
-<img src="images/nano.png" alt="Link">
+<img src="images/nano.png">
 
 ---
 
