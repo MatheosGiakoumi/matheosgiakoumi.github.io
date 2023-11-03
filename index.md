@@ -1,7 +1,8 @@
 [Home](index.md)
 <div class="text-block">
     
-# <i>Detailed Portfolio</i>
+<h1>Detailed Portfolio</h1>
+<br>
 
 <hr>
 
