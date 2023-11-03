@@ -90,7 +90,7 @@
   <a href="https://websites.ucy.ac.cy/petcy/en/" target="_blank">Link to Website</a>
 
   <div style="text-align: justify;">
-  <I><strong>Department of Civil and Environmental Engineering / Faculty of Engineering / University of Cyprus</strong>    </strong></I>
+  <I><strong>Department of Civil and Environmental Engineering / Faculty of Engineering / University of Cyprus</strong></I>
   <ul>
       <li><strong><u>Dissertation Topic:</u></strong> “The Frigg Field Development Plan (FDP) revisited”. For more information click <a href="#gree">here</a>.
       </li>
