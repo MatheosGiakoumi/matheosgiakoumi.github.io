@@ -104,7 +104,7 @@
 
   </div>
   <img src="images/MEng.png">
-  <br>
+  <br><br>
 
   <a name="bs"></a>
   <h2>BS Mechanical Engineering and Materials Science (8.975/10 - Highest Honors)</h2>
