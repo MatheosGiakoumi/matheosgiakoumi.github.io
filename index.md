@@ -1,4 +1,4 @@
-[Home](index.md)
+
 <div class="text-block">
 
 <div id="home">    
