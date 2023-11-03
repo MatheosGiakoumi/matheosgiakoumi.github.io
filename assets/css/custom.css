@@ -25,43 +25,39 @@ body {
   text-decoration: underline; /* Underline on hover for better interaction feedback */
 }
 
+/* Fixed navbar styles */
 .navbar {
   overflow: hidden;
-  background-color: #333; /* Or any color you prefer */
+  background-color: #333; /* Dark background for contrast */
   position: fixed;
   top: 0;
   width: 100%;
   z-index: 1000; /* Ensure it stays on top of other content */
+  box-shadow: 0 2px 4px rgba(0,0,0,0.5); /* Optional: Adds a shadow for depth */
 }
 
-.navbar a {
-  float: left;
-  display: block;
-  color: #f2f2f2; /* Or any color you prefer */
-  text-align: center;
-  padding: 14px 16px;
-  text-decoration: none;
-}
-
+/* Navbar link hover styles */
 .navbar a:hover {
-  background-color: #ddd; /* Or any color you prefer */
+  background-color: #ddd; /* Light background on hover */
   color: black;
 }
 
+/* Smooth scrolling */
 html {
   scroll-behavior: smooth;
 }
 
-/* Add this to your custom.css file */
+/* Offset for content sections */
 section {
   padding-top: 60px; /* Adjust based on the height of your navbar */
   margin-top: -60px; /* Negative margin to offset the padding */
 }
 
-/* If you have a fixed navbar, you might also want to add this */
-.navbar {
-  position: fixed;
-  top: 0;
-  width: 100%;
-  /* Add other styling for your navbar here */
+/* Responsive adjustments */
+@media (max-width: 768px) {
+  .navbar a {
+    padding: 10px; /* Smaller padding for smaller screens */
+    font-size: 14px; /* Smaller font size for smaller screens */
+  }
+  /* Add any additional responsive styles here */
 }
