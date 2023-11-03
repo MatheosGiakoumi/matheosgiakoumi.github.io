@@ -9,6 +9,7 @@
 <iframe width="460" height="315" src="https://www.youtube.com/embed/_HGQZlK08gQ?autoplay=1&mute=1" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen playsinline></iframe>
 <br><br>
 
+<div id="home">
 <h2>Academics</h2>
   <ul>
     <li><a href="#master">MBA in Energy and Environmental Management & Economics</a></li>
@@ -40,6 +41,8 @@
     <li><a href="#further">Further Interests</a></li>
     <li><a href="#contact">Contact</a></li>
   </ul>
+
+</div>
 
  <hr>
 
