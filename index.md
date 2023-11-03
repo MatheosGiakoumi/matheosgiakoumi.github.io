@@ -125,7 +125,7 @@
   </ul>
 
   </div>
-  <img src="images/bs.png">
+  <img src="images/bs.gif">
   <br>
 
  
