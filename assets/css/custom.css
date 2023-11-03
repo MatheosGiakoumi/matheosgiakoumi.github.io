@@ -51,3 +51,17 @@ body {
 html {
   scroll-behavior: smooth;
 }
+
+/* Add this to your custom.css file */
+section {
+  padding-top: 60px; /* Adjust based on the height of your navbar */
+  margin-top: -60px; /* Negative margin to offset the padding */
+}
+
+/* If you have a fixed navbar, you might also want to add this */
+.navbar {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  /* Add other styling for your navbar here */
+}
