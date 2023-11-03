@@ -5,6 +5,10 @@ body {
   background-size: cover;
 }
 
+body {
+  font-family: 'Times New Roman', Times, serif;
+}
+
 .text-block {
   color: #333; /* Dark grey color for text, which is simple and professional */
   background-color: rgba(255, 255, 255, 0.8); /* White background with a bit of transparency */
