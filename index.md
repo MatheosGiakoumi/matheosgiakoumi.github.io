@@ -1,6 +1,7 @@
 [Home](index.md)
 <div class="text-block">
-    
+
+<div id="home">    
 <h1>Detailed Portfolio</h1>
 <br>
 
@@ -9,7 +10,7 @@
 <iframe width="460" height="315" src="https://www.youtube.com/embed/_HGQZlK08gQ?autoplay=1&mute=1" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen playsinline></iframe>
 <br><br>
 
-<div id="home">
+
 <h2>Academics</h2>
   <ul>
     <li><a href="#master">MBA in Energy and Environmental Management & Economics</a></li>
@@ -428,7 +429,7 @@ Winner: <a href="https://uk.linkedin.com/in/spyridonas-thakis-christodoulou-3100
  <hr>
 
 <a name="contact"></a>
-## Contact
+<h1>Contact</h1>
 
 Get in touch with me at <a href="matheos.giakoumis97@hotmail.com" target="_blank">matheos.giakoumis97@hotmail.com</a>
 
