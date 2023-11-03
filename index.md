@@ -9,9 +9,10 @@
 
   <div class="video-container">
 <iframe width="460" height="315" src="https://www.youtube.com/embed/_HGQZlK08gQ?autoplay=1&mute=1" frameborder="0"   allow="autoplay; encrypted-media" allowfullscreen playsinline></iframe>
-  <br><br>
 </div>
 
+  <br><br>
+  
   <h2>Academics</h2>
     <ul>
       <li><a href="#master">MBA in Energy and Environmental Management & Economics</a></li>
@@ -46,10 +47,9 @@
 
   </div>
 
-   <hr>
-
-<div id="Education">  
   
+<div id="Education">  
+   <hr>
   <br><br>
   <h1>EDUCATION</h1>
   <br><br>
@@ -127,11 +127,13 @@
   </div>
   <br>
 
-  <hr>
+ 
 </div>
-  <br><br>
-  
+
 <div id="Pubs">  
+   <hr>
+  <br><br>
+
   <a name="pubs"></a>
   <h1>PUBLICATIONS (PEER-REVIEWED)</h1>
   <br>
@@ -193,11 +195,11 @@
 
 </div>
 
+
+<div id="Research"> 
   <br>
 
   <hr>
-
-<div id="Research"> 
   
   <br><br>
   <h1>RESEARCH EXPERIENCE</h1>
@@ -360,9 +362,9 @@
 
 </div>
 
-   <hr>
 
 <div id="Teaching">     
+   <hr>
 
   <br><br>
   <h1>TEACHING EXPERIENCE</h1>
