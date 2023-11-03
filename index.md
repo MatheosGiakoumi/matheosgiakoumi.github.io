@@ -72,7 +72,7 @@
     In a group project supervised by the Well Operations department at ENI S.p.A., we explored optimizing the operation working capital in offshore drilling via Smart Contracts. After reviewing blockchain technology and developing smart contracts on Ethereum, we modeled their economic impact. Our findings were encapsulated in a thesis and highlighted by a live blockchain lottery demonstration, underscoring the tech's practicality in the Oil and Gas industry. Our project was guided by industry professionals including <a href="https://it.linkedin.com/in/carla-sanasi-078211245" target="_blank"> Carla Sanasi</a>, <a href="" target="_blank"> Marco Amicosante</a>, <a href="https://it.linkedin.com/in/uperna" target="_blank"> Umberto Pena</a>. 
 <br>
 Group Members: <a href="https://it.linkedin.com/in/lorenza-bifano-a56551199" target="_blank"> Lorenza Bifano</a>, <a href="https://it.linkedin.com/in/giacomo-pernazza-b73a4a11b" target="_blank"> Giacomo Pernazza</a>, <a href="https://ly.linkedin.com/in/tarek-zaghonni-62b93b1b4" target="_blank"> Tarek Zaghonni</a> <br>
-<a href="https://sepolia.etherscan.io/tx/0xd89b6647e13959242dbdf696936509ca4c366e46341131e0fbbde87aa963d07f" target="_blank"> Winner:</a>) <a href="https://uk.linkedin.com/in/spyridonas-thakis-christodoulou-310089182" target="_blank"> Thagy Christodoulou</a>
+<a href="https://sepolia.etherscan.io/tx/0xd89b6647e13959242dbdf696936509ca4c366e46341131e0fbbde87aa963d07f" target="_blank"> Winner:</a> <a href="https://uk.linkedin.com/in/spyridonas-thakis-christodoulou-310089182" target="_blank"> Thagy Christodoulou</a>
     </li>
     <li>2022 - 2023 
     </li>  
