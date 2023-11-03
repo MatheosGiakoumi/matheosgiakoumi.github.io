@@ -42,18 +42,43 @@ body {
 
 /* Navbar link styles */
 .navbar a {
-  float: left;
-  display: block;
+  float: none; /* Do not float links to the left */
+  display: inline-block; /* Change to inline-block */
   color: #f2f2f2; /* Light color for text */
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
 }
 
+/* Center the navbar links */
+.navbar {
+  text-align: center;
+}
+
 /* Navbar link hover styles */
 .navbar a:hover {
   background-color: #ddd; /* Light background on hover */
   color: black;
+}
+
+/* Add padding to the top of the body to prevent content from hiding behind the navbar */
+body {
+  padding-top: 50px; /* Adjust this value based on the actual height of your navbar */
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+  .navbar {
+    width: auto; /* Adjust width for small screens */
+  }
+
+  .navbar a {
+    padding: 10px 10px; /* Adjust padding for small screens */
+  }
+
+  body {
+    padding-top: 60px; /* Adjust this value based on the actual height of your navbar on small screens */
+  }
 }
 
 /* Smooth scrolling */
