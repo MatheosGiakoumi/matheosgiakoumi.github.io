@@ -36,6 +36,16 @@ body {
   box-shadow: 0 2px 4px rgba(0,0,0,0.5); /* Optional: Adds a shadow for depth */
 }
 
+/* Navbar link styles */
+.navbar a {
+  float: left;
+  display: block;
+  color: #f2f2f2; /* Light color for text */
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
 /* Navbar link hover styles */
 .navbar a:hover {
   background-color: #ddd; /* Light background on hover */
