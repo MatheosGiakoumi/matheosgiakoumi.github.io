@@ -6,12 +6,21 @@ body {
 }
 
 .text-block {
-  background-color: rgba(255, 255, 255, 0.9); /* Increase the last number for less transparency */
-  padding: 15px;
-  border-radius: 8px;
-  color: #333; /* Dark grey color for text */
-  text-shadow: 1px 1px 8px rgba(0, 0, 0, 0.7); /* Soft black shadow */
-  font-weight: 600; /* Semi-bold font */
-  line-height: 1.6; /* Increase line spacing for better readability */
-  margin-bottom: 20px; /* Add some space below each text block */
+  color: #333; /* Dark grey color for text, which is simple and professional */
+  background-color: rgba(255, 255, 255, 0.8); /* White background with a bit of transparency */
+  padding: 15px; /* Padding around the text */
+  border-radius: 5px; /* Slightly rounded corners for the text block */
+  max-width: 800px; /* Maximum width of the text block */
+  margin: 20px auto; /* Center the block with automatic margins */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Subtle shadow for depth */
+}
+
+/* Style adjustments for links within the text block for better visibility */
+.text-block a {
+  color: #0066cc; /* A standard link color */
+  text-decoration: none; /* No underline */
+}
+
+.text-block a:hover {
+  text-decoration: underline; /* Underline on hover for better interaction feedback */
 }
