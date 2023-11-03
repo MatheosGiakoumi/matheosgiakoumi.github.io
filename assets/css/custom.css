@@ -6,9 +6,12 @@ body {
 }
 
 .text-block {
-  background-color: rgba(255, 255, 255, 0.5); /* White background with 50% opacity */
-  border: 1px solid #ccc; /* Light grey border */
-  padding: 15px; /* Spacing inside the box */
-  border-radius: 8px; /* Rounded corners */
-  margin-bottom: 20px; /* Space below the box */
+  background-color: rgba(255, 255, 255, 0.9); /* Increase the last number for less transparency */
+  padding: 15px;
+  border-radius: 8px;
+  color: #333; /* Dark grey color for text */
+  text-shadow: 1px 1px 8px rgba(0, 0, 0, 0.7); /* Soft black shadow */
+  font-weight: 600; /* Semi-bold font */
+  line-height: 1.6; /* Increase line spacing for better readability */
+  margin-bottom: 20px; /* Add some space below each text block */
 }
