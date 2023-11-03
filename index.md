@@ -6,7 +6,7 @@
 
 <hr>
 
-<iframe width="460" height="315" src="https://www.youtube.com/embed/_HGQZlK08gQ?autoplay=1" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="460" height="315" src="https://www.youtube.com/embed/_HGQZlK08gQ?autoplay=1&mute=1" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen playsinline></iframe>
 <br><br>
 
 <h2>Academics</h2>
@@ -66,7 +66,7 @@
     <li><strong><u>Dissertation Topic:</u></strong> “Smart Contracts in Well Operations” (Novelli Award) <br>
     In a group project supervised by the Well Operations department at ENI S.p.A., we aimed to assess if Smart Contracts could optimize the operating working capital in offshore drilling rig operations. An extensive literature review was conducted, focusing on blockchain technology, particularly the Ethereum blockchain. Our exploration covered the applications and industry trends of blockchain technology. We gained hands-on experience deploying and coding real smart contracts on the Ethereum Blockchain, specifically for contract agreements between operators and contractors in drilling operations. Additionally, we developed stochastic business and economic models to evaluate the potential impact of this technology on the operating working capital. A comprehensive thesis report was compiled, and we presented our findings, which included a live demonstration of deploying a Decentralized Application — a lottery for the audience (with a pineapple as the prize) on the Ethereum Blockchain (<a href="https://sepolia.etherscan.io/" target="_blank">Sepolia TestNet</a>). This demonstration effectively showcased the practical use of the technology (the transaction of the winning entry can be viewed <a href="https://sepolia.etherscan.io/tx/0xd89b6647e13959242dbdf696936509ca4c366e46341131e0fbbde87aa963d07f" target="_blank"> here</a>) and provided an introduction to its application in the Oil and Gas Industry. Our project was guided by industry professionals including <a href="https://it.linkedin.com/in/carla-sanasi-078211245" target="_blank"> Carla Sanasi</a>, <a href="" target="_blank"> Marco Amicosante</a>, <a href="https://it.linkedin.com/in/uperna" target="_blank"> Umberto Pena</a>. 
 <br>
-Group Members: <a href="https://it.linkedin.com/in/lorenza-bifano-a56551199" target="_blank"> Lorenza Bifano</a>, <a href="https://it.linkedin.com/in/giacomo-pernazza-b73a4a11b" target="_blank"> Giacomo Pernazza</a>, <a href="https://ly.linkedin.com/in/tarek-zaghonni-62b93b1b4" target="_blank"> Tarek Zaghonni</a>
+Group Members: <a href="https://it.linkedin.com/in/lorenza-bifano-a56551199" target="_blank"> Lorenza Bifano</a>, <a href="https://it.linkedin.com/in/giacomo-pernazza-b73a4a11b" target="_blank"> Giacomo Pernazza</a>, <a href="https://ly.linkedin.com/in/tarek-zaghonni-62b93b1b4" target="_blank"> Tarek Zaghonni</a> <br>
 Winner: <a href="https://uk.linkedin.com/in/spyridonas-thakis-christodoulou-310089182" target="_blank"> Thagy Christodoulou</a>
     </li>
     <li>2022 - 2023 
@@ -142,8 +142,8 @@ Winner: <a href="https://uk.linkedin.com/in/spyridonas-thakis-christodoulou-3100
     </li>
     <br>
     <li><strong> Giakoumi, M.</strong>, Stephanou, PS., Kapnisis, KK., Anayiotos, A. “A Predictive Toxicokinetic Model for Nickel Leaching from Cardiovascular Stents”. <a href="https://pubs.acs.org/journal/abseba" target="_blank"> ACS Biomaterials Science & Engineering</a>.
-    </li>
-    <li><strong>Status</strong>: Under Review
+    <br>
+    <strong>Status</strong>: Under Review
     </li>
     <br>
     <li> Konstantinou, C., <strong>Giakoumi, M.*</strong>, Papadimitriou, N., Panagiotou, F. C., Tsangarides, A., Iosif, G., Stasis, N., Finiris, S., Georgiou, V., Papanastasiou, P. “Advances in the Field Development Plans (FDPs): The case of the Frigg Field”.
