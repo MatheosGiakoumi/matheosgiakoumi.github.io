@@ -29,9 +29,9 @@ body {
   text-decoration: underline; /* Underline on hover for better interaction feedback */
 }
 
-/* Fixed navbar styles */
-.navbar {
-  overflow: hidden;
+/* Container for the navbar to center it */
+.nav-container {
+  text-align: center;
   background-color: #333; /* Dark background for contrast */
   position: fixed;
   top: 0;
@@ -40,19 +40,20 @@ body {
   box-shadow: 0 2px 4px rgba(0,0,0,0.5); /* Optional: Adds a shadow for depth */
 }
 
+/* Fixed navbar styles */
+.navbar {
+  display: inline-block; /* Allows the navbar to only take up as much width as its content */
+  margin: 0 auto; /* Center the navbar */
+  background-color: #333; /* Dark background for contrast */
+}
+
 /* Navbar link styles */
 .navbar a {
-  float: none; /* Do not float links to the left */
   display: inline-block; /* Change to inline-block */
   color: #f2f2f2; /* Light color for text */
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
-}
-
-/* Center the navbar links */
-.navbar {
-  text-align: center;
 }
 
 /* Navbar link hover styles */
@@ -68,7 +69,7 @@ body {
 
 /* Responsive adjustments */
 @media (max-width: 768px) {
-  .navbar {
+  .nav-container {
     width: auto; /* Adjust width for small screens */
   }
 
