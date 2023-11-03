@@ -103,6 +103,7 @@
   </ul>
 
   </div>
+  <img src="images/MEng.png">
   <br>
 
   <a name="bs"></a>
