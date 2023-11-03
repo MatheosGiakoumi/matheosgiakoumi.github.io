@@ -191,13 +191,14 @@
 
   </div>
 
+</div>
+
   <br>
 
   <hr>
-  
-</div>
 
-<div id="Research">  
+<div id="Research"> 
+  
   <br><br>
   <h1>RESEARCH EXPERIENCE</h1>
   <br>
