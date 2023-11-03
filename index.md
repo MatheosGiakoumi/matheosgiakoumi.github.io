@@ -2,8 +2,8 @@
 <div class="text-block">
 
   <div id="home">    
+    <br><br>
     <h1>Detailed Portfolio</h1>
-    <br>
 
   <hr>
 
