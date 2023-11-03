@@ -423,7 +423,7 @@
 
    <hr>
    
-<div id="Other">  
+<!-- <div id="Other"> --> 
   
   <br><br>
   <h1>OTHER SKILLS</h1>
@@ -443,7 +443,7 @@
   <br>
 
    <hr>
-</div>
+<!-- </div> -->
 
   <a name="contact"></a>
   <h1>Contact</h1>
