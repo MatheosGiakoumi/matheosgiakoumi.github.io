@@ -297,7 +297,7 @@
    <hr>
 
   <a name="thermodyn"></a>
-  <h2>Material Thermodynamics Laboratory - Cyprus University of Technology</h2>
+  <h2>Materials Thermodynamics Laboratory - Cyprus University of Technology</h2>
   <a href="https://www.cut.ac.cy/faculties/fet/mem/staff/dep/nicos.angastiniotis/?languageId=1" target="_blank">Link to Website</a>
 
   <div style="text-align: justify;">
