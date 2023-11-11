@@ -24,7 +24,7 @@
 
   <h2>Research Experience</h2>
     <ul>
-      <li><a href="#feem">Technologies for the Energy Transition - FEEM</a></li>
+      <li><a href="#feem">Technologies in the Energy Transition - FEEM</a></li>
       <li><a href="#gree">Geomechanics Research for Energy and Environment - UCY</a></li>
       <li><a href="#biolisys">Biomechanics and Living Systems Analysis - CUT</a></li>
       <li><a href="#thermodyn">Material Thermodynamics Laboratory - CUT</a></li>
@@ -208,7 +208,7 @@
   <br>
 
   <a name="feem"></a>
-  <h2>Technologies for the Energy Transition - Fondazione Eni Enrico Mattei</h2>
+  <h2>Technologies in the Energy Transition - Fondazione Eni Enrico Mattei</h2>
   <a href="https://www.feem.it/en/ricerca/programmi/technologies-for-the-energy-transition/" target="_blank">Link to Website</a>
 
   <div style="text-align: justify;">
