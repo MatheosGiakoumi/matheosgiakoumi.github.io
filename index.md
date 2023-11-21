@@ -189,7 +189,7 @@
       <li> Konstantinou, C., <strong>Giakoumi, M.</strong>, Tsangarides, A., Iosif, G., Stasis, N., Finiris, S., Georgiou, V., Panagiotou, F. C., Papadimitriou, N., Papanastasiou, P. (2023). “Lessons learned from the Frigg Field: Applicability of the findings in the Eastern Mediterranean analogues”. Presentation at the <a href="https://erc.aapg.org/2023" target="_blank">AAPG Europe Regional Conference</a> , Larnaca, Cyprus, 23 – 24 May 2023.
       </li>
       <br>
-      <li> Konstantinou, C., Papadimitriou, N., <strong>Giakoumi, M.</strong>, Tsangarides, A., Iosif, G., Stasis, N., Finiris, S., Georgiou, V., Panagiotou, F. C., Papanastasiou, P. (2023). “Advancements in Field Development Plans: Applicability of the Frigg field findings in the Eastern Mediterranean analogues”.<a href="https://www.earthdoc.org/content/proceedings/east-med-2023" target="_blank">Fourth EAGE Eastern Mediterranean Workshop 2023</a>, <a href="https://doi.org/10.3997/2214-4609.202330028" target="_blank"> DOI.org/10.3997/2214-4609.202330028</a>.
+      <li> Konstantinou, C., Papadimitriou, N., <strong>Giakoumi, M.</strong>, Tsangarides, A., Iosif, G., Stasis, N., Finiris, S., Georgiou, V., Panagiotou, F. C., Papanastasiou, P. (2023). “Advancements in Field Development Plans: Applicability of the Frigg field findings in the Eastern Mediterranean analogues”.<a href="https://www.earthdoc.org/content/proceedings/east-med-2023" target="_blank"> Fourth EAGE Eastern Mediterranean Workshop</a>, Athens, Greece, 4 – 6 December 2023. <a href="https://doi.org/10.3997/2214-4609.202330028" target="_blank"> DOI: 10.3997/2214-4609.202330028</a>.
       </li>  
   </ol>
 
