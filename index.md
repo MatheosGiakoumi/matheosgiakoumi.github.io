@@ -86,7 +86,7 @@
 
   <br>
   <a name="meng"></a>
-  <h2>MEng Natural Gas Engineering (9.57/10 - Distinction)</h2>
+  <h2>MEng Natural Gas Engineering (9.57/10 - Highest Honors)</h2>
   <a href="https://websites.ucy.ac.cy/petcy/en/" target="_blank">Link to Website</a>
 
   <div style="text-align: justify;">
@@ -95,6 +95,8 @@
       <li><strong><u>Dissertation Topic:</u></strong> “The Frigg Field Development Plan (FDP) revisited”. For more information click <a href="#gree">here</a>.
       </li>
       <li><strong><u>Notable Courses:</u></strong> Petroleum Geomechanics (10/10), Reservoir Engineering (10/10), Formation Evaluation (10/10), Well and Subsea Completion and Production (10/10).
+      </li>
+      <li><strong><u>Honors:</u></strong> Honorary distinction for the highest grade among the program.
       </li>
       <li><strong><u>Scolarship:</u></strong> The program was fully funded (Tuition & Stipend) by the <a href="https://hydrocarbons.gov.cy/en/" target="_blank">Hydrocarbons Service from Ministry of Energy Commerce and Industry of Cyprus</a>  <strong>(Awarded: €14,500)</strong>. 
       </li>
