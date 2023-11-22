@@ -10,23 +10,23 @@ body {
 }
 
 .text-block {
-  color: #333; /* Dark grey color for text, which is simple and professional */
-  background-color: rgba(255, 255, 255, 0.8); /* White background with a bit of transparency */
-  padding: 15px; /* Padding around the text */
-  border-radius: 5px; /* Slightly rounded corners for the text block */
-  max-width: 800px; /* Maximum width of the text block */
-  margin: 20px auto; /* Center the block with automatic margins */
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Subtle shadow for depth */
+  color: #333;
+  background-color: rgba(255, 255, 255, 0.8);
+  padding: 15px; 
+  border-radius: 5px; 
+  max-width: 800px;
+  margin: 20px auto; 
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); 
 }
 
 /* Style adjustments for links within the text block for better visibility */
 .text-block a {
-  color: #0066cc; /* A standard link color */
-  text-decoration: none; /* No underline */
+  color: #0066cc;
+  text-decoration: none; 
 }
 
 .text-block a:hover {
-  text-decoration: underline; /* Underline on hover for better interaction feedback */
+  text-decoration: underline; 
 }
 
 /* Container for the navbar to center it */
@@ -35,23 +35,23 @@ body {
   background-color: #333; /* Dark background for contrast */
   position: fixed;
   top: 0;
-  left: 0; /* Add this to ensure it's properly fixed */
-  right: 0; /* Add this to ensure it's properly fixed */
-  z-index: 1000; /* Ensure it stays on top of other content */
-  box-shadow: 0 2px 4px rgba(0,0,0,0.5); /* Optional: Adds a shadow for depth */
+  left: 0;
+  right: 0;
+  z-index: 1000; 
+  box-shadow: 0 2px 4px rgba(0,0,0,0.5);
 }
 
 /* Fixed navbar styles */
 .navbar {
-  display: inline-block; /* Allows the navbar to only take up as much width as its content */
-  margin: 0 auto; /* Center the navbar */
-  background-color: #333; /* Dark background for contrast */
+  display: inline-block;
+  margin: 0 auto;
+  background-color: #333;
 }
 
 /* Navbar link styles */
 .navbar a {
-  display: inline-block; /* Change to inline-block */
-  color: #f2f2f2; /* Light color for text */
+  display: inline-block; 
+  color: #f2f2f2;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
@@ -59,32 +59,32 @@ body {
 
 /* Navbar link hover styles */
 .navbar a:hover {
-  background-color: #ddd; /* Light background on hover */
+  background-color: #ddd;
   color: black;
 }
 
-/* Ensure that the navbar links are centered within the navbar */
+/* navbar link centered within the navbar */
 .navbar {
   text-align: center;
 }
 
-/* Add padding to the top of the body to prevent content from hiding behind the navbar */
+/*prevent content from hiding behind the navbar */
 body {
-  padding-top: 50px; /* Adjust this value based on the actual height of your navbar */
+  padding-top: 50px;
 }
 
 /* Responsive adjustments */
 @media (max-width: 768px) {
   .nav-container {
-    width: auto; /* Adjust width for small screens */
+    width: auto;
   }
 
   .navbar a {
-    padding: 10px 10px; /* Adjust padding for small screens */
+    padding: 10px 10px; 
   }
 
   body {
-    padding-top: 60px; /* Adjust this value based on the actual height of your navbar on small screens */
+    padding-top: 60px; 
   }
 }
 
@@ -95,15 +95,14 @@ html {
 
 /* Offset for content sections */
 section {
-  padding-top: 60px; /* Adjust based on the height of your navbar */
-  margin-top: -60px; /* Negative margin to offset the padding */
-}
+  padding-top: 60px; 
+  margin-top: -60px; 
 
 /* Responsive adjustments */
 @media (max-width: 768px) {
   .navbar a {
-    padding: 10px; /* Smaller padding for smaller screens */
-    font-size: 14px; /* Smaller font size for smaller screens */
+    padding: 10px; 
+    font-size: 14px; 
 }
 
 /* Responsive video */
