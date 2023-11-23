@@ -2,7 +2,7 @@
 <div class="text-block">
 
   <div id="home">    
-    <br><br>
+    <br><br><br>
     <h1>Detailed Portfolio</h1>
 
   <hr>
@@ -51,11 +51,11 @@
   
 <div id="Education">  
   <hr>
+   <br><br><br>
   <h1>EDUCATION</h1>
-  <br><br>
-
+ 
   <a name="mba"></a>
-  <br><br>
+  <br><br><br>
   <h2>MBA in Energy and Environmental Management and Economics - MEDEA (93/100)</h2>
   <a href="https://www.eni.com/en-IT/careers/medea-masters.html" target="_blank">Link to Website</a>
 
@@ -86,7 +86,7 @@
   <br>
 
   <a name="meng"></a>
-  <br><br>
+  <br><br><br>
   <h2>MEng Natural Gas Engineering (9.57/10 - Highest Honors)</h2>
   <a href="https://websites.ucy.ac.cy/petcy/en/" target="_blank">Link to Website</a>
 
@@ -109,7 +109,7 @@
   <img src="images/MEng.png">
   
   <a name="bs"></a>
-  <br><br>
+  <br><br><br>
   <h2>BS Mechanical Engineering and Materials Science (8.975/10 - Highest Honors)</h2>
   <a href="https://www.cut.ac.cy/faculties/fet/mem/study-guide/Bachelor/?languageId=1" target="_blank">Link to Website</a>
 
@@ -135,11 +135,10 @@
  
 </div>
 
-<div id="Pubs">  
-  <hr>
-  <br><br>
-
+<div id="Pubs">
   <a name="pubs"></a>
+  <hr>
+  <br><br>  
   <h1>PUBLICATIONS (PEER-REVIEWED)</h1>
   <br>
 
@@ -182,7 +181,7 @@
   <hr>
 
   <a name="conf"></a>
-  <br><br>
+  <br><br><br>
   <h1>CONFERENCE PRESENTATIONS</h1>
   <br>
 
@@ -207,7 +206,7 @@
   <h1>RESEARCH EXPERIENCE</h1>
 
   <a name="feem"></a>
-  <br><br>
+  <br><br><br>  
   <h2>Technologies in the Energy Transition - Fondazione Eni Enrico Mattei</h2>
   <a href="https://www.feem.it/en/ricerca/programmi/technologies-for-the-energy-transition/" target="_blank">Link to Website</a>
 
@@ -237,7 +236,7 @@
   <hr>
 
   <a name="gree"></a>
-  <br><br>
+  <br><br><br>  
   <h2>Geomechanics Research for Energy and Environment - University of Cyprus</h2>
   <a href="https://websites.ucy.ac.cy/energygeomechanics/" target="_blank">Link to Website</a>
 
@@ -269,7 +268,7 @@
    <hr>
 
   <a name="biolisys"></a>
-  <br><br>
+  <br><br><br>  
   <h2>Biomechanics and Living Systems Analysis - Cyprus University of Technology</h2>
   <a href="http://biolisys.cut.ac.cy" target="_blank">Link to Website</a>
 
@@ -299,7 +298,7 @@
    <hr>
 
   <a name="thermodyn"></a>
-  <br><br>
+  <br><br><br>  
   <h2>Materials Thermodynamics Laboratory - Cyprus University of Technology</h2>
   <a href="https://www.cut.ac.cy/faculties/fet/mem/staff/dep/nicos.angastiniotis/?languageId=1" target="_blank">Link to Website</a>
 
@@ -323,7 +322,7 @@
    <hr>
 
   <a name="devicetech"></a>
-  <br><br>
+  <br><br><br>  
   <h2>Device Technology & Chemical Physics Lab - Cyprus University of Technology</h2>
   <a href="www.devtechcp.eu" target="_blank">Link to Website</a>
 
@@ -346,7 +345,7 @@
    <hr>
 
   <a name="nano"></a>
-  <br><br>
+  <br><br><br>  
   <h2>Research Unit for Nanostructured Material Science - Cyprus University of Technology</h2>
   <a href="https://www.cut.ac.cy/faculties/fet/mem/research/research-units-and-laboratories/runms/?languageId=1"     target="_blank">Link to Website</a>
 
@@ -374,10 +373,9 @@
   <hr>
   <br><br>
   <h1>TEACHING EXPERIENCE</h1>
-
-  <br><br>
+  
   <a name="instrucy"></a>
-  <br><br>
+  <br><br><br>  
   <h2>Instructor, Master on Natural Gas in Energy Transition - University of Cyprus</h2>
   <a href="https://websites.ucy.ac.cy/petcy/en/" target="_blank">Link to Website</a>
 
@@ -395,7 +393,7 @@
   </ul>
 
   <a name="instrunimi"></a>
-  <br><br>
+  <br><br><br>  
   <h2>Instructor, Master on Environmental and Food Economics - University of Milan</h2>
   <a href="https://efe.cdl.unimi.it/en" target="_blank">Link to Website</a>
 
@@ -412,7 +410,7 @@
   </div>
   
   <a name="tutor"></a>
-  <br><br>
+  <br><br><br>  
   <h2>University Tutor, Center of Student Development - Cyprus University of Technology</h2>
   <a href="https://www.cut.ac.cy/students/advisory-and-counseling/?languageId=1" target="_blank">Link to Website</a>
   <br>
@@ -429,7 +427,7 @@
   </div>
   
   <a name="math"></a>
-  <br><br>
+  <br><br><br>  
   <h2>Mathematics Tutor for High School Students</h2>
   <div style="text-align: justify;">
   <ul>
