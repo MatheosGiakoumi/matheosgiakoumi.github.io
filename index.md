@@ -10,6 +10,7 @@
   <div class="video-container">
 <iframe width="460" height="315" src="https://www.youtube.com/embed/_HGQZlK08gQ?autoplay=1&mute=1" frameborder="0"   allow="autoplay; encrypted-media" allowfullscreen playsinline></iframe>
 </div>
+  <hr>
 
   <br><br>
   
@@ -83,7 +84,6 @@
 
   </div>
   <img src="images/master.png">
-  <br>
 
   <a name="meng"></a>
   <br><br><br>
@@ -130,7 +130,7 @@
 
   </div>
   <img src="images/bs.gif">
-  <br>
+  <br><br><br>
 
  
 </div>
@@ -138,7 +138,7 @@
 <div id="Pubs">
   <a name="pubs"></a>
   <hr>
-  <br><br>  
+  <br><br><br>  
   <h1>PUBLICATIONS (PEER-REVIEWED)</h1>
   <br>
 
@@ -181,9 +181,10 @@
   <hr>
 
   <a name="conf"></a>
+  
   <br><br><br>
   <h1>CONFERENCE PRESENTATIONS</h1>
-  <br>
+  <br><br><br>
 
   <div style="text-align: justify;">
 
@@ -200,9 +201,10 @@
 </div>
 
 
-<div id="Research"> 
+<div id="Research">
+  
   <hr> 
-  <br><br>
+  <br><br><br>
   <h1>RESEARCH EXPERIENCE</h1>
 
   <a name="feem"></a>
@@ -342,7 +344,7 @@
   <br>
   <img src="images/devtech.png">
 
-   <hr>
+  <hr>
 
   <a name="nano"></a>
   <br><br><br>  
@@ -371,7 +373,7 @@
 
 <div id="Teaching">     
   <hr>
-  <br><br>
+  <br><br><br>
   <h1>TEACHING EXPERIENCE</h1>
   
   <a name="instrucy"></a>
