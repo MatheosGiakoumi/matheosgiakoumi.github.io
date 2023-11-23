@@ -107,9 +107,9 @@
 
   </div>
   <img src="images/MEng.png">
-  <br><br>
-
+  
   <a name="bs"></a>
+  <br><br>
   <h2>BS Mechanical Engineering and Materials Science (8.975/10 - Highest Honors)</h2>
   <a href="https://www.cut.ac.cy/faculties/fet/mem/study-guide/Bachelor/?languageId=1" target="_blank">Link to Website</a>
 
@@ -136,7 +136,7 @@
 </div>
 
 <div id="Pubs">  
-   <hr>
+  <hr>
   <br><br>
 
   <a name="pubs"></a>
@@ -202,15 +202,12 @@
 
 
 <div id="Research"> 
-  <br>
-
-  <hr>
-  
+  <hr> 
   <br><br>
   <h1>RESEARCH EXPERIENCE</h1>
-  <br>
 
   <a name="feem"></a>
+  <br><br>
   <h2>Technologies in the Energy Transition - Fondazione Eni Enrico Mattei</h2>
   <a href="https://www.feem.it/en/ricerca/programmi/technologies-for-the-energy-transition/" target="_blank">Link to Website</a>
 
@@ -240,6 +237,7 @@
   <hr>
 
   <a name="gree"></a>
+  <br><br>
   <h2>Geomechanics Research for Energy and Environment - University of Cyprus</h2>
   <a href="https://websites.ucy.ac.cy/energygeomechanics/" target="_blank">Link to Website</a>
 
@@ -271,6 +269,7 @@
    <hr>
 
   <a name="biolisys"></a>
+  <br><br>
   <h2>Biomechanics and Living Systems Analysis - Cyprus University of Technology</h2>
   <a href="http://biolisys.cut.ac.cy" target="_blank">Link to Website</a>
 
@@ -300,6 +299,7 @@
    <hr>
 
   <a name="thermodyn"></a>
+  <br><br>
   <h2>Materials Thermodynamics Laboratory - Cyprus University of Technology</h2>
   <a href="https://www.cut.ac.cy/faculties/fet/mem/staff/dep/nicos.angastiniotis/?languageId=1" target="_blank">Link to Website</a>
 
@@ -323,6 +323,7 @@
    <hr>
 
   <a name="devicetech"></a>
+  <br><br>
   <h2>Device Technology & Chemical Physics Lab - Cyprus University of Technology</h2>
   <a href="www.devtechcp.eu" target="_blank">Link to Website</a>
 
@@ -345,6 +346,7 @@
    <hr>
 
   <a name="nano"></a>
+  <br><br>
   <h2>Research Unit for Nanostructured Material Science - Cyprus University of Technology</h2>
   <a href="https://www.cut.ac.cy/faculties/fet/mem/research/research-units-and-laboratories/runms/?languageId=1"     target="_blank">Link to Website</a>
 
@@ -369,13 +371,13 @@
 
 
 <div id="Teaching">     
-   <hr>
-
+  <hr>
   <br><br>
   <h1>TEACHING EXPERIENCE</h1>
 
   <br><br>
   <a name="instrucy"></a>
+  <br><br>
   <h2>Instructor, Master on Natural Gas in Energy Transition - University of Cyprus</h2>
   <a href="https://websites.ucy.ac.cy/petcy/en/" target="_blank">Link to Website</a>
 
