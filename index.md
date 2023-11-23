@@ -15,7 +15,7 @@
   
   <h2>Academics</h2>
     <ul>
-      <li><a href="#master">MBA in Energy and Environmental Management & Economics</a></li>
+      <li><a href="#mba">MBA in Energy and Environmental Management & Economics</a></li>
       <li><a href="#meng">MEng in Natural Gas Engineering</a></li>
       <li><a href="#bs">BS in Mechanical Engineering and Materials Science</a></li>
       <li><a href="#pubs">Publications (peer-reviewed)</a></li>
@@ -50,12 +50,12 @@
 
   
 <div id="Education">  
-   <hr>
-  <br><br>
+  <hr>
   <h1>EDUCATION</h1>
   <br><br>
 
-  <a name="master"></a>
+  <a name="mba"></a>
+  <br><br>
   <h2>MBA in Energy and Environmental Management and Economics - MEDEA (93/100)</h2>
   <a href="https://www.eni.com/en-IT/careers/medea-masters.html" target="_blank">Link to Website</a>
 
@@ -85,8 +85,8 @@
   <img src="images/master.png">
   <br>
 
-  <br>
   <a name="meng"></a>
+  <br><br>
   <h2>MEng Natural Gas Engineering (9.57/10 - Highest Honors)</h2>
   <a href="https://websites.ucy.ac.cy/petcy/en/" target="_blank">Link to Website</a>
 
@@ -392,8 +392,8 @@
       </li>  
   </ul>
 
-  <br><br>
   <a name="instrunimi"></a>
+  <br><br>
   <h2>Instructor, Master on Environmental and Food Economics - University of Milan</h2>
   <a href="https://efe.cdl.unimi.it/en" target="_blank">Link to Website</a>
 
@@ -409,8 +409,8 @@
 
   </div>
   
-  <br><br>
   <a name="tutor"></a>
+  <br><br>
   <h2>University Tutor, Center of Student Development - Cyprus University of Technology</h2>
   <a href="https://www.cut.ac.cy/students/advisory-and-counseling/?languageId=1" target="_blank">Link to Website</a>
   <br>
@@ -426,8 +426,8 @@
 
   </div>
   
-  <br><br>
   <a name="math"></a>
+  <br><br>
   <h2>Mathematics Tutor for High School Students</h2>
   <div style="text-align: justify;">
   <ul>
@@ -447,11 +447,10 @@
    
 <!-- <div id="Other"> --> 
   
-  <br><br>
   <h1>OTHER SKILLS</h1>
-  <br>
 
   <a name="further"></a>
+  <br><br>
   <div style="text-align: justify;">
   <ul>
       <li><strong>IT/Software:</strong> <a href="https://www.mathworks.com/" target="_blank">MATLAB & Simulink</a>, <a href="https://soliditylang.org/" target="_blank">Solidity</a>, <a href="https://www.python.org/" target="_blank">Python</a>,<a href="https://isocpp.org/" target="_blank"> C++</a>,<a href="https://www.software.slb.com/products/petrel" target="_blank"> Petrel</a>,<a href="https://www.originlab.com/"   target="_blank"> OriginLab</a>, <a href="https://www.solidworks.com/" target="_blank">Solidworks</a>, Algorithmic Thinking
