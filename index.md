@@ -235,7 +235,6 @@
   <br>
   <img src="images/feem.png">
 
-  <hr>
 
   <a name="gree"></a>
   <br><br><br>  
@@ -267,8 +266,6 @@
   <br>
   <img src="images/gree.png">
 
-   <hr>
-
   <a name="biolisys"></a>
   <br><br><br>  
   <h2>Biomechanics and Living Systems Analysis - Cyprus University of Technology</h2>
@@ -297,8 +294,6 @@
   <br>
   <img src="images/biolisys.png">
 
-   <hr>
-
   <a name="thermodyn"></a>
   <br><br><br>  
   <h2>Materials Thermodynamics Laboratory - Cyprus University of Technology</h2>
@@ -321,8 +316,6 @@
   <br>
   <img src="images/thermo.png">
 
-   <hr>
-
   <a name="devicetech"></a>
   <br><br><br>  
   <h2>Device Technology & Chemical Physics Lab - Cyprus University of Technology</h2>
@@ -343,8 +336,6 @@
   </div>
   <br>
   <img src="images/devtech.png">
-
-  <hr>
 
   <a name="nano"></a>
   <br><br><br>  
@@ -452,7 +443,7 @@
   <h1>OTHER SKILLS</h1>
 
   <a name="further"></a>
-  <br><br>
+  <br><br> <hr>
   <div style="text-align: justify;">
   <ul>
       <li><strong>IT/Software:</strong> <a href="https://www.mathworks.com/" target="_blank">MATLAB & Simulink</a>, <a href="https://soliditylang.org/" target="_blank">Solidity</a>, <a href="https://www.python.org/" target="_blank">Python</a>,<a href="https://isocpp.org/" target="_blank"> C++</a>,<a href="https://www.software.slb.com/products/petrel" target="_blank"> Petrel</a>,<a href="https://www.originlab.com/"   target="_blank"> OriginLab</a>, <a href="https://www.solidworks.com/" target="_blank">Solidworks</a>, Algorithmic Thinking
