@@ -51,7 +51,7 @@
   
 <div id="Education">  
   <hr>
-   <br><br><br>
+  <br><br><br>
   <h1>EDUCATION</h1>
  
   <a name="mba"></a>
