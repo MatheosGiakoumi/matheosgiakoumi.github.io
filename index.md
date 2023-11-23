@@ -35,7 +35,7 @@
   <h2>Teaching Experience</h2>
     <ul>
       <li><a href="#instrucy">Instructor - Master on Natural Gas in Energy Transition</a></li>
-      <li><a href="#instrunimi">Instructor - Master on Natural Gas in Energy Transition</a></li>
+      <li><a href="#instrunimi">Visiting Instructor - Master on Environmental and Food Economics</a></li>
       <li><a href="#tutor">University Tutor - Center of Student Development</a></li>
       <li><a href="#math">Mathematics Tutor for High School Students</a></li>
     </ul>
@@ -373,8 +373,8 @@
 
   <br><br>
   <h1>TEACHING EXPERIENCE</h1>
-  <br>
 
+  <br><br>
   <a name="instrucy"></a>
   <h2>Instructor, Master on Natural Gas in Energy Transition - University of Cyprus</h2>
   <a href="https://websites.ucy.ac.cy/petcy/en/" target="_blank">Link to Website</a>
@@ -392,6 +392,7 @@
       </li>  
   </ul>
 
+  <br><br>
   <a name="instrunimi"></a>
   <h2>Instructor, Master on Environmental and Food Economics - University of Milan</h2>
   <a href="https://efe.cdl.unimi.it/en" target="_blank">Link to Website</a>
@@ -407,8 +408,8 @@
   </ul>
 
   </div>
-  <br>
-
+  
+  <br><br>
   <a name="tutor"></a>
   <h2>University Tutor, Center of Student Development - Cyprus University of Technology</h2>
   <a href="https://www.cut.ac.cy/students/advisory-and-counseling/?languageId=1" target="_blank">Link to Website</a>
@@ -424,8 +425,8 @@
   </ul>
 
   </div>
-  <br>
-
+  
+  <br><br>
   <a name="math"></a>
   <h2>Mathematics Tutor for High School Students</h2>
   <div style="text-align: justify;">
