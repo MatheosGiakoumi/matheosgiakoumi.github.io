@@ -10,9 +10,8 @@
   <div class="video-container">
 <iframe width="460" height="315" src="https://www.youtube.com/embed/_HGQZlK08gQ?autoplay=1&mute=1" frameborder="0"   allow="autoplay; encrypted-media" allowfullscreen playsinline></iframe>
 </div>
-  <hr>
-
-  <br><br>
+  <br><br><br>
+  <hr>  
   
   <h2>Academics</h2>
     <ul>
