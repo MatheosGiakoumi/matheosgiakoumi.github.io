@@ -427,11 +427,11 @@
   </div>
   
   <a name="math"></a>
-  <br><br><br>  
+  <br><br><br><br>    
   <h2>Mathematics Tutor for High School Students</h2>
   <div style="text-align: justify;">
   <ul>
-      <li>Preparing students for the National examination of mathematics.
+      <li>Preparing students for the national examination of mathematics.
       </li>
       <br>
       <li> September 2019 - June 2022
