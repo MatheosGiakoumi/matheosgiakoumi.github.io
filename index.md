@@ -455,7 +455,6 @@
   </div>
   <br>
 
-   <hr>
 <!-- </div> -->
 
   <a name="contact"></a>
