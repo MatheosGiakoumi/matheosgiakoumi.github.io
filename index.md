@@ -56,7 +56,7 @@
  
   <a name="mba"></a>
   <br><br><br>
-  <h2>MBA in Energy and Environmental Management and Economics - MEDEA (93/100)</h2>
+  <h2>MBA in Energy and Environmental Management and Economics - MEDEA (92/100)</h2>
   <a href="https://www.eni.com/en-IT/careers/medea-masters.html" target="_blank">Link to Website</a>
 
   <div style="text-align: justify;">
@@ -154,14 +154,12 @@
       <strong>Status</strong>: Under Review
       </li>
       <br>
-      <li><strong> Giakoumi, M.</strong>, Stephanou, PS., Kapnisis, KK., Anayiotos, A. “A Predictive Toxicokinetic Model for Nickel Leaching from Cardiovascular Stents”. <a href="https://pubs.acs.org/journal/abseba" target="_blank"> ACS Biomaterials Science & Engineering</a>.
+      <li><strong> Giakoumi, M.</strong>, Stephanou, PS., Kokkinidou, D., Papastefanou, C., Kapnisis, KK., Anayiotos, A. “A Predictive Toxicokinetic Model for Nickel Leaching from Cardiovascular Stents”. <a href="https://pubs.acs.org/journal/abseba" target="_blank"> ACS Biomaterials Science & Engineering</a>.
       <br>
       <strong>Status</strong>: Under Review
       </li>
       <br>
-      <li> Konstantinou, C., <strong>Giakoumi, M.*</strong>, Papadimitriou, N., Panagiotou, F. C., Tsangarides, A., Iosif, G., Stasis, N., Finiris, S., Georgiou, V., Papanastasiou, P. “Advances in the Field Development Plans (FDPs): The case of the Frigg Field”.
-      <br>
-      <strong>*Corresponding Author</strong>
+      <li> <strong>Giakoumi, M.</strong>, Konstantinou, C., Papadimitriou, N., Panagiotou, F. C., Tsangarides, A., Iosif, G., Stasis, N., Finiris, S., Georgiou, V., Papanastasiou, P. “Advances in the Field Development Plans (FDPs): The case of the Frigg Field”.
       <br>
       <strong>Status</strong>: In Preparation
       </li>
