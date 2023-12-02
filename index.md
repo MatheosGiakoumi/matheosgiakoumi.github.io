@@ -56,7 +56,7 @@
  
   <a name="mba"></a>
   <br><br><br>
-  <h2>MBA in Energy and Environmental Management and Economics - MEDEA (92/100)</h2>
+  <h2>MBA in Energy and Environmental Management and Economics - MEDEA (92.71/100)</h2>
   <a href="https://www.eni.com/en-IT/careers/medea-masters.html" target="_blank">Link to Website</a>
 
   <div style="text-align: justify;">
