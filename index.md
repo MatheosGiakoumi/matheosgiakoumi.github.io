@@ -156,7 +156,7 @@
       <br>
       <li><strong> Giakoumi, M.</strong>, Stephanou, PS., Kokkinidou, D., Papastefanou, C., Kapnisis, KK., Anayiotos, A. “A Predictive Toxicokinetic Model for Nickel Leaching from Cardiovascular Stents”. <a href="https://pubs.acs.org/journal/abseba" target="_blank"> ACS Biomaterials Science & Engineering</a>.
       <br>
-      <strong>Status</strong>: Under Review
+      <strong>Status</strong>: Under Minor Revisions
       </li>
       <br>
       <li> <strong>Giakoumi, M.</strong>, Konstantinou, C., Papadimitriou, N., Panagiotou, F. C., Tsangarides, A., Iosif, G., Stasis, N., Finiris, S., Georgiou, V., Papanastasiou, P. “Advances in the Field Development Plans (FDPs): The case of the Frigg Field”.
