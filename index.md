@@ -15,7 +15,7 @@
 
   <h2>UPDATES OF THE PROFILE POST-SUBMISSION FOR THE GRADUATE ADMISSION COMMITTEE</h2>
     <ul>
-      <li> <strong><u>December 12th, 2023:</u></strong> Minor revisions have been received for the publication (<a href="#pubs">publication 3</a>) titled "A Predictive Toxicokinetic Model for Nickel Leaching for Vascular Stents". It is worth noting that the title has been updated in the revised version from the one mentioned in my CV (Cardiovascular Stents to Vascular Stents).
+      <li> <strong><u>December 12th, 2023:</u></strong> Minor revisions have been received for the publication (<a href="#pubs">publication 3</a>) titled "A Predictive Toxicokinetic Model for Nickel Leaching for Vascular Stents". It is worth noting that the title has been updated in the revised version from the one mentioned in my resume (Cardiovascular Stents to Vascular Stents).
 </li>
 
 <li> <strong><u>December 11th, 2023:</u></strong> I have been invited to participate in the <a href="https://podcasters.spotify.com/pod/show/science-talks-ucy" target="_blank"> Science Talks-Podcast</a> at the University of Cyprus. The recording will take place in early April.
@@ -27,10 +27,10 @@
 <li> <strong><u>December 6th, 2023:</u></strong> I was invited to give two lectures, one on the 6th and the other on the 13th of December, for the Energy Economics course at the Master's program in Environmental and Food Economics at the University of Milan. Further information can be found <a href="#instrunimi">here</a>.
 </li>
 
-<li> <strong><u>December 6th, 2023:</u></strong> I have been invited by the Cyprus University of Technology alumni to participate in their 'CUTalumni Success Stories' initiative.
+<li> <strong><u>December 6th, 2023:</u></strong> I have been invited by the Cyprus University of Technology alumni to participate in their "CUTalumni Success Stories" initiative.
 </li>
 
-<li> <strong><u>December 5th, 2023:</u></strong> I have been assigned as the first author of a publication (<a href="#pubs">publication 3</a>) that is currently being prepared, titled "Mathematical Tools for Advances in Field Development Plans" (please note that the name has been changed from the one mentioned in my resume, from Advances in the Field Development Plans (FDPs) to Mathematical Tools for ADvancements in Field Development Plans).
+<li> <strong><u>December 5th, 2023:</u></strong> I have been assigned as the first author of a publication (<a href="#pubs">publication 3</a>) that is currently being prepared, titled "Mathematical Tools for Advances in Field Development Plans" (please note that the name has been changed from the one mentioned in my resume, from Advances in the Field Development Plans (FDPs) to Mathematical Tools for Advancements in Field Development Plans).
 </li>
 
 <li> <strong><u>December 5th, 2023:</u></strong> Our work on Advancements in Field Development Plans was successfully presented at the Fourth EAGE Eastern Mediterranean Workshop.
