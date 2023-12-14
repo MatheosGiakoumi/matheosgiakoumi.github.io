@@ -13,7 +13,7 @@
   <br><br><br>
   <hr>
 
-  <h2>UPDATES OF THE PROFILE POST-SUBMISSION FOR THE GRADUATE ADMISSION COMMITTEE</h2>
+  <h2>UPDATES OF THE PROFILE FOR THE GRADUATE ADMISSION COMMITTEE</h2>
     <ul>
       <li> <strong><u>December 12th, 2023:</u></strong> Minor revisions have been received for the publication (<a href="#pubs">publication 3</a>) titled "A Predictive Toxicokinetic Model for Nickel Leaching for Vascular Stents". It is worth noting that the title has been updated in the revised version from the one mentioned in my resume (Cardiovascular Stents to Vascular Stents).
 </li>
