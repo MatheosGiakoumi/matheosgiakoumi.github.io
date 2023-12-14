@@ -15,7 +15,7 @@
 
   <h2>UPDATES OF THE PROFILE POST-SUBMISSION FOR THE GRADUATE ADMISSION COMMITTEE</h2>
     <ul>
-      <li> December 12th, 2023: Minor revisions have been received for the publication (<a href="#instrunimi">publication 3</a>) titled "A Predictive Toxicokinetic Model for Nickel Leaching for Vascular Stents". It is worth noting that the title has been updated in the revised version from the one mentioned in my CV (Cardiovascular Stents to Vascular Stents).
+      <li> December 12th, 2023: Minor revisions have been received for the publication (<a href="#pubs">publication 3</a>) titled "A Predictive Toxicokinetic Model for Nickel Leaching for Vascular Stents". It is worth noting that the title has been updated in the revised version from the one mentioned in my CV (Cardiovascular Stents to Vascular Stents).
 </li>
 
 <li> December 11th, 2023: I have been invited to participate in the <a href="https://podcasters.spotify.com/pod/show/science-talks-ucy" target="_blank"> Science Talks-Podcast</a> at the University of Cyprus. The recording will take place in early April.
@@ -30,7 +30,7 @@
 <li> December 6th, 2023: I have been invited by the Cyprus University of Technology alumni to participate in their 'CUTalumni Success Stories' initiative.
 </li>
 
-<li> December 5th, 2023: I have been assigned as the first author of a publication (<a href="#instrunimi">publication 3</a>) that is currently being prepared, titled "Mathematical Tools for Advances in Field Development Plans" (please note that the name has been changed from the one mentioned in my resume, from Advances in the Field Development Plans (FDPs) to Mathematical Tools for ADvancements in Field Development Plans).
+<li> December 5th, 2023: I have been assigned as the first author of a publication (<a href="#pubs">publication 3</a>) that is currently being prepared, titled "Mathematical Tools for Advances in Field Development Plans" (please note that the name has been changed from the one mentioned in my resume, from Advances in the Field Development Plans (FDPs) to Mathematical Tools for ADvancements in Field Development Plans).
 </li>
 
 <li> December 5th, 2023: Our work on Advancements in Field Development Plans was successfully presented at the Fourth EAGE Eastern Mediterranean Workshop.
