@@ -417,7 +417,7 @@
   <div style="text-align: justify;">
 
   <ul>
-      <li><strong><u> Visiting Instructor of the graduate course Energy Economics:</u></strong> Two lectures were delivered to international students, covering The Field Life Cycle and an Introduction to Stochastic Modelling for Measuring Profitability. The curriculum was structured in the same way as the one I teach at the University of Cyprus.
+      <li><strong><u> Visiting Instructor of the graduate course Energy Economics:</u></strong> Two lectures were delivered to international students, covering The Field Life Cycle and An Introduction to Stochastic Modelling for Measuring Profitability. The curriculum was structured in the same way as the one I teach at the University of Cyprus.
       </li>
       <br>
       <li> December 2023
