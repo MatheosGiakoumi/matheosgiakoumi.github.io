@@ -27,7 +27,7 @@
 <li> <strong><u>December 6th, 2023:</u></strong> I was invited to give two lectures, one on the 6th and the other on the 13th of December, for the Energy Economics course at the Master's program in Environmental and Food Economics at the University of Milan. Further information can be found <a href="#instrunimi">here</a>.
 </li>
 
-<li> <strong><u>December 5th, 2023:</u></strong> I have been assigned as the first author of a publication (<a href="#pubs">publication 3</a>) that is currently being prepared, titled "Mathematical Tools for Advances in Field Development Plans" (please note that the name has been changed from the one mentioned in my resume, from Advances in the Field Development Plans (FDPs) to Mathematical Tools for Advancements in Field Development Plans).
+<li> <strong><u>December 5th, 2023:</u></strong> I have been assigned as the first author of a publication (<a href="#pubs">publication 4</a>) that is currently being prepared, titled "Mathematical Tools for Advances in Field Development Plans" (please note that the name has been changed from the one mentioned in my resume, from Advances in the Field Development Plans (FDPs) to Mathematical Tools for Advancements in Field Development Plans).
 </li>
 
 <li> <strong><u>December 5th, 2023:</u></strong> Our work on Advancements in Field Development Plans was successfully presented at the Fourth EAGE Eastern Mediterranean Workshop.
