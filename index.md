@@ -178,12 +178,12 @@
       <strong>Status</strong>: Under Review
       </li>
       <br>
-      <li><strong> Giakoumi, M.</strong>, Stephanou, PS., Kokkinidou, D., Papastefanou, C., Kapnisis, KK., Anayiotos, A. “A Predictive Toxicokinetic Model for Nickel Leaching from Cardiovascular Stents”. <a href="https://pubs.acs.org/journal/abseba" target="_blank"> ACS Biomaterials Science & Engineering</a>.
+      <li><strong> Giakoumi, M.</strong>, Stephanou, PS., Kokkinidou, D., Papastefanou, C., Kapnisis, KK., Anayiotos, A. “A Predictive Toxicokinetic Model for Nickel Leaching from Vascular Stents”. <a href="https://pubs.acs.org/journal/abseba" target="_blank"> ACS Biomaterials Science & Engineering</a>.
       <br>
       <strong>Status</strong>: Under Minor Revisions
       </li>
       <br>
-      <li> <strong>Giakoumi, M.</strong>, Konstantinou, C., Papadimitriou, N., Panagiotou, F. C., Tsangarides, A., Iosif, G., Stasis, N., Finiris, S., Georgiou, V., Papanastasiou, P. “Advances in the Field Development Plans (FDPs): The case of the Frigg Field”.
+      <li> <strong>Giakoumi, M.</strong>, Konstantinou, C., Papadimitriou, N., Panagiotou, F. C., Tsangarides, A., Iosif, G., Stasis, N., Finiris, S., Georgiou, V., Papanastasiou, P. “Mathematical Tools for Advances in the Field Development Plans (FDPs): The case of the Frigg Field”.
       <br>
       <strong>Status</strong>: In Preparation
       </li>
@@ -210,7 +210,7 @@
   <div style="text-align: justify;">
 
   <ol>
-      <li> <strong>Giakoumi, M.</strong>, Zanini, S., Agathokleous, R., Pontoni, F. (2023). “Beyond Traditional Analysis: A Stochastic Framework for Evaluating Energy Retrofit Investments”. Submitted (Long Abstract) for presentation at the <a href="https://www.iaere.org/conferences/2024/index.html" target="_blank">Twelfth IAERE Annual Conference</a> , Pescara, Italy, 22 – 23 February 2023.
+      <li> <strong>Giakoumi, M.</strong>, Zanini, S., Agathokleous, R., Pontoni, F. (2023). “Beyond Traditional Analysis: A Stochastic Framework for Evaluating Energy Retrofit Investments”. Submitted (Long Abstract) for presentation at the <a href="https://www.iaere.org/conferences/2024/index.html" target="_blank">Twelfth IAERE Annual Conference</a> , Pescara, Italy, 22 – 23 February 2024.
       </li>  
       <br>   
     <li> Konstantinou, C., Papadimitriou, N., <strong>Giakoumi, M.</strong>, Tsangarides, A., Iosif, G., Stasis, N., Finiris, S., Georgiou, V., Panagiotou, F. C., Papanastasiou, P. (2023). “Advancements in Field Development Plans: Applicability of the Frigg field findings in the Eastern Mediterranean analogues”.<a href="https://www.earthdoc.org/content/proceedings/east-med-2023" target="_blank"> Fourth EAGE Eastern Mediterranean Workshop</a>, Athens, Greece, 4 – 6 December 2023. <a href="https://doi.org/10.3997/2214-4609.202330028" target="_blank"> DOI: 10.3997/2214-4609.202330028</a>.
