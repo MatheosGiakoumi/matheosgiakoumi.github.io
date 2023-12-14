@@ -21,7 +21,7 @@
 <li> <strong><u>December 11th, 2023:</u></strong> I have been invited to participate in the <a href="https://podcasters.spotify.com/pod/show/science-talks-ucy" target="_blank"> Science Talks-Podcast</a> at the University of Cyprus. The recording will take place in early April.
 </li>
 
-<li> <strong><u>December 10th, 2023:</u></strong>A Long Abstract has been submitted for presentation at the Twelfth IAERE Annual Conference in Pescara, Italy. Further information can be found <a href="#conf">here</a>.
+<li> <strong><u>December 10th, 2023:</u></strong> A Long Abstract has been submitted for presentation at the Twelfth IAERE Annual Conference in Pescara, Italy. Further information can be found <a href="#conf">here</a>.
 </li>
 
 <li> <strong><u>December 6th, 2023:</u></strong> I was invited to give two lectures, one on the 6th and the other on the 13th of December, for the Energy Economics course at the Master's program in Environmental and Food Economics at the University of Milan. Further information can be found <a href="#instrunimi">here</a>.
