@@ -11,7 +11,16 @@
 <iframe width="460" height="315" src="https://www.youtube.com/embed/_HGQZlK08gQ?autoplay=1&mute=1" frameborder="0"   allow="autoplay; encrypted-media" allowfullscreen playsinline></iframe>
 </div>
   <br><br><br>
-  <hr>  
+  <hr>
+
+  <h2>UPDATES OF THE PROFILE POST-SUBMISSION FOR THE GRADUATE ADMISSION COMMITTEE</h2>
+    <ul>
+      <li><a href="#mba">MBA in Energy and Environmental Management & Economics</a></li>
+      <li><a href="#meng">MEng in Natural Gas Engineering</a></li>
+      <li><a href="#bs">BS in Mechanical Engineering and Materials Science</a></li>
+      <li><a href="#pubs">Publications (peer-reviewed)</a></li>
+      <li><a href="#conf">Conference Presentations</a></li>
+    </ul>
   
   <h2>Academics</h2>
     <ul>
@@ -186,11 +195,14 @@
   <div style="text-align: justify;">
 
   <ol>
+      <li> <strong>Giakoumi, M.</strong>, Zanini, S., Agathokleous, R., Pontoni, F. (2023). “Beyond Traditional Analysis: A Stochastic Framework for Evaluating Energy Retrofit Investments”. Submitted (Long Abstract) for presentation at the <a href="https://www.iaere.org/conferences/2024/index.html" target="_blank">Twelfth IAERE Annual Conference</a> , Pescara, Italy, 22 – 23 February 2023.
+      </li>  
+      <br>   
+    <li> Konstantinou, C., Papadimitriou, N., <strong>Giakoumi, M.</strong>, Tsangarides, A., Iosif, G., Stasis, N., Finiris, S., Georgiou, V., Panagiotou, F. C., Papanastasiou, P. (2023). “Advancements in Field Development Plans: Applicability of the Frigg field findings in the Eastern Mediterranean analogues”.<a href="https://www.earthdoc.org/content/proceedings/east-med-2023" target="_blank"> Fourth EAGE Eastern Mediterranean Workshop</a>, Athens, Greece, 4 – 6 December 2023. <a href="https://doi.org/10.3997/2214-4609.202330028" target="_blank"> DOI: 10.3997/2214-4609.202330028</a>.
+      </li>  
+      <br>
       <li> Konstantinou, C., <strong>Giakoumi, M.</strong>, Tsangarides, A., Iosif, G., Stasis, N., Finiris, S., Georgiou, V., Panagiotou, F. C., Papadimitriou, N., Papanastasiou, P. (2023). “Lessons learned from the Frigg Field: Applicability of the findings in the Eastern Mediterranean analogues”. Presentation at the <a href="https://erc.aapg.org/2023" target="_blank">AAPG Europe Regional Conference</a> , Larnaca, Cyprus, 23 – 24 May 2023.
       </li>
-      <br>
-      <li> Konstantinou, C., Papadimitriou, N., <strong>Giakoumi, M.</strong>, Tsangarides, A., Iosif, G., Stasis, N., Finiris, S., Georgiou, V., Panagiotou, F. C., Papanastasiou, P. (2023). “Advancements in Field Development Plans: Applicability of the Frigg field findings in the Eastern Mediterranean analogues”.<a href="https://www.earthdoc.org/content/proceedings/east-med-2023" target="_blank"> Fourth EAGE Eastern Mediterranean Workshop</a>, Athens, Greece, 4 – 6 December 2023. <a href="https://doi.org/10.3997/2214-4609.202330028" target="_blank"> DOI: 10.3997/2214-4609.202330028</a>.
-      </li>  
   </ol>
 
   </div>
