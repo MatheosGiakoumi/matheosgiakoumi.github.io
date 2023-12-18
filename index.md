@@ -15,7 +15,10 @@
 
   <h2>UPDATES OF THE PROFILE FOR THE GRADUATE ADMISSION COMMITTEE</h2>
     <ul>
-      <li> <strong><u>December 12th, 2023:</u></strong> Minor revisions have been received for the publication (<a href="#pubs">publication 3</a>) titled "A Predictive Toxicokinetic Model for Nickel Leaching for Vascular Stents". It is worth noting that the title has been updated in the revised version from the one mentioned in my resume (Cardiovascular Stents to Vascular Stents).
+<li> <strong><u>December 18th, 2023:</u></strong> The publication titled "A Screening Tool for Carbon Dioxide Injection in Gas Reservoirs with Water Influx Based on the Materials Balance Approach" (<a href="#pubs">publication 2</a>) was accepted for publication at the Geomechanics for Energy and The Environment.
+</li>
+      
+<li> <strong><u>December 12th, 2023:</u></strong> Minor revisions have been received for the publication (<a href="#pubs">publication 3</a>) titled "A Predictive Toxicokinetic Model for Nickel Leaching for Vascular Stents". It is worth noting that the title has been updated in the revised version from the one mentioned in my resume (Cardiovascular Stents to Vascular Stents).
 </li>
 
 <li> <strong><u>December 11th, 2023:</u></strong> I have been invited to participate in the <a href="https://podcasters.spotify.com/pod/show/science-talks-ucy" target="_blank"> Science Talks-Podcast</a> at the University of Cyprus. The recording will take place in early April.
@@ -175,7 +178,7 @@
       <br>
       <li><strong> Giakoumi, M.</strong>, Konstantinou, C., Ehlig-Economides, C., Papanastasiou, P. “A Screening Tool for Carbon Dioxide Injection in Gas Reservoirs with Water Influx Based on the Material Balance Approach”. <a href="https://www.sciencedirect.com/journal/geomechanics-for-energy-and-the-environment" target="_blank"> Geomechanics for Energy and The Environment</a>
       <br>
-      <strong>Status</strong>: Under Review
+      <strong>Status</strong>: Accepted
       </li>
       <br>
       <li><strong> Giakoumi, M.</strong>, Stephanou, PS., Kokkinidou, D., Papastefanou, C., Kapnisis, KK., Anayiotos, A. “A Predictive Toxicokinetic Model for Nickel Leaching from Vascular Stents”. <a href="https://pubs.acs.org/journal/abseba" target="_blank"> ACS Biomaterials Science & Engineering</a>.
