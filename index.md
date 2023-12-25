@@ -15,6 +15,9 @@
 
   <h2>UPDATES OF THE PROFILE FOR THE GRADUATE ADMISSION COMMITTEE</h2>
     <ul>
+<li> <strong><u>December 25th, 2023:</u></strong> Happy Holidays!
+</li>
+      
 <li> <strong><u>December 18th, 2023:</u></strong> The publication titled "A Screening Tool for Carbon Dioxide Injection in Gas Reservoirs with Water Influx Based on the Materials Balance Approach" (<a href="#pubs">publication 2</a>) was accepted for publication at the Geomechanics for Energy and The Environment.
 </li>
       
