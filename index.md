@@ -181,7 +181,7 @@
       <br>
       <li><strong> Giakoumi, M.</strong>, Konstantinou, C., Ehlig-Economides, C., Papanastasiou, P. “A Screening Tool for Carbon Dioxide Injection in Gas Reservoirs with Water Influx Based on the Material Balance Approach”. <a href="https://www.sciencedirect.com/journal/geomechanics-for-energy-and-the-environment" target="_blank"> Geomechanics for Energy and The Environment</a>. 2023 Dec 23, ISSN 2352-3808, <a href="https://www.sciencedirect.com/science/article/abs/pii/S2352380823001016" target="_blank"> DOI: 10.1016/j.gete.2023.100532</a>
       <br>
-      <strong>Status</strong>: Accepted
+      <strong>Status</strong>: In Press
       </li>
       <br>
       <li><strong> Giakoumi, M.</strong>, Stephanou, PS., Kokkinidou, D., Papastefanou, C., Kapnisis, KK., Anayiotos, A. “A Predictive Toxicokinetic Model for Nickel Leaching from Vascular Stents”. <a href="https://pubs.acs.org/journal/abseba" target="_blank"> ACS Biomaterials Science & Engineering</a>.
