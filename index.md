@@ -15,6 +15,10 @@
 
   <h2>UPDATES OF THE PROFILE FOR THE GRADUATE ADMISSION COMMITTEE</h2>
     <ul>
+
+<li> <strong><u>December 29th, 2023:</u></strong> The publication titled "Mathematical Tools for Advances in Field Development Plans" (<a href="#pubs">publication 4</a>) was submitted at the SPE Journal.
+</li>
+
 <li> <strong><u>December 25th, 2023:</u></strong> Happy Holidays!
 </li>
       
@@ -189,9 +193,9 @@
       <strong>Status</strong>: Under Minor Revisions
       </li>
       <br>
-      <li> <strong>Giakoumi, M.</strong>, Konstantinou, C., Papadimitriou, N., Panagiotou, F. C., Tsangarides, A., Iosif, G., Stasis, N., Finiris, S., Georgiou, V., Papanastasiou, P. “Mathematical Tools for Advances in the Field Development Plans (FDPs): The case of the Frigg Field”.
+      <li> <strong>Giakoumi, M.</strong>, Konstantinou, C., Papadimitriou, N., Panagiotou, F. C., Tsangarides, A., Iosif, G., Stasis, N., Finiris, S., Georgiou, V., Papanastasiou, P. “Mathematical Tools for Advances in the Field Development Plans (FDPs)”. <a href="https://onepetro.org/sj" target="_blank"> SPE Journal</a>.
       <br>
-      <strong>Status</strong>: Ready for Submission
+      <strong>Status</strong>: Submitted
       </li>
       <br>
       <li><strong> Giakoumi, M.</strong>, Stephanou, PS., Kapnisis, KK., Anayiotos, A. “Analytical solutions to PBKT (or simply biokinetic) models using the matrix exponential”.
