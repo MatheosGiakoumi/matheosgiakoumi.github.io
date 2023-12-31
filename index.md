@@ -16,6 +16,9 @@
   <h2>UPDATES OF THE PROFILE FOR THE GRADUATE ADMISSION COMMITTEE</h2>
     <ul>
 
+<li> <strong><u>January 1st, 2024:</u></strong> Happy New Year! Matheos' New Year Resolution is Hydrogen!!
+</li>    
+
 <li> <strong><u>December 29th, 2023:</u></strong> The publication titled "Mathematical Tools for Advances in Field Development Plans" (<a href="#pubs">publication 4</a>) was submitted at the SPE Journal.
 </li>
 
