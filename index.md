@@ -16,11 +16,11 @@
   <h2>UPDATES OF THE PROFILE FOR THE GRADUATE ADMISSION COMMITTEE</h2>
     <ul>
 
-<li> <strong><u>January 1st, 2024:</u></strong> Happy New Year! Matheos' New Year Resolution is Hydrogen.
+<li> <strong><u>January 9th, 2024:</u></strong> Long Abstract has been accepted for oral presentation at the Twelfth IAERE Annual Conference in Pescara, Italy. Further information can be found <a href="#conf">here</a>.
 </li>    
 
-<li> <strong><u>December 29th, 2023:</u></strong> The publication titled "Mathematical Tools for Advances in Field Development Plans" (<a href="#pubs">publication 4</a>) was submitted at the SPE Journal.
-</li>
+<li> <strong><u>January 1st, 2024:</u></strong> Happy New Year! Matheos' New Year Resolution is Hydrogen.
+</li>    
 
 <li> <strong><u>December 25th, 2023:</u></strong> Happy Holidays!
 </li>
@@ -196,9 +196,9 @@
       <strong>Status</strong>: Under Minor Revisions
       </li>
       <br>
-      <li> <strong>Giakoumi, M.</strong>, Konstantinou, C., Papadimitriou, N., Panagiotou, F. C., Tsangarides, A., Iosif, G., Stasis, N., Finiris, S., Georgiou, V., Papanastasiou, P. “Mathematical Tools for Advances in the Field Development Plans (FDPs)”. <a href="https://onepetro.org/sj" target="_blank"> SPE Journal</a>.
+      <li> <strong>Giakoumi, M.</strong>, Konstantinou, C., Papadimitriou, N., Panagiotou, F. C., Tsangarides, A., Iosif, G., Stasis, N., Finiris, S., Georgiou, V., Papanastasiou, P. “Mathematical Tools for Advances in the Field Development Plans (FDPs)”.
       <br>
-      <strong>Status</strong>: Submitted
+      <strong>Status</strong>: Ready for SUbmission
       </li>
       <br>
       <li><strong> Giakoumi, M.</strong>, Stephanou, PS., Kapnisis, KK., Anayiotos, A. “Analytical solutions to PBKT (or simply biokinetic) models using the matrix exponential”.
@@ -223,7 +223,7 @@
   <div style="text-align: justify;">
 
   <ol>
-      <li> <strong>Giakoumi, M.</strong>, Zanini, S., Agathokleous, R., Pontoni, F. (2023). “Beyond Traditional Analysis: A Stochastic Framework for Evaluating Energy Retrofit Investments”. Submitted (Long Abstract) for presentation at the <a href="https://www.iaere.org/conferences/2024/index.html" target="_blank">Twelfth IAERE Annual Conference</a> , Pescara, Italy, 22 – 23 February 2024.
+      <li> <strong>Giakoumi, M.</strong>, Zanini, S., Agathokleous, R., Pontoni, F. (2023). “Beyond Traditional Analysis: A Stochastic Framework for Evaluating Energy Retrofit Investments”. Accepted (Long Abstract) for presentation at the <a href="https://www.iaere.org/conferences/2024/index.html" target="_blank">Twelfth IAERE Annual Conference</a> , Pescara, Italy, 22 – 23 February 2024.
       </li>  
       <br>   
     <li> Konstantinou, C., Papadimitriou, N., <strong>Giakoumi, M.</strong>, Tsangarides, A., Iosif, G., Stasis, N., Finiris, S., Georgiou, V., Panagiotou, F. C., Papanastasiou, P. (2023). “Advancements in Field Development Plans: Applicability of the Frigg field findings in the Eastern Mediterranean analogues”.<a href="https://www.earthdoc.org/content/proceedings/east-med-2023" target="_blank"> Fourth EAGE Eastern Mediterranean Workshop</a>, Athens, Greece, 4 – 6 December 2023. <a href="https://doi.org/10.3997/2214-4609.202330028" target="_blank"> DOI: 10.3997/2214-4609.202330028</a>.
