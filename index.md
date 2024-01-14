@@ -16,6 +16,9 @@
   <h2>UPDATES OF THE PROFILE FOR THE GRADUATE ADMISSION COMMITTEE</h2>
     <ul>
 
+<li> <strong><u>January 12th, 2024:</u></strong> Due to domain updates, This website was down on Friday, 12 January.
+</li>  
+
 <li> <strong><u>January 9th, 2024:</u></strong> Long Abstract has been accepted for oral presentation at the Twelfth IAERE Annual Conference in Pescara, Italy. Further information can be found <a href="#conf">here</a>.
 </li>    
 
