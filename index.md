@@ -15,7 +15,9 @@
 
   <h2>UPDATES OF THE PROFILE FOR THE GRADUATE ADMISSION COMMITTEE</h2>
     <ul>
-
+<li> <strong><u>January 19th, 2024:</u></strong> Abstract has been submitted for presentation at the Fourteenth Panhellenic Scientific Conference of Chemical Engineering in Thessaloniki, Greece. Further information can be found <a href="#conf">here</a>.
+</li>
+      
 <li> <strong><u>January 12th, 2024:</u></strong> Due to domain updates, this website was down on Friday, 12 January.
 </li>  
 
@@ -35,9 +37,6 @@
 </li>
 
 <li> <strong><u>December 11th, 2023:</u></strong> I have been invited to participate in the <a href="https://podcasters.spotify.com/pod/show/science-talks-ucy" target="_blank"> Science Talks-Podcast</a> at the University of Cyprus. The recording will take place in early April.
-</li>
-
-<li> <strong><u>December 10th, 2023:</u></strong> A Long Abstract has been submitted for presentation at the Twelfth IAERE Annual Conference in Pescara, Italy. Further information can be found <a href="#conf">here</a>.
 </li>
 
 <li> <strong><u>December 6th, 2023:</u></strong> I was invited to give two lectures, one on the 6th and the other on the 13th of December, for the Energy Economics course at the Master's program in Environmental and Food Economics at the University of Milan. Further information can be found <a href="#instrunimi">here</a>.
@@ -226,6 +225,9 @@
   <div style="text-align: justify;">
 
   <ol>
+      <li> <strong>Giakoumi, M.</strong>, Stephanou, P.S., Kapnisis, K., Anayiotos, A. (2024). “Incorporating Confidence Intervals in Physiologically Based Toxicokinetic (PBTK) Modeling”. Submitted for presentation at the <a href="https://pesxm14.gr/" target="_blank"> Φourteenth Panhellenic Scientific Conference of Chemical Engineering</a> , Thessaloniki, Greece, 29 – 31 May 2024.
+      </li>  
+      <br>   
       <li> <strong>Giakoumi, M.</strong>, Zanini, S., Agathokleous, R., Pontoni, F. (2023). “Beyond Traditional Analysis: A Stochastic Framework for Evaluating Energy Retrofit Investments”. Accepted (Long Abstract) for presentation at the <a href="https://www.iaere.org/conferences/2024/index.html" target="_blank">Twelfth IAERE Annual Conference</a> , Pescara, Italy, 22 – 23 February 2024.
       </li>  
       <br>   
