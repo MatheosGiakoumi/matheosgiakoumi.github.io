@@ -225,7 +225,7 @@
   <div style="text-align: justify;">
 
   <ol>
-      <li> <strong>Giakoumi, M.</strong>, Stephanou, P.S., Kapnisis, K., Anayiotos, A. (2024). “Incorporating Confidence Intervals in Physiologically Based Toxicokinetic (PBTK) Modeling”. Submitted for presentation at the <a href="https://pesxm14.gr/" target="_blank"> Φourteenth Panhellenic Scientific Conference of Chemical Engineering</a> , Thessaloniki, Greece, 29 – 31 May 2024.
+      <li> <strong>Giakoumi, M.</strong>, Stephanou, P.S., Kapnisis, K., Anayiotos, A. (2024). “Incorporating Confidence Intervals in Physiologically Based Toxicokinetic (PBTK) Modeling”. Submitted for presentation at the <a href="https://pesxm14.gr/" target="_blank"> Fourteenth Panhellenic Scientific Conference of Chemical Engineering</a> , Thessaloniki, Greece, 29 – 31 May 2024.
       </li>  
       <br>   
       <li> <strong>Giakoumi, M.</strong>, Zanini, S., Agathokleous, R., Pontoni, F. (2023). “Beyond Traditional Analysis: A Stochastic Framework for Evaluating Energy Retrofit Investments”. Accepted (Long Abstract) for presentation at the <a href="https://www.iaere.org/conferences/2024/index.html" target="_blank">Twelfth IAERE Annual Conference</a> , Pescara, Italy, 22 – 23 February 2024.
