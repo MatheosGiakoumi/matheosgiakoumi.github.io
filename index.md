@@ -13,7 +13,7 @@
   <br><br><br>
   <hr>
 
-  <h2>UPDATES OF THE PROFILE FOR THE GRADUATE ADMISSION COMMITTEE & FACULTY WHO ARE LOOKING FOR A GRA</h2>
+  <h2>PROFILE UPDATES FOR THE GRADUATE ADMISSION COMMITTEE AND PROFESSORS SEEKING A GRADUATE RESEARCH ASSISTANT</h2>
     <ul>
 <li> <strong><u>January 19th, 2024:</u></strong> Abstract has been submitted for presentation at the Fourteenth Panhellenic Scientific Conference of Chemical Engineering in Thessaloniki, Greece. Further information can be found <a href="#conf">here</a>.
 </li>
