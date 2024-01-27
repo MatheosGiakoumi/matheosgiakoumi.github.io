@@ -15,6 +15,9 @@
 
   <h2>PROFILE UPDATES FOR THE GRADUATE ADMISSION COMMITTEE AND PROFESSORS SEEKING A GRADUATE RESEARCH ASSISTANT</h2>
     <ul>
+<li> <strong><u>January 27th, 2024:</u></strong> Publication 4 is currently Under Review. Further information can be found <a href="#pubs">here</a>.
+</li>
+      
 <li> <strong><u>January 25th, 2024:</u></strong> Abstract has been submitted for presentation at the 45th IAEE International Conference, Istanbul, Turkey. Further information can be found <a href="#conf">here</a>.
 </li>
       
