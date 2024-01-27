@@ -132,7 +132,7 @@
   <a name="meng"></a>
   <br><br><br>
   <h2>MEng Natural Gas Engineering (9.57/10 - Highest Honors)</h2>
-  <a href="https://websites.ucy.ac.cy/petcy/en/" target="_blank">Link to Website</a>
+  <a href="https://www.ucy.ac.cy/nge/" target="_blank">Link to Website</a>
 
   <div style="text-align: justify;">
   <I><strong>Department of Civil and Environmental Engineering / Faculty of Engineering / University of Cyprus</strong></I>
