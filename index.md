@@ -204,9 +204,9 @@
       <strong>Status</strong>: Under Minor Revisions
       </li>
       <br>
-      <li> <strong>Giakoumi, M.</strong>, Konstantinou, C., Papadimitriou, N., Panagiotou, F. C., Tsangarides, A., Iosif, G., Stasis, N., Finiris, S., Georgiou, V., Papanastasiou, P. “Mathematical Tools for Advances in the Field Development Plans (FDPs)”.
+      <li> <strong>Giakoumi, M.</strong>, Konstantinou, C., Papadimitriou, N., Panagiotou, F. C., Tsangarides, A., Iosif, G., Stasis, N., Finiris, S., Georgiou, V., Papanastasiou, P. “Mathematical Tools for Advances in the Field Development Plans (FDPs)”.<a href="https://www.sciencedirect.com/journal/gas-science-and-engineering"   target="_blank"> Gas Science and Engineering</a>.
       <br>
-      <strong>Status</strong>: Ready for Submission
+      <strong>Status</strong>: Under Review
       </li>
       <br>
       <li><strong> Giakoumi, M.</strong>, Stephanou, PS., Kapnisis, KK., Anayiotos, A. “Analytical solutions to PBKT (or simply biokinetic) models using the matrix exponential”.
