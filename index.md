@@ -217,7 +217,7 @@
       <strong>Status</strong>: In Preparation
       </li>
       <br>
-      <li><strong><strong>Giakoumi, M.</strong>, Konstantinou, C., Burdeau, P., Papanastasiou, P., Pontoni, P. “From Waste to Commodity: Leveraging Game Theory in the CCUS - Driven CO2 Market - A Case Study in Cyprus”. 
+      <li><strong>Giakoumi, M.</strong>, Konstantinou, C., Burdeau, P., Papanastasiou, P., Pontoni, P. “From Waste to Commodity: Leveraging Game Theory in the CCUS - Driven CO2 Market - A Case Study in Cyprus”. 
       <br>
       <strong>Status</strong>: In Preparation
       </li>
