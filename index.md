@@ -225,7 +225,7 @@
       <strong>Status</strong>: In Preparation
       </li>
       <br>
-      <li><strong>Konstantinou, C., Giakoumi, M.</strong>, Angastiniotis, N., Papanastasiou, P. “HydrogenLAB: A Computational Framework for Simulating Geological Underground Hydrogen Storage”. 
+      <li>Konstantinou, C., <strong>Giakoumi, M.</strong>, Angastiniotis, N., Papanastasiou, P. “HydrogenLAB: A Computational Framework for Simulating Geological Underground Hydrogen Storage”. 
       <br>
       <strong>Status</strong>: In Preparation
       </li>
