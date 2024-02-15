@@ -15,6 +15,9 @@
 
   <h2>PROFILE UPDATES FOR THE GRADUATE ADMISSION COMMITTEE AND PROFESSORS SEEKING A GRADUATE RESEARCH ASSISTANT</h2>
     <ul>
+<li> <strong><u>February 15th, 2024:</u></strong> Publication 7 is currently In Preparation. Further information can be found <a href="#pubs">here</a>.
+</li>
+      
 <li> <strong><u>January 27th, 2024:</u></strong> Publication 6 is currently In Preparation. Further information can be found <a href="#pubs">here</a>.
 </li>
 
@@ -218,6 +221,11 @@
       </li>
       <br>
       <li><strong>Giakoumi, M.</strong>, Konstantinou, C., Burdeau, P., Papanastasiou, P., Pontoni, P. “From Waste to Commodity: Leveraging Game Theory in the CCUS - Driven CO2 Market - A Case Study in Cyprus”. 
+      <br>
+      <strong>Status</strong>: In Preparation
+      </li>
+      <br>
+      <li><strong>Konstantinou, C., Giakoumi, M.</strong>, Angastiniotis, N., Papanastasiou, P. “HydrogenLAB: A Computational Framework for Simulating Geological Underground Hydrogen Storage”. 
       <br>
       <strong>Status</strong>: In Preparation
       </li>
