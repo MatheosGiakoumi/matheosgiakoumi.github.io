@@ -16,7 +16,7 @@
   <h2>PROFILE UPDATES FOR THE GRADUATE ADMISSION COMMITTEE AND PROFESSORS SEEKING A GRADUATE RESEARCH ASSISTANT</h2>
     <ul>
       
-<li> <strong><u>February 21th, 2024:</u></strong>The publication titled "A Predictive Toxicokinetic Model for Nickel Leaching for Vascular Stents" (<a href="#pubs">publication 3</a>) was accepted for publication at the ACS Biomaterials Science & Engineering journal.
+<li> <strong><u>February 21th, 2024:</u></strong> The publication titled "A Predictive Toxicokinetic Model for Nickel Leaching for Vascular Stents" (<a href="#pubs">publication 3</a>) was accepted for publication at the ACS Biomaterials Science & Engineering journal.
 </li>
       
 <li> <strong><u>February 15th, 2024:</u></strong> Publication 7 is currently In Preparation. Further information can be found <a href="#pubs">here</a>.
