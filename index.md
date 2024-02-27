@@ -15,6 +15,8 @@
 
   <h2>PROFILE UPDATES FOR THE GRADUATE ADMISSION COMMITTEE AND PROFESSORS SEEKING A GRADUATE RESEARCH ASSISTANT</h2>
     <ul>
+<li> <strong><u>February 27th, 2024:</u></strong> Abstract has been accepted for oral presentation at the 45th IAEE International Conference in Istanbul, Turkey. Further information can be found <a href="#conf">here</a>.
+</li>  
       
 <li> <strong><u>February 21th, 2024:</u></strong> The publication titled "A Predictive Toxicokinetic Model for Nickel Leaching for Vascular Stents" (<a href="#pubs">publication 3</a>) was accepted for publication at the ACS Biomaterials Science & Engineering journal.
 </li>
@@ -247,7 +249,7 @@
   <div style="text-align: justify;">
 
   <ol>
-      <li> <strong>Giakoumi, M.</strong>, Konstantinou, C., Burdeau, P., Papanastasiou, P., Pontoni, P. (2024). “From Waste to Commodity: Leveraging Game Theory in the CCUS - Driven CO2 Market - A Case Study in Cyprus”. Submitted for presentation at the <a href="https://www.iaee2024.org.tr/" target="_blank"> 45th IAEE International Conference</a> , Istanbul, Turkey, 25 – 28 June 2024.
+      <li> <strong>Giakoumi, M.</strong>, Konstantinou, C., Burdeau, P., Papanastasiou, P., Pontoni, P. (2024). “From Waste to Commodity: Leveraging Game Theory in the CCUS - Driven CO2 Market - A Case Study in Cyprus”. Accepted for presentation at the <a href="https://www.iaee2024.org.tr/" target="_blank"> 45th IAEE International Conference</a> , Istanbul, Turkey, 25 – 28 June 2024.
       </li>
       <br> 
       <li> <strong>Giakoumi, M.</strong>, Stephanou, P.S., Kapnisis, K., Anayiotos, A. (2024). “Incorporating Confidence Intervals in Physiologically Based Toxicokinetic (PBTK) Modeling”. Submitted for presentation at the <a href="https://pesxm14.gr/" target="_blank"> Fourteenth Panhellenic Scientific Conference of Chemical Engineering</a> , Thessaloniki, Greece, 29 – 31 May 2024.
