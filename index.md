@@ -64,7 +64,7 @@
 
 <li> <strong><u>December 4th, 2023:</u></strong> I have been invited by the Cyprus University of Technology alumni to participate in their "CUTalumni Success Stories" initiative.
 </li>
-    </ul>
+
   
   <h2>Academics</h2>
     <ul>
@@ -99,7 +99,7 @@
       <li><a href="#contact">Contact</a></li>
     </ul>
 
-  </div>
+
 
   
 <div id="Education">  
