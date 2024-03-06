@@ -15,7 +15,7 @@
 
   <h2>UNDER CONSTRUCTION</h2>
     <ul>
-<li> This website will be updated soon</a>.
+<li> This website is scheduled to be updated soon.
 </li>  
   
   <h2>Academics</h2>
