@@ -13,58 +13,10 @@
   <br><br><br>
   <hr>
 
-  <h2>PROFILE UPDATES FOR THE GRADUATE ADMISSION COMMITTEE AND PROFESSORS SEEKING A GRADUATE RESEARCH ASSISTANT</h2>
+  <h2>UNDER CONSTRUCTION</h2>
     <ul>
-<li> <strong><u>February 27th, 2024:</u></strong> Abstract has been accepted for oral presentation at the 45th IAEE International Conference in Istanbul, Turkey. Further information can be found <a href="#conf">here</a>.
+<li> This website will be updated soon</a>.
 </li>  
-      
-<li> <strong><u>February 21th, 2024:</u></strong> The publication titled "A Predictive Toxicokinetic Model for Nickel Leaching for Vascular Stents" (<a href="#pubs">publication 3</a>) was accepted for publication at the ACS Biomaterials Science & Engineering journal.
-</li>
-      
-<li> <strong><u>February 15th, 2024:</u></strong> Publication 7 is currently In Preparation. Further information can be found <a href="#pubs">here</a>.
-</li>
-      
-<li> <strong><u>January 27th, 2024:</u></strong> Publication 6 is currently In Preparation. Further information can be found <a href="#pubs">here</a>.
-</li>
-
-<li> <strong><u>January 27th, 2024:</u></strong> Publication 4 is currently Under Review. Further information can be found <a href="#pubs">here</a>.
-</li>
-      
-<li> <strong><u>January 25th, 2024:</u></strong> Abstract has been submitted for presentation at the 45th IAEE International Conference, Istanbul, Turkey. Further information can be found <a href="#conf">here</a>.
-</li>
-      
-<li> <strong><u>January 19th, 2024:</u></strong> Abstract has been submitted for presentation at the Fourteenth Panhellenic Scientific Conference of Chemical Engineering in Thessaloniki, Greece. Further information can be found <a href="#conf">here</a>.
-</li>
-      
-<li> <strong><u>January 12th, 2024:</u></strong> Due to domain updates, this website was down on Friday, 12 January.
-</li>  
-
-<li> <strong><u>January 9th, 2024:</u></strong> Long Abstract has been accepted for oral presentation at the Twelfth IAERE Annual Conference in Pescara, Italy. Further information can be found <a href="#conf">here</a>.
-</li>    
-
-<li> <strong><u>January 1st, 2024:</u></strong> Happy New Year! Matheos' New Year Resolution is Hydrogen.
-</li>    
-
-<li> <strong><u>December 25th, 2023:</u></strong> Happy Holidays!
-</li>
-      
-<li> <strong><u>December 18th, 2023:</u></strong> The publication titled "A Screening Tool for Carbon Dioxide Injection in Gas Reservoirs with Water Influx Based on the Materials Balance Approach" (<a href="#pubs">publication 2</a>) was accepted for publication at the Geomechanics for Energy and The Environment.
-
-<li> <strong><u>December 11th, 2023:</u></strong> I have been invited to participate in the <a href="https://podcasters.spotify.com/pod/show/science-talks-ucy" target="_blank"> Science Talks-Podcast</a> at the University of Cyprus. The recording will take place in early April.
-</li>
-
-<li> <strong><u>December 6th, 2023:</u></strong> I was invited to give two lectures, one on the 6th and the other on the 13th of December, for the Energy Economics course at the Master's program in Environmental and Food Economics at the University of Milan. Further information can be found <a href="#instrunimi">here</a>.
-</li>
-
-<li> <strong><u>December 5th, 2023:</u></strong> I have been assigned as the first author of a publication (<a href="#pubs">publication 4</a>) that is currently being prepared, titled "Mathematical Tools for Advances in Field Development Plans" (please note that the name has been changed from the one mentioned in my resume, from Advances in the Field Development Plans (FDPs) to Mathematical Tools for Advancements in Field Development Plans).
-</li>
-
-<li> <strong><u>December 5th, 2023:</u></strong> Our work on Advancements in Field Development Plans was successfully presented at the Fourth EAGE Eastern Mediterranean Workshop.
-</li>
-
-<li> <strong><u>December 4th, 2023:</u></strong> I have been invited by the Cyprus University of Technology alumni to participate in their "CUTalumni Success Stories" initiative.
-</li>
-
   
   <h2>Academics</h2>
     <ul>
