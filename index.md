@@ -161,12 +161,12 @@
       <br>
       <li><strong> Giakoumi, M.</strong>, Stephanou, PS., Kokkinidou, D., Papastefanou, C., Kapnisis, KK., Anayiotos, A. “A Predictive Toxicokinetic Model for Nickel Leaching from Vascular Stents”. <a href="https://pubs.acs.org/journal/abseba" target="_blank"> ACS Biomaterials Science & Engineering</a>.
       <br>
-      <strong>Status</strong>: Accepted
+      <strong>Status</strong>: Published
       </li>
       <br>
       <li> <strong>Giakoumi, M.</strong>, Konstantinou, C., Papadimitriou, N., Panagiotou, F. C., Tsangarides, A., Iosif, G., Stasis, N., Finiris, S., Georgiou, V., Papanastasiou, P. “Mathematical Tools for Advances in the Field Development Plans (FDPs)”.<a href="https://www.sciencedirect.com/journal/gas-science-and-engineering"   target="_blank"> Gas Science and Engineering</a>.
       <br>
-      <strong>Status</strong>: Under Review
+      <strong>Status</strong>: Under Review (Phase 2)
       </li>
       <br>
       <li><strong> Giakoumi, M.</strong>, Stephanou, PS., Kapnisis, KK., Anayiotos, A. “Analytical solutions to PBKT (or simply biokinetic) models using the matrix exponential”.
