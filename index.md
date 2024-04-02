@@ -15,8 +15,8 @@
 
   <h2>UNDER CONSTRUCTION</h2>
     <ul>
-<li> This website is scheduled to be updated soon.
-</li>  
+      <li> This website is scheduled to be updated soon.</li>  
+      <li> GRA Offer has been accepted  - Supervisor: Professor Maša Prodanović. </li>  
   
   <h2>Academics</h2>
     <ul>
@@ -159,7 +159,7 @@
       <strong>Status</strong>: Published
       </li>
       <br>
-      <li><strong> Giakoumi, M.</strong>, Stephanou, PS., Kokkinidou, D., Papastefanou, C., Kapnisis, KK., Anayiotos, A. “A Predictive Toxicokinetic Model for Nickel Leaching from Vascular Stents”. <a href="https://pubs.acs.org/journal/abseba" target="_blank"> ACS Biomaterials Science & Engineering</a>.
+      <li><strong> Giakoumi, M.</strong>, Stephanou, PS., Kokkinidou, D., Papastefanou, C., Kapnisis, KK., Anayiotos, A. “A Predictive Toxicokinetic Model for Nickel Leaching from Vascular Stents”. <a href="https://pubs.acs.org/journal/abseba" target="_blank"> ACS Biomaterials Science & Engineering</a>. 2024 March 25, <a href="https://doi.org/10.1021/acsbiomaterials.3c01436" target="_blank"> DOI: 10.1021/acsbiomaterials.3c01436</a>.
       <br>
       <strong>Status</strong>: Published
       </li>
