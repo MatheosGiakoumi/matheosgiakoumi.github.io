@@ -75,7 +75,7 @@
       </ul>    
       <li><strong><u>Notable Courses:</u></strong> Quantitative Methods for Management (97/100), Economics (97/100), Energy Transition and Climate Change Economics (94/100), Energy Economics and Policy (95/100), Corporate Finance (100/100), Strategic Management (99/100), Renewables and Economics of Electricity (96/100), Field Development Strategy (100/100),
       </li>
-      <li><strong><u>Scolarship:</u></strong> The program was fully funded (Tuition, Stipend & Living Expenses) by <a href="https://www.eni.com/en-IT/home.html" target="_blank">ENI S.p.A</a>  <strong>(Awarded: €39,000)</strong>. 
+      <li><strong><u>Scholarship:</u></strong> The program was fully funded (Tuition, Stipend & Living Expenses) by <a href="https://www.eni.com/en-IT/home.html" target="_blank">ENI S.p.A</a>  <strong>(Awarded: €39,000)</strong>. 
       </li>
       <li><strong><u>Dissertation Topic:</u></strong> “Smart Contracts in Well Operations” (Novelli Award) <br>
       In a group project supervised by the Well Operations department at ENI S.p.A., we explored optimizing the operation working capital in offshore drilling via Smart Contracts. After reviewing blockchain technology and developing smart contracts on Ethereum, we modeled their economic impact. Our findings were encapsulated in a thesis and highlighted by a live blockchain lottery demonstration, underscoring the tech's practicality in the Oil and Gas industry. Our project was guided by industry professionals including <a href="https://it.linkedin.com/in/carla-sanasi-078211245" target="_blank"> Carla Sanasi</a>, <a href="" target="_blank"> Marco Amicosante</a>, <a href="https://it.linkedin.com/in/uperna" target="_blank"> Umberto Pena</a>. 
@@ -104,7 +104,7 @@
       </li>
       <li><strong><u>Honors:</u></strong> Honorary distinction for the highest grade among the program.
       </li>
-      <li><strong><u>Scolarship:</u></strong> The program was fully funded (Tuition & Stipend) by the <a href="https://hydrocarbons.gov.cy/en/" target="_blank">Hydrocarbons Service from Ministry of Energy Commerce and Industry of Cyprus</a>  <strong>(Awarded: €14,500)</strong>. 
+      <li><strong><u>Scholarship:</u></strong> The program was fully funded (Tuition & Stipend) by the <a href="https://hydrocarbons.gov.cy/en/" target="_blank">Hydrocarbons Service from Ministry of Energy Commerce and Industry of Cyprus</a>  <strong>(Awarded: €14,500)</strong>. 
       </li>
       <li>2021 - 2022 
       </li>  
@@ -127,7 +127,7 @@
       </li>
       <li><strong><u>Honors and Awards:</u></strong> Honorary distinction for the highest grade among the department’s undergraduates for all the academic years enrolled (2017 – 2021) and for the best dissertation in the program. Awarded by ExxonMobil Cyprus & Cyprus Ministry of Education and Culture  <strong>(Awarded: €4,500)</strong>. 
       </li>
-      <li><strong><u>Scolarship:</u></strong> The program was fully funded (Stipend) by the <a href="http://www.cyscholarships.gov.cy/mof/ikyk/ikyk.nsf/index_gr/index_gr?OpenDocument" target="_blank">Cyprus State Scholarship Foundation</a>  <strong>(Awarded: €12,000)</strong>. 
+      <li><strong><u>Scholarship:</u></strong> The program was fully funded (Stipend) by the <a href="http://www.cyscholarships.gov.cy/mof/ikyk/ikyk.nsf/index_gr/index_gr?OpenDocument" target="_blank">Cyprus State Scholarship Foundation</a>  <strong>(Awarded: €12,000)</strong>. 
       </li>
       <li>2017 - 2021 
       </li>  
