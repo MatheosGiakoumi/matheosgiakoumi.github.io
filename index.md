@@ -15,7 +15,8 @@
 
   <h2>UNDER CONSTRUCTION</h2>
     <ul>
-      <li> This website is scheduled to be updated soon.</li>  
+      <li> This website is scheduled to be updated soon.</li>
+      <li> Fellowship Offer has been accepted from Cockrell School of Engineering @ UT Austin. </li>  
       <li> GRA Offer has been accepted  - Supervisor: Professor Maša Prodanović. </li>  
   
   <h2>Academics</h2>
