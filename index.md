@@ -13,7 +13,7 @@
   <br><br><br>
   <hr>
 
-  <h2>UNDER CONSTRUCTION</h2>
+  <h2>UPDATES</h2>
     <ul>
       <li> This website is scheduled to be updated soon.</li>
       <li> Fellowship Offer has been accepted from Cockrell School of Engineering @ UT Austin. </li>  
@@ -463,7 +463,7 @@
 <!-- <div id="Other"> --> 
   
   <h1>OTHER SKILLS</h1>
-  <br><br><br>
+  <br>
   <a name="further"></a>
   <br><br><br>
   <div style="text-align: justify;">
