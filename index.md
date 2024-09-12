@@ -295,19 +295,38 @@
       <li><strong><u>Decarbonization of a Residential House in EU:</u></strong> Few years ago, my family in Cyprus decided to upgrade our house in Limassol to Net-Zero. I designed the insulation and photovoltaic system and computed the investment costs. This groundwork evolved into a novel stochastic cashflow model for assessing the project's profitability. Currently, we are generalizing the model for the whole market of Cyprus, shaping the input distribution functions of this model based on behavioral economics. A conference paper and a publication are planned for 2024.
       </li>
       <br>
-      <li><strong><u>Modelling Energy Transition in the European Electricity and Gas System via PLEXOS:</u></strong> We offer consultancy services to firms interested in modeling the electricity and gas markets using <a href="https://www.energyexemplar.com/plexos" target="_blank">PLEXOS</a>. We are currently working with <a href="https://www.cesi.it/" target="_blank"> CESI</a> and <a href="https://www.worldbank.org/en/home" target="_blank"> World Bank</a> for modeling the <a href="https://www.euronews.com/2022/12/17/hungary-romania-georgia-azerbaijan-agree-to-black-sea-electricity-project" target="_blank"> Black Sea Electricity Project</a>. Beyond modeling, I provide software development solutions (API integration, Automation).
+      <li><strong><u>Modelling Energy Transition in the European Electricity and Gas System via PLEXOS:</u></strong> We offer consultancy services to firms interested in modeling the electricity and gas markets using <a href="https://www.energyexemplar.com/plexos" target="_blank">PLEXOS</a>. We are currently working with <a href="https://www.cesi.it/" target="_blank"> CESI</a> and <a href="https://www.worldbank.org/en/home" target="_blank"> World Bank</a> for modeling the <a href="https://www.euronews.com/2022/12/17/hungary-romania-georgia-azerbaijan-agree-to-black-sea-electricity-project" target="_blank"> Black Sea Electricity Project</a>. Beyond modeling, I provide software development solutions, fully automating PLEXOS projects from input to visualization for maximizing team's productivity (Python .NET for API integration and automation).
       </li>
       <br>
       <li><strong><u>Collaborators:</u></strong> <a href="https://ngi.stanford.edu/people/philippine-burdeau" target="_blank"> Philippine Burdeau (PhD Candidate)</a>, <a href="https://www.feem.it/chi-siamo/persone/sara-zanini/" target="_blank"> Sara Zanini (PhD Candidate)</a>, <a href="https://www.ucy.ac.cy/directory/en/profile/ragath03" target="_blank"> Rafaela Agathokleous (PhD)</a>,<a href="https://www.feem.it/en/chi-siamo/persone/del-grosso-filippo/" target="_blank"> Filippo Del Grosso (PhD)</a>, <a href="https://www.feem.it/chi-siamo/persone/pontoni-federico/" target="_blank"> Federico Pontoni (PhD)</a>
       </li>
       <br>
-      <li>September 2023 - Now 
+      <li>September 2023 - September 2024 
       </li>  
   </ul>
 
   </div>
   <br>
   <img src="images/feem.png">
+
+  <a name="eni"></a>
+  <br><br><br>  
+  <h2>Well Operations Department - Eni SpA</h2>
+  <a href="https://www.eni.com/en-IT/home.html" target="_blank">Link to Website</a>
+
+  <div style="text-align: justify;">
+
+  <ul>
+      <li><strong><u>Smart Contracts in Well Operations:</u></strong> During my MBA thesis at Eni SpA's Well Operations department, I assessed the implementation of smart contracts to automate interactions with service contractors. I translated these physical interactions into Smart Contracts using Solidity on Ethereum TestNets. The results contributed to confidential internal assessments of operating working capital, particularly in liabilities estimation, currency exchange fees, and bargaining power, and led to further company research into this technology.
+      </li>
+      <br>
+      <li>January 2023 - June 2023 
+      </li>  
+  </ul>
+
+  </div>
+  <br>
+  <img src="images/mba.png">
 
 
   <a name="gree"></a>
@@ -332,7 +351,7 @@
       <li><strong><u>Collaborators:</u></strong><a href="https://cy.linkedin.com/in/charalampos-konstantinou" target="_blank"> Charalampos Konstantinou (PhD)</a>, <a href="https://fr.linkedin.com/in/nikolas-papadimitriou-phd-89629765" target="_blank"> Nikolas Papadimitriou (PhD)</a>, <a href="https://eratosthenes.org.cy/team/dr-constantinos-panayiotou/" target="_blank"> Konstantinos F. Panagiotou (PhD)</a>,<a href="https://www.petro.uh.edu/faculty/ehlig-economides" target="_blank"> Chrstine Ehlig-Economides (PhD)</a>, <a href="https://www.cmmi.blue/michalakis-efthymiou-professor-the-university-of-western-australia/" target="_blank"> Mike Efthymiou (PhD)</a>,  <a href="https://gr.linkedin.com/in/vassilios-kelessidis-5015b413" target="_blank"> Vassilios Kelessidis (PhD)</a>, <a href="https://www.ucy.ac.cy/directory/en/profile/panospap" target="_blank"> Panos Papanastasiou (PhD)</a>
       </li>
       <br>
-      <li>January 2023 - Now 
+      <li>January 2023 - July 2024
       </li>  
   </ul>
 
@@ -382,7 +401,7 @@
       <li><strong><u>Collaborators:</u></strong><a href="https://www.cut.ac.cy/faculties/fet/mem/staff/dep/nicos.angastiniotis/?languageId=1" target="_blank"> Nicos Angastiniotis (PhD)</a>
       </li>
       <br>
-      <li>July 2021 - Now 
+      <li>July 2021 - July 2023 
       </li>  
   </ul>
 
