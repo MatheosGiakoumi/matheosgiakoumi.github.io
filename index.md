@@ -274,6 +274,11 @@
       <li><strong><u>Pore Clogging with CFD/DEM:</u></strong> Simulations and theoretical contributions to pore-clogging phenomena in porous and fractured media with CFD & DEM methods, with applications in wellbore damage and toxic-leaching of medical devices.
       </li>
       <br>
+      <li><strong><u>Digital Rocks Portal:</u></strong> Data curator of the <a href="https://www.digitalrocksportal.org/" target="_blank">Digital Rocks Portal</a>
+      </li>
+      <br>
+      <li><strong><u>Supervisor:</u></strong> <a href="https://pge.utexas.edu/facultystaff/faculty-directory/prodanovic" target="_blank"> Professor Masa Prodanovic</a></a>
+      <br>  
       <li>August 2024 - Now 
       </li>  
   </ul>
@@ -289,7 +294,7 @@
   <div style="text-align: justify;">
 
   <ul>
-      <li><strong><u>Development of Economic Models for Carbon Capture & Storage:</u></strong> Working on a Cooperative Game Theoretic model for carbon dioxide emitters in <a href="https://ccushub.ogci.com/focus_hubs/ravenna/" target="_blank"> Lombardy, Veneto, and Emilia Romagna</a>, known as the  <a href="https://www.sciencedirect.com/science/article/abs/pii/S0377221715004245" target="_blank"> CCS Club!</a>, first introduced by Massol et al. (2015). Enhances were made in the model, including the integration of a multi-objective optimization procedure that treats carbon dioxide as a marketable product. Based on this, we constructed a utility function to isolate an optimal point drawing from my recent publication <a href="#pubs">(2)</a>. A conference paper and a publication are planned for 2024.
+      <li><strong><u>Development of Economic Models for Carbon Capture & Storage:</u></strong> Working on a Cooperative Game Theoretic model for carbon dioxide emitters in <a href="https://ccushub.ogci.com/focus_hubs/ravenna/" target="_blank"> Lombardy, Veneto, and Emilia Romagna</a>, known as the  <a href="https://www.sciencedirect.com/science/article/abs/pii/S0377221715004245" target="_blank"> CCS Club!</a>, first introduced by Massol et al. (2015). Enhances were made in the model, including the integration of a multi-objective optimization procedure that treats carbon dioxide as a marketable product. Based on this, we constructed a utility function to isolate an optimal point drawing from my recent publication <a href="#pubs">(2)</a>.
       </li>
       <br>
       <li><strong><u>Decarbonization of a Residential House in EU:</u></strong> Few years ago, my family in Cyprus decided to upgrade our house in Limassol to Net-Zero. I designed the insulation and photovoltaic system and computed the investment costs. This groundwork evolved into a novel stochastic cashflow model for assessing the project's profitability. Currently, we are generalizing the model for the whole market of Cyprus, shaping the input distribution functions of this model based on behavioral economics. A conference paper and a publication are planned for 2024.
