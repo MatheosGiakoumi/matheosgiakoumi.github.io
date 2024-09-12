@@ -64,14 +64,7 @@
 
   <div style="text-align: justify;">
   <I><strong>Hildebrand Department of Petroleum and Geosystems Engineering / Cockrell School of Engineering / The University of Texas at Austin</strong></I>
-  <ul>
-      <li><strong><u>Honors and Awards:</u></strong> </li>
-      <ul> 
-          <li> Alomran Family Scholar</li>
-          <li> Cyprus Hydrocarbon Service Scholar</li>
-      <li><strong><u>Dissertation Topic:</u></strong> Pending <br>
-      </li>
-  </ul>
+
 
   </div>
  
