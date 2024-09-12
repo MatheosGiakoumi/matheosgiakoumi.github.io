@@ -25,7 +25,7 @@
 
   <h2>Industry and Research Experience</h2>
     <ul>
-      <li><a href="#ut">Graduate Research Assistant @UT Austin</a></li>
+      <li><a href="#ut">Petroleum and Geosystems Engineering GRA - UT Austin</a></li>
       <li><a href="#feem">Technologies for the Energy Transition - FEEM</a></li>
       <li><a href="#eni">Eni SpA</a></li>
       <li><a href="#gree">Geomechanics Research for Energy and Environment - UCY</a></li>
@@ -261,8 +261,26 @@
   <br><br><br>
   <hr> 
   <br><br><br>
-  <h1>RESEARCH EXPERIENCE</h1>
+  <h1>INDUSTRY & RESEARCH EXPERIENCE</h1>
 
+  <a name="ut"></a>
+  <br><br><br>  
+  <h2>Petroleum and Geosystems Engineering GRA - The University of Texas at Austin</h2>
+  <a href="https://sites.google.com/utexas.edu/masha/people?authuser=0" target="_blank">Link to Website</a>
+
+  <div style="text-align: justify;">
+
+  <ul>
+      <li><strong><u>Pore Clogging with CFD/DEM:</u></strong> Simulations and theoretical contributions to pore-clogging phenomena in porous and fractured media with CFD & DEM methods, with applications in wellbore damage and toxic-leaching of medical devices.
+      </li>
+      <br>
+      <li>August 2024 - Now 
+      </li>  
+  </ul>
+
+  </div>
+  <br>
+  
   <a name="feem"></a>
   <br><br><br>  
   <h2>Technologies for the Energy Transition - Fondazione Eni Enrico Mattei</h2>
