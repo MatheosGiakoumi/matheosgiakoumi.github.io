@@ -230,7 +230,13 @@
   <div style="text-align: justify;">
 
   <ol>
+      <li> Konstantinou, C., <strong>Giakoumi, M.</strong>, Papanastasiou, P., Olympios, A., Kourougianni, F., Arsalis, A, Georghiou, G. (2024). “Green Hydrogen Storage in Depleted Gas Reservoirs”. Accepted for presentation at <a href="https://synergy-med.org/" target="_blank"> 45th IAEE International Conference</a> the 3rd International Conference on Energy Transition in the Mediterranean Area (SyNERGY MED 2024)</a>, Limassol, Cyprus, 21 – 23 October 2024.
+      </li>
+      <br> 
       <li> <strong>Giakoumi, M.</strong>, Konstantinou, C., Burdeau, P., Papanastasiou, P., Pontoni, P. (2024). “From Waste to Commodity: Leveraging Game Theory in the CCUS - Driven CO2 Market - A Case Study in Cyprus”. Accepted for presentation at the <a href="https://www.iaee2024.org.tr/" target="_blank"> 45th IAEE International Conference</a> , Istanbul, Turkey, 25 – 28 June 2024.
+      </li>
+      <br> 
+      <li> Attended <a href="https://www.feem.it/en/publication/briefs/"   target="_blank"> Petroleum Engineering Summer School (PESS) 55A Workshop: Production & Reservoir Engineering</a>, Dubrovnik, Croatia, 10 – 14 June 2024.
       </li>
       <br> 
       <li> <strong>Giakoumi, M.</strong>, Stephanou, P.S., Kapnisis, K., Anayiotos, A. (2024). “Incorporating Confidence Intervals in Physiologically Based Toxicokinetic (PBTK) Modeling”. Submitted for presentation at the <a href="https://pesxm14.gr/" target="_blank"> Fourteenth Panhellenic Scientific Conference of Chemical Engineering</a> , Thessaloniki, Greece, 29 – 31 May 2024.
