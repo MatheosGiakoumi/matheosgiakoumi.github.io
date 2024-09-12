@@ -173,22 +173,42 @@
       <strong>Status</strong>: Published
       </li>
       <br>
-      <li> <strong>Giakoumi, M.</strong>, Konstantinou, C., Papadimitriou, N., Panagiotou, F. C., Tsangarides, A., Iosif, G., Stasis, N., Finiris, S., Georgiou, V., Papanastasiou, P. “Mathematical Tools for Advances in the Field Development Plans (FDPs)”.<a href="https://www.sciencedirect.com/journal/gas-science-and-engineering"   target="_blank"> Gas Science and Engineering</a>.
+      <li> <strong>Giakoumi, M.</strong>, Konstantinou, C., Papadimitriou, N., Panagiotou, F. C., Tsangarides, A., Iosif, G., Stasis, N., Finiris, S., Georgiou, V., Papanastasiou, P. “Advancements in field development planning through mathematical analysis for reserves estimation, casing design, accidental events and carbon dioxide storage”.<a href="https://www.sciencedirect.com/journal/gas-science-and-engineering"   target="_blank"> Gas Science and Engineering</a>. Volume 130, October 2024, 205420, <a href="https://doi.org/10.1016/j.jgsce.2024.205420"   target="_blank"> DOI: 10.1016/j.jgsce.2024.205420 </a>
       <br>
-      <strong>Status</strong>: Under Review (Phase 2)
+      <strong>Status</strong>: Published
       </li>
       <br>
-      <li><strong> Giakoumi, M.</strong>, Stephanou, PS., Kapnisis, KK., Anayiotos, A. “Analytical solutions to PBKT (or simply biokinetic) models using the matrix exponential”.
+      <li><strong> Giakoumi, M.</strong>, Stephanou, PS., Kapnisis, KK., Anayiotos, A. “Analytical solution of PBTK models for evaluating the impact of surface diffusion characteristics on the leaching profile of implant bioproducts”. <a href="https://link.springer.com/journal/11538"   target="_blank"> Bulletin of Mathematical Biology</a>
       <br>
-      <strong>Status</strong>: In Preparation
+      <strong>Status</strong>: Under Review
       </li>
       <br>
-      <li><strong>Giakoumi, M.</strong>, Konstantinou, C., Burdeau, P., Papanastasiou, P., Pontoni, P. “From Waste to Commodity: Leveraging Game Theory in the CCUS - Driven CO2 Market - A Case Study in Cyprus”. 
+      <li><strong>Giakoumi, M.</strong>, Konstantinou, C., Burdeau, P., Papanastasiou, P., Pontoni, P. “From waste to commodity: Leveraging game theory in the CCUS – driven CO2 market - A case study in Cyprus”. 
       <br>
       <strong>Status</strong>: In Preparation
       </li>
       <br>
       <li>Konstantinou, C., <strong>Giakoumi, M.</strong>, Angastiniotis, N., Papanastasiou, P. “HydrogenLAB: A Computational Framework for Simulating Geological Underground Hydrogen Storage”. 
+      <br>
+      <strong>Status</strong>: In Preparation
+      </li>
+      <br>
+      <li>Konstantinou, C., <strong>Giakoumi, M.</strong>, Panagiotou, F. C. “Recycled water allocation for irrigation purposes under a changing climate in the city of Limassol, Cyprus: a game theory approach”.
+      <br>
+      <strong>Status</strong>: In Preparation
+      </li>
+      <br>
+      <li> <strong>Giakoumi, M.</strong>, Zanini, S., Agathokleous, R., Konstantinou, C., Pontoni, F. (2024). “Pimp my house: A stochastic framework for evaluating energy retrofit investments”.
+      <br>
+      <strong>Status</strong>: In Preparation
+      </li>
+      <br>
+      <li> <strong>Giakoumi, M.</strong>, Stephanou, PS., Kapnisis, KK., Anayiotos, A. “Predictive capability testing and sensitivity analysis of physiologically based toxicokinetic (PBTK) models for vascular implants”. 
+      <br>
+      <strong>Status</strong>: In Preparation
+      </li>
+      <br>
+      <li> Zanini, S., Somenzi, E., <strong>Giakoumi, M.</strong>, Pontoni, F., Risso G. (2024). “The Italian electricity market in 2030 between NECP’s and reality. What do we expect from Italian electricity prices if national targets are not reached?”. <a href="https://www.feem.it/en/publication/briefs/"   target="_blank"> FEEM Policy Brief</a>
       <br>
       <strong>Status</strong>: In Preparation
       </li>
