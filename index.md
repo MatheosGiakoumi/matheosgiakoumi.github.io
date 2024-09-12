@@ -23,7 +23,7 @@
       <li><a href="#conf">Conference Presentations</a></li>
     </ul>
 
-  <h2>INDUSTRY/Research Experience</h2>
+  <h2>Industry and Research Experience</h2>
     <ul>
       <li><a href="#ut">Graduate Research Assistant @UT Austin</a></li>
       <li><a href="#feem">Technologies for the Energy Transition - FEEM</a></li>
@@ -56,6 +56,24 @@
   <hr>
   <br><br><br>
   <h1>EDUCATION</h1>
+
+  <a name="phd"></a>
+  <br><br><br>
+  <h2>PhD in Petroleum and Geosystems Engineering - PGE (Pending)</h2>
+  <a href="https://pge.utexas.edu/" target="_blank">Link to Website</a>
+
+  <div style="text-align: justify;">
+  <I><strong>Hildebrand Department of Petroleum and Geosystems Engineering / Cockrell School of Engineering / The University of Texas at Austin</strong></I>
+  <ul>
+      <li><strong><u>Honors and Awards:</u></strong> </li>
+      <ul> 
+          <li> Alomran Family Scholar</li>
+          <li> Cyprus Hydrocarbon Service Scholar</li>
+      <li><strong><u>Dissertation Topic:</u></strong> Pending <br>
+      </li>
+  </ul>
+
+  </div>
  
   <a name="mba"></a>
   <br><br><br>
