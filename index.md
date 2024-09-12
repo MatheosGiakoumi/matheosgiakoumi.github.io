@@ -8,19 +8,14 @@
   <hr>
 
   <div class="video-container">
-<iframe width="460" height="315" src="https://www.youtube.com/embed/_HGQZlK08gQ?autoplay=1&mute=1" frameborder="0"   allow="autoplay; encrypted-media" allowfullscreen playsinline></iframe>
+<iframe width="460" height="315" src="https://www.youtube.com/embed/_HGQZlK08gQ](https://www.youtube.com/watch?v=DfEr5XCFNWM?autoplay=1&mute=1" frameborder="0"   allow="autoplay; encrypted-media" allowfullscreen playsinline></iframe>
 </div>
   <br><br><br>
   <hr>
-
-  <h2>UPDATES</h2>
-    <ul>
-      <li> This website is scheduled to be updated soon.</li>
-      <li> Fellowship Offer has been accepted from Cockrell School of Engineering @ UT Austin. </li>  
-      <li> GRA Offer has been accepted  - Supervisor: Professor Maša Prodanović. </li>  
   
   <h2>Academics</h2>
     <ul>
+      <li><a href="#phd">PhD in Petroleum and Geosystems Engineering</a></li>
       <li><a href="#mba">MBA in Energy and Environmental Management & Economics</a></li>
       <li><a href="#meng">MEng in Natural Gas Engineering</a></li>
       <li><a href="#bs">BS in Mechanical Engineering and Materials Science</a></li>
@@ -28,9 +23,11 @@
       <li><a href="#conf">Conference Presentations</a></li>
     </ul>
 
-  <h2>Research Experience</h2>
+  <h2>INDUSTRY/Research Experience</h2>
     <ul>
+      <li><a href="#ut">Graduate Research Assistant @UT Austin</a></li>
       <li><a href="#feem">Technologies for the Energy Transition - FEEM</a></li>
+      <li><a href="#eni">Eni SpA</a></li>
       <li><a href="#gree">Geomechanics Research for Energy and Environment - UCY</a></li>
       <li><a href="#biolisys">Biomechanics and Living Systems Analysis - CUT</a></li>
       <li><a href="#thermodyn">Material Thermodynamics Laboratory - CUT</a></li>
