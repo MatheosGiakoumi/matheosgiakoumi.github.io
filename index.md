@@ -27,7 +27,7 @@
     <ul>
       <li><a href="#ut">Petroleum and Geosystems Engineering GRA - UT Austin</a></li>
       <li><a href="#feem">Technologies for the Energy Transition - FEEM</a></li>
-      <li><a href="#eni">Eni SpA</a></li>
+      <li><a href="#eni">Well Operations - Eni SpA</a></li>
       <li><a href="#gree">Geomechanics Research for Energy and Environment - UCY</a></li>
       <li><a href="#biolisys">Biomechanics and Living Systems Analysis - CUT</a></li>
       <li><a href="#thermodyn">Material Thermodynamics Laboratory - CUT</a></li>
@@ -278,6 +278,7 @@
       </li>
       <br>
       <li><strong><u>Supervisor:</u></strong> <a href="https://pge.utexas.edu/facultystaff/faculty-directory/prodanovic" target="_blank"> Professor Masa Prodanovic</a></a>
+      </li>  
       <br>  
       <li>August 2024 - Now 
       </li>  
