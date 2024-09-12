@@ -2,14 +2,5 @@ title: Matheos Giakoumi
 logo: "/images/logo.png?raw=true" 
 description: > 
   <i><b>PhD Student @ UT Austin PGE</b></i>
-  <br><br>
-  <b><u>Researcher at:</u></b>
-  <br>
-  <a href = "https://www.feem.it/en/ricerca/programmi/technologies-for-the-energy-transition/" target="_blank">Fondazione Eni Enrico Mattei</a>
-  <br>
-  <a href = "https://websites.ucy.ac.cy/energygeomechanics/" target="_blank">University of Cyprus</a>
-  <br>
-  <a href = "http://biolisys.cut.ac.cy/" target="_blank">Cyprus University of Technology</a>
-  <br><br>
 
 theme: jekyll-theme-minimal
