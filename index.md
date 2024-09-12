@@ -332,7 +332,7 @@
 
   </div>
   <br>
-  <img src="images/mba.png">
+  <img src="images/master.png">
 
 
   <a name="gree"></a>
