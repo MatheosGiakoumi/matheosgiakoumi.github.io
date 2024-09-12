@@ -277,7 +277,7 @@
       <li><strong><u>Digital Rocks Portal:</u></strong> Data curator of the <a href="https://www.digitalrocksportal.org/" target="_blank">Digital Rocks Portal</a>
       </li>
       <br>
-      <li><strong><u>Supervisor:</u></strong> <a href="https://pge.utexas.edu/facultystaff/faculty-directory/prodanovic" target="_blank"> Professor Masa Prodanovic</a></a>
+      <li><strong><u>Supervisor:</u></strong> <a href="https://pge.utexas.edu/facultystaff/faculty-directory/prodanovic" target="_blank"> Professor Masa Prodanovic</a>
       </li>  
       <br>  
       <li>August 2024 - Now 
