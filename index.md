@@ -70,11 +70,11 @@
  
   <a name="mba"></a>
   <br><br><br>
-  <h2>MBA in Energy and Environmental Management and Economics - MEDEA (92.71/100 - 1st Level 1)</h2>
+  <h2>MBA in Energy and Environmental Management and Economics - MEDEA (92.71/100 - Ranked 1st)</h2>
   <a href="https://www.eni.com/en-IT/careers/medea-masters.html" target="_blank">Link to Website</a>
 
   <div style="text-align: justify;">
-  <I><strong>Department of Economics and Management & ENI Scuola Mattei / University of Pavia</strong></I>
+  <I><strong>Department of Economics and Management & ENI Scuola Mattei / University of Pavia. (Eni's graduate corporate program)</strong></I>
   <ul>
       <li><strong><u>Honors and Awards:</u></strong> </li>
       <ul> 
@@ -100,7 +100,7 @@
 
   <a name="meng"></a>
   <br><br><br>
-  <h2>MEng Natural Gas Engineering (9.57/10 - Highest Honors)</h2>
+  <h2>MEng Natural Gas Engineering (9.57/10 - Ranked 1st)</h2>
   <a href="https://www.ucy.ac.cy/nge/" target="_blank">Link to Website</a>
 
   <div style="text-align: justify;">
@@ -123,7 +123,7 @@
   
   <a name="bs"></a>
   <br><br><br>
-  <h2>BS Mechanical Engineering and Materials Science (8.975/10 - Highest Honors)</h2>
+  <h2>BS Mechanical Engineering and Materials Science (8.975/10 - Ranked 1st)</h2>
   <a href="https://www.cut.ac.cy/faculties/fet/mem/study-guide/Bachelor/?languageId=1" target="_blank">Link to Website</a>
 
   <div style="text-align: justify;">
@@ -230,7 +230,7 @@
   <div style="text-align: justify;">
 
   <ol>
-      <li> Konstantinou, C., <strong>Giakoumi, M.</strong>, Papanastasiou, P., Olympios, A., Kourougianni, F., Arsalis, A, Georghiou, G. (2024). “Green Hydrogen Storage in Depleted Gas Reservoirs”. Accepted for presentation at <a href="https://synergy-med.org/" target="_blank"> 45th IAEE International Conference</a> the 3rd International Conference on Energy Transition in the Mediterranean Area (SyNERGY MED 2024)</a>, Limassol, Cyprus, 21 – 23 October 2024.
+      <li> Konstantinou, C., <strong>Giakoumi, M.</strong>, Papanastasiou, P., Olympios, A., Kourougianni, F., Arsalis, A, Georghiou, G. (2024). “Green Hydrogen Storage in Depleted Gas Reservoirs”. Accepted for presentation at <a href="https://synergy-med.org/" target="_blank"> the 3rd International Conference on Energy Transition in the Mediterranean Area (SyNERGY MED 2024)</a> , Limassol, Cyprus, 21 – 23 October 2024.
       </li>
       <br> 
       <li> <strong>Giakoumi, M.</strong>, Konstantinou, C., Burdeau, P., Papanastasiou, P., Pontoni, P. (2024). “From Waste to Commodity: Leveraging Game Theory in the CCUS - Driven CO2 Market - A Case Study in Cyprus”. Accepted for presentation at the <a href="https://www.iaee2024.org.tr/" target="_blank"> 45th IAEE International Conference</a> , Istanbul, Turkey, 25 – 28 June 2024.
