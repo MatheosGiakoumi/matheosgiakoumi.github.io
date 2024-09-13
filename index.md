@@ -114,7 +114,7 @@
       </li>
       <li><strong><u>Scholarship:</u></strong> The program was fully funded (Tuition & Stipend) by the <a href="https://hydrocarbons.gov.cy/en/" target="_blank">Hydrocarbons Service from Ministry of Energy Commerce and Industry of Cyprus</a>  <strong>(Awarded: €14,500)</strong>. 
       </li>
-      <li>2021 - 2022 
+      <li>2021 - 2023 
       </li>  
   </ul>
 
