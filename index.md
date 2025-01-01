@@ -7,9 +7,17 @@
 
   <hr>
 
-  <div class="video-container">
-    <iframe width="460" height="315" src="https://www.youtube.com/watch?v=wG4YaEcNlb0?autoplay=1&mute=1" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen playsinline></iframe>
-  </div>
+<div class="video-container">
+  <iframe
+    width="460"
+    height="315"
+    src="https://www.youtube.com/embed/wG4YaEcNlb0?autoplay=1&mute=1"
+    frameborder="0"
+    allow="autoplay; encrypted-media"
+    allowfullscreen
+    playsinline>
+  </iframe>
+</div>
   <br><br><br>
   <hr>
   
