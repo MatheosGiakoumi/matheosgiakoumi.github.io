@@ -8,7 +8,7 @@
   <hr>
 
   <div class="video-container">
-    <iframe width="460" height="315" src="https://www.youtube.com/embed/DfEr5XCFNWM?autoplay=1&mute=1" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen playsinline></iframe>
+    <iframe width="460" height="315" src="https://www.youtube.com/watch?v=wG4YaEcNlb0?autoplay=1&mute=1" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen playsinline></iframe>
   </div>
   <br><br><br>
   <hr>
@@ -178,24 +178,24 @@
       <strong>Status</strong>: Published
       </li>
       <br>
-      <li><strong> Giakoumi, M.</strong>, Stephanou, PS., Kapnisis, KK., Anayiotos, A. “Analytical solution of PBTK models for evaluating the impact of surface diffusion characteristics on the leaching profile of implant bioproducts”. <a href="https://link.springer.com/journal/11538"   target="_blank"> Bulletin of Mathematical Biology</a>
+      <li><strong> Giakoumi, M.</strong>, Stephanou, PS., Kapnisis, KK., Anayiotos, A. “Analytical Solutions of PBTK Models for Evaluating the Impact of Surface Diffusion Characteristics on the Leaching Profile of Implant Bioproducts”. <a href="https://link.springer.com/journal/11538"   target="_blank"> Mathematical and Computational Applications</a>. Volume 29, November 2024, <a href="https://www.mdpi.com/2297-8747/29/6/101"   target="_blank"> DOI: 10.3390/mca29060101 </a>
+      <br>
+      <strong>Status</strong>: Published
+      </li>
+      <br>
+      <li><strong>Giakoumi, M.</strong>, Konstantinou, C., Burdeau, P., Papanastasiou, P., Pontoni, P. “An Engineering-Informed Game-Theoretic Economic Model for Predicting the CO2 Market Price in a CCUS Infrastructure: A Case Study in the Eastern Mediterranean Basin”. 
+      <br>
+      <strong>Status</strong>: In Preparation
+      </li>
+      <br>
+      <li>Konstantinou, C., <strong>Giakoumi, M.</strong>, Angastiniotis, N., Papanastasiou, P. “A Mathematical Framework for Underground Hydrogen Storage in Reservoirs with Geo-methanation and Enhanced Gas Recovery”. 
       <br>
       <strong>Status</strong>: Under Review
       </li>
       <br>
-      <li><strong>Giakoumi, M.</strong>, Konstantinou, C., Burdeau, P., Papanastasiou, P., Pontoni, P. “From waste to commodity: Leveraging game theory in the CCUS – driven CO2 market - A case study in Cyprus”. 
+      <li>Konstantinou, C., <strong>Giakoumi, M.</strong>, Panagiotou, F. C. “A Game-Theoretic Framework for Sustainable Water Allocation in Agriculture: Enhancing Economic and Water Efficiency in Akrotiri district (Cyprus)”.
       <br>
-      <strong>Status</strong>: In Preparation
-      </li>
-      <br>
-      <li>Konstantinou, C., <strong>Giakoumi, M.</strong>, Angastiniotis, N., Papanastasiou, P. “HydrogenLAB: A Computational Framework for Simulating Geological Underground Hydrogen Storage”. 
-      <br>
-      <strong>Status</strong>: In Preparation
-      </li>
-      <br>
-      <li>Konstantinou, C., <strong>Giakoumi, M.</strong>, Panagiotou, F. C. “Recycled water allocation for irrigation purposes under a changing climate in the city of Limassol, Cyprus: a game theory approach”.
-      <br>
-      <strong>Status</strong>: In Preparation
+      <strong>Status</strong>: Under Review
       </li>
       <br>
       <li> <strong>Giakoumi, M.</strong>, Zanini, S., Agathokleous, R., Konstantinou, C., Pontoni, F. (2024). “Pimp my house: A stochastic framework for evaluating energy retrofit investments”.
