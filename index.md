@@ -65,7 +65,6 @@
   <br><br><br>
   <h1>EDUCATION</h1>
   <a name="phd"></a>  
-  <img src="images/phd.png" alt="PhD Program Image">
 </div>
 
   <a name="phd"></a>
