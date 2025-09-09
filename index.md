@@ -83,7 +83,7 @@
           </a></strong> — International Association of Energy Economics, Paris, 2025. 
           <em>"An Engineering-Informed Economic Model for Predicting the CO<sub>2</sub> Market Price in a CCUS Infrastructure: A Case Study in the Eastern Mediterranean Basin."</em></li>
           <li> <a href="https://www.linkedin.com/posts/spwla-texas_the-spwla-ut-austin-student-chapter-is-activity-7292900957279989761-TTeo" target="_blank" rel="noopener">
-            1st Place — SPWLA Student Paper Competition (UT Austin)
+            1st Place — SPWLA Student Paper Competition (UT Austin), 2024
           </a></strong> 
           <em>"An Engineering-Informed Economic Model for Predicting the CO<sub>2</sub> Market Price in a UHS Infrastructure."</em></li>
       </ul>
