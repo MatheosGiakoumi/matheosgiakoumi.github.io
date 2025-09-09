@@ -11,7 +11,7 @@
   <iframe
     width="460"
     height="315"
-    src="https://www.youtube.com/embed/wG4YaEcNlb0?autoplay=1&mute=1"
+    src="https://www.youtube.com/watch?v=yf5cEJULZXk?autoplay=1&mute=1"
     frameborder="0"
     allow="autoplay; encrypted-media"
     allowfullscreen
@@ -67,14 +67,19 @@
 
   <a name="phd"></a>
   <br><br><br>
-  <h2>PhD in Petroleum and Geosystems Engineering - PGE (Pending)</h2>
+  <h2>PhD in Petroleum and Geosystems Engineering - PGE (3.95/4)</h2>
   <a href="https://pge.utexas.edu/" target="_blank">Link to Website</a>
 
   <div style="text-align: justify;">
-  <I><strong>Hildebrand Department of Petroleum and Geosystems Engineering / Cockrell School of Engineering / The University of Texas at Austin</strong></I>
-
-
+    <i><strong>Hildebrand Department of Petroleum and Geosystems Engineering / Cockrell School of Engineering / The University of Texas at Austin</strong></i>
   </div>
+  
+  <h4>Honors, Awards & Leadership</h4>
+  <ul style="text-align:left; margin:0; padding-left:20px; list-style-type:disc;">
+    <li><strong><a href="https://www.iaee.org/proceedings/article/19034" target="_blank" rel="noopener">Best Student Paper Award (46th IAEE)</a></strong> — International Association of Energy Economics, Paris, 2025. <em>“An Engineering-Informed Economic Model for Predicting the CO<sub>2</sub> Market Price in a CCUS Infrastructure: A Case Study in the Eastern Mediterranean Basin.”</em></li>
+    <li><strong><a href="https://www.linkedin.com/posts/spwla-texas_the-spwla-ut-austin-student-chapter-is-activity-7292900957279989761-TTeo" target="_blank" rel="noopener">1st Place — SPWLA Student Paper Competition (UT Austin)</a></strong> <em>“An Engineering-Informed Economic Model for Predicting the CO<sub>2</sub> Market Price in a UHS Infrastructure.”</em></li>
+    <li><strong><a href="https://www.linkedin.com/posts/spwla-texas_spwla-utaustin-digitalpetrophysics-activity-7364818481298472960-6Cfo" target="_blank" rel="noopener">President, SPWLA UT Austin Chapter</a></strong> (2025)</li>
+  </ul>
  
   <a name="mba"></a>
   <br><br><br>
