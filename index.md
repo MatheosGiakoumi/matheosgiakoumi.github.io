@@ -64,56 +64,41 @@
   <hr>
   <br><br><br>
   <h1>EDUCATION</h1>
-
-  <a name="phd"></a>
-<br><br><br>
-<h2>PhD in Petroleum and Geosystems Engineering - PGE (3.95/4)</h2>
-<a href="https://pge.utexas.edu/" target="_blank">Link to Website</a>
-
-<div style="text-align: justify;">
-  <i><strong>Hildebrand Department of Petroleum and Geosystems Engineering / Cockrell School of Engineering / The University of Texas at Austin</strong></i>
-  <ul>
-    <li><strong><u>Honors and Awards:</u></strong>
-      <ul>
-        <li>
-          <strong><a href="https://www.iaee.org/proceedings/article/19034" target="_blank" rel="noopener">
-            Best Student Paper Award (46th IAEE)
-          </a></strong> — International Association of Energy Economics, Paris, 2025. 
-          <em>“An Engineering-Informed Economic Model for Predicting the CO<sub>2</sub> Market Price in a CCUS Infrastructure: A Case Study in the Eastern Mediterranean Basin.”</em>
-        </li>
-        <li>
-          <strong><a href="https://www.linkedin.com/posts/spwla-texas_the-spwla-ut-austin-student-chapter-is-activity-7292900957279989761-TTeo" target="_blank" rel="noopener">
-            1st Place — SPWLA Student Paper Competition (UT Austin)
-          </a></strong> 
-          <em>“An Engineering-Informed Economic Model for Predicting the CO<sub>2</sub> Market Price in a UHS Infrastructure.”</em>
-        </li>
-      </ul>
-    </li>
-
-    <li><strong><u>Leadership:</u></strong>
-      <ul>
-        <li>
-          <strong><a href="https://www.linkedin.com/posts/spwla-texas_spwla-utaustin-digitalpetrophysics-activity-7364818481298472960-6Cfo" target="_blank" rel="noopener">
-            President, SPWLA UT Austin Chapter
-          </a></strong> (2025)
-        </li>
-      </ul>
-    </li>
-
-    <li><strong><u>Notable Courses:</u></strong> 
-      Transport Phenomena (A), Advanced Petrophysics (A), Numerical Methods in Petroleum and Geosystems Engineering (A), 
-      Digital Rock Physics (A), Engineering Analysis (A-), Advanced Fluid Flow in Porous Media (A), 
-      Numerical Solutions of Time-Dependent Problems (A), Computational Non-Linear Continuum Mechanics I (Pending), 
-      Deep Learning (Pending)
-    </li>
-  </ul>
+  <a name="phd"></a>  
+  <img src="images/phd.png" alt="PhD Program Image">
 </div>
 
-<img src="images/phd.png">
+  <a name="phd"></a>
+  <br><br><br>
+  <h2>PhD in Petroleum and Geosystems Engineering - PGE (3.95/4)</h2>
+  <a href="https://pge.utexas.edu/" target="_blank">Link to Website</a>
 
+  <div style="text-align: justify;">
+  <I><strong>Hildebrand Department of Petroleum and Geosystems Engineering / Cockrell School of Engineering / The University of Texas at Austin</strong></I>
+  <ul>
+      <li><strong><u>Honors and Awards:</u></strong> </li>
+      <ul> 
+          <li> <a href="https://www.iaee.org/proceedings/article/19034" target="_blank" rel="noopener">
+            Best Student Paper Award (46th IAEE)
+          </a></strong> — International Association of Energy Economics, Paris, 2025. 
+          <em>"An Engineering-Informed Economic Model for Predicting the CO<sub>2</sub> Market Price in a CCUS Infrastructure: A Case Study in the Eastern Mediterranean Basin."</em></li>
+          <li> <a href="https://www.linkedin.com/posts/spwla-texas_the-spwla-ut-austin-student-chapter-is-activity-7292900957279989761-TTeo" target="_blank" rel="noopener">
+            1st Place — SPWLA Student Paper Competition (UT Austin)
+          </a></strong> 
+          <em>"An Engineering-Informed Economic Model for Predicting the CO<sub>2</sub> Market Price in a UHS Infrastructure."</em></li>
+      </ul>
+      <li><strong><u>Leadership:</u></strong> <a href="https://www.linkedin.com/posts/spwla-texas_spwla-utaustin-digitalpetrophysics-activity-7364818481298472960-6Cfo" target="_blank" rel="noopener">
+        President, SPWLA UT Austin Chapter
+      </a> (2025)
+      </li>
+      <li><strong><u>Notable Courses:</u></strong> ransport Phenomena (A), Advanced Petrophysics (A), Numerical Methods in Petroleum and Geosystems Engineering (A), Digital Rock Physics (A), Engineering Analysis (A-), Advanced Fluid Flow in Porous Media (A), Numerical Solutions of Time-Dependent Problems (A), Computational Non-Linear Continuum Mechanics I (Pending), Deep Learning (Pending)
+      </li>
+      <li>2024 - Present 
+      </li>  
+  </ul>
 
-
-<img src="images/phd.png">
+  </div>
+  <img src="images/phd.png">
  
   <a name="mba"></a>
   <br><br><br>
