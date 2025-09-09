@@ -80,6 +80,14 @@
     <li><strong><a href="https://www.linkedin.com/posts/spwla-texas_the-spwla-ut-austin-student-chapter-is-activity-7292900957279989761-TTeo" target="_blank" rel="noopener">1st Place — SPWLA Student Paper Competition (UT Austin)</a></strong> <em>“An Engineering-Informed Economic Model for Predicting the CO<sub>2</sub> Market Price in a UHS Infrastructure.”</em></li>
     <li><strong><a href="https://www.linkedin.com/posts/spwla-texas_spwla-utaustin-digitalpetrophysics-activity-7364818481298472960-6Cfo" target="_blank" rel="noopener">President, SPWLA UT Austin Chapter</a></strong> (2025)</li>
   </ul>
+
+  <h4>Notable Courses</h4>
+  <p>
+    Transport Phenomena (A), Advanced Petrophysics (A), Numerical Methods in Petroleum and Geosystems Engineering (A), 
+    Digital Rock Physics (A), Engineering Analysis (A-), Advanced Fluid Flow in Porous Media (A), 
+    Numerical Solutions of Time-Dependent Problems (A), Computational Non-Linear Continuum Mechanics I (Pending), 
+    Deep Learning (Pending)
+  </p>
  
   <a name="mba"></a>
   <br><br><br>
