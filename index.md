@@ -169,7 +169,7 @@
   <a name="pubs"></a>
   <hr>
   <br><br><br>  
-  <h1>PUBLICATIONS (PEER-REVIEWED) - NOT UPDATED (CHECK MY GOOGLE SCHOLAR)</h1>
+  <h1>PUBLICATIONS (PEER-REVIEWED)</h1>
   <br>
 
   <div style="text-align: justify;">
@@ -200,19 +200,39 @@
       <strong>Status</strong>: Published
       </li>
       <br>
-      <li><strong>Giakoumi, M.</strong>, Konstantinou, C., Burdeau, P., Papanastasiou, P., Pontoni, P. “An Engineering-Informed Game-Theoretic Economic Model for Predicting the CO2 Market Price in a CCUS Infrastructure: A Case Study in the Eastern Mediterranean Basin”. 
+      <li><strong>Giakoumi, M.</strong>, Konstantinou, C., Ciola, E., Papanastasiou, P., Pontoni, P. “Pricing CO2 as a Dual Commodity: Engineering-Driven Market Design for CCUS Deployment”. <a href="https://www.sciencedirect.com/journal/applied-energy"   target="_blank"> Applied Energy</a>
+      <br>
+      <strong>Status</strong>: Under Review (Phase 2 - coming out soon)
+      </li>
+      <br>
+      <li>Konstantinou, C., <strong>Giakoumi, M.* (cooresponding author)</strong>, Angastiniotis, N., Papanastasiou, P. “A Mathematical Framework for Underground Hydrogen Storage in Reservoirs with Geo-methanation and Enhanced Gas Recovery”. <a href="https://www.sciencedirect.com/journal/energy-conversion-and-management"   target="_blank"> Energy Conversion and Management</a>. Volume 345, December 2025, <a href="https://doi.org/10.1016/j.enconman.2025.120328"   target="_blank"> DOI: 10.1016/j.enconman.2025.120328 </a>
+      <br>
+      <strong>Status</strong>: Published 
+      </li>
+      <br>
+      <li>Konstantinou, C., <strong>Giakoumi, M.</strong>, Panagiotou, F. C. “A game-theoretic framework for sustainable water allocation in agriculture: Enhancing economic and water efficiency in Akrotiri district (Cyprus)”. <a href="https://www.sciencedirect.com/journal/science-of-the-total-environment"   target="_blank"> Science of The Total Environment (STOTEN)</a>. Volume 966, February 2025, <a href="https://doi.org/10.1016/j.scitotenv.2025.178691"   target="_blank"> DOI: 10.1016/j.scitotenv.2025.178691 </a>
+      <br>
+      <strong>Status</strong>: Published
+      </li>
+      <br>
+      <li>Konstantinou, C., <strong>Giakoumi, M.</strong>, Papanastasiou, P. “A Points of Interest (POIs)-based method for determining accident risks in hydrogen hubs and valleys”. <a href="https://www.sciencedirect.com/journal/process-safety-and-environmental-protection"   target="_blank"> Process Safety and Environmental Protection</a>.
+      <br>
+      <strong>Status</strong>: Under Review
+      </li>
+      <br>
+      <li>Konstantinou, C., <strong>Giakoumi, M.</strong>, Papanastasiou, P. “Effects of formation hydraulic properties on green hydrogen storage potential in depleted gas reservoirs”.
+      <br>
+      <strong>Status</strong>: Under Review
+      </li>
+      <br>
+      <li> <strong>Giakoumi, M.</strong>, Chang, B., Prodanovic, M. “Integrating Digital Rock Physics and Discrete Fracture Networks for Fracture Flow Upscaling”.
       <br>
       <strong>Status</strong>: In Preparation
       </li>
       <br>
-      <li>Konstantinou, C., <strong>Giakoumi, M.</strong>, Angastiniotis, N., Papanastasiou, P. “A Mathematical Framework for Underground Hydrogen Storage in Reservoirs with Geo-methanation and Enhanced Gas Recovery”. 
+      <li> <strong>Giakoumi, M.</strong>, Yoon, H., Prodanovic, M., DiCarlo, D. “Derivation of Pore Size Distribution from MICP Data Using Triangular and Horn-Triangular Capillary Bundle Models”.
       <br>
-      <strong>Status</strong>: Under Review
-      </li>
-      <br>
-      <li>Konstantinou, C., <strong>Giakoumi, M.</strong>, Panagiotou, F. C. “A Game-Theoretic Framework for Sustainable Water Allocation in Agriculture: Enhancing Economic and Water Efficiency in Akrotiri district (Cyprus)”.
-      <br>
-      <strong>Status</strong>: Under Review
+      <strong>Status</strong>: In Preparation
       </li>
       <br>
       <li> <strong>Giakoumi, M.</strong>, Zanini, S., Agathokleous, R., Konstantinou, C., Pontoni, F. (2024). “Pimp my house: A stochastic framework for evaluating energy retrofit investments”.
@@ -225,9 +245,9 @@
       <strong>Status</strong>: In Preparation
       </li>
       <br>
-      <li> Zanini, S., Somenzi, E., <strong>Giakoumi, M.</strong>, Pontoni, F., Risso G. (2024). “The Italian electricity market in 2030 between NECP’s and reality. What do we expect from Italian electricity prices if national targets are not reached?”. <a href="https://www.feem.it/en/publication/briefs/"   target="_blank"> FEEM Policy Brief</a>
+      <li> Pontoni, F., Somenzi, E., Zanini, S., Risso G., <strong>Giakoumi, M.</strong> (2025). “The Italian electricity market in 2030 between NECP’s and reality. What do we expect from Italian electricity prices if national targets are not reached?”. ISBN: 9791280348333, <a href="https://www.researchgate.net/profile/Sara-Zanini-7/publication/393047972_The_Italian_electricity_market_in_2030_between_NECPs_and_reality_What_do_we_expect_from_Italian_wholesale_electricity_prices_if_national_targets_are_not_reached/links/685d347a99d2ce32c1cb6b8b/The-Italian-electricity-market-in-2030-between-NECPs-and-reality-What-do-we-expect-from-Italian-wholesale-electricity-prices-if-national-targets-are-not-reached.pdf"   target="_blank"> FEEM Policy Brief</a>
       <br>
-      <strong>Status</strong>: In Preparation
+      <strong>Status</strong>: Published
       </li>
       <br>
   </ol>
@@ -247,13 +267,22 @@
   <div style="text-align: justify;">
 
   <ol>
-      <li> Konstantinou, C., <strong>Giakoumi, M.</strong>, Papanastasiou, P., Olympios, A., Kourougianni, F., Arsalis, A, Georghiou, G. (2024). “Green Hydrogen Storage in Depleted Gas Reservoirs”. Accepted for presentation at <a href="https://synergy-med.org/" target="_blank"> the 3rd International Conference on Energy Transition in the Mediterranean Area (SyNERGY MED 2024)</a> , Limassol, Cyprus, 21 – 23 October 2024.
+      <li> <strong>Giakoumi, M.</strong>, Almajed, H., Chang, B., Prodanovic, M. (2025). “Integrating Digital Rock Physics and Discrete Fracture Networks for Fracture Flow Upscaling”. To be presented at <a href="https://www.agu.org/annual-meeting" target="_blank"> AGU25 </a> , Louisiana, New Orleans, 15 – 19 December 2025.
+      </li>
+      <br> 
+      <li> <strong>Giakoumi, M.</strong> (2025). “An Engineering-Informed Economic Model for Predicting the CO2 Market Price in a CCUS Infrastructure: A Case Study in the Eastern Mediterranean Basin”. Presented at <a href="https://iaee2025paris.org/" target="_blank"> the 46th International Association of Energy Economics</a> , Paris, France, 15 – 18 June 2025.  <a href="https://www.iaee.org/proceedings/article/19034" target="_blank"> Best Student Paper Award Presentation</a>.
+      </li>
+      <br> 
+      <li> Konstantinou, C., <strong>Giakoumi, M.</strong>, Papanastasiou, P. (2024). “Green Hydrogen Storage in Depleted Gas Reservoirs”. Presented at <a href="https://onepetro.org/armaigs/IGS24/conference/IGS24/" target="_blank"> the International Geomechanics Conference</a> , Kuala Lumpur, Malaysia, 18 – 20 October 2024.  <a href="https://doi.org/10.56952/IGS-2024-0452" target="_blank"> DOI: 10.56952/IGS-2024-0452</a>.
+      </li>
+      <br> 
+      <li> Konstantinou, C., <strong>Giakoumi, M.</strong>, Papanastasiou, P., Olympios, A., Kourougianni, F., Arsalis, A, Georghiou, G. (2024). “Green Hydrogen Storage in Depleted Gas Reservoirs”. Presented at <a href="https://synergy-med.org/" target="_blank"> the 3rd International Conference on Energy Transition in the Mediterranean Area (SyNERGY MED 2024)</a> , Limassol, Cyprus, 21 – 23 October 2024.  <a href="https://ieeexplore.ieee.org/abstract/document/10799311" target="_blank"> DOI: 10.1109/SyNERGYMED62435.2024.10799311</a>.
       </li>
       <br> 
       <li> <strong>Giakoumi, M.</strong>, Konstantinou, C., Burdeau, P., Papanastasiou, P., Pontoni, P. (2024). “From Waste to Commodity: Leveraging Game Theory in the CCUS - Driven CO2 Market - A Case Study in Cyprus”. Accepted for presentation at the <a href="https://www.iaee2024.org.tr/" target="_blank"> 45th IAEE International Conference</a> , Istanbul, Turkey, 25 – 28 June 2024.
       </li>
       <br> 
-      <li> Attended <a href="https://www.feem.it/en/publication/briefs/"   target="_blank"> Petroleum Engineering Summer School (PESS) 55A Workshop: Production & Reservoir Engineering</a>, Dubrovnik, Croatia, 10 – 14 June 2024.
+      <li> Attended <a href="https://rgn-pess.com/"   target="_blank"> Petroleum Engineering Summer School (PESS) 55A Workshop: Production & Reservoir Engineering</a>, Dubrovnik, Croatia, 10 – 14 June 2024.
       </li>
       <br> 
       <li> <strong>Giakoumi, M.</strong>, Stephanou, P.S., Kapnisis, K., Anayiotos, A. (2024). “Incorporating Confidence Intervals in Physiologically Based Toxicokinetic (PBTK) Modeling”. Submitted for presentation at the <a href="https://pesxm14.gr/" target="_blank"> Fourteenth Panhellenic Scientific Conference of Chemical Engineering</a> , Thessaloniki, Greece, 29 – 31 May 2024.
