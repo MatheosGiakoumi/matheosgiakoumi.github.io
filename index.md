@@ -169,7 +169,7 @@
   <a name="pubs"></a>
   <hr>
   <br><br><br>  
-  <h1>PUBLICATIONS (PEER-REVIEWED)</h1>
+  <h1>PUBLICATIONS (PEER-REVIEWED) - NOT UPDATED (CHECK MY GOOGLE SCHOLAR)</h1>
   <br>
 
   <div style="text-align: justify;">
@@ -241,7 +241,7 @@
   <a name="conf"></a>
   
   <br><br><br>
-  <h1>CONFERENCE PRESENTATIONS</h1>
+  <h1>CONFERENCE PRESENTATIONS - NOT UPDATED (CHECK MY GOOGLE SCHOLAR)</h1>
   <br><br><br>
 
   <div style="text-align: justify;">
