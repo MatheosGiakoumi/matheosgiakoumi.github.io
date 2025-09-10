@@ -302,7 +302,7 @@
   <div style="text-align: justify;">
 
   <ul>
-      <li><strong><u>Pore Clogging with CFD/DEM:</u></strong> Simulations and theoretical contributions to pore-clogging phenomena in porous and fractured media with CFD & DEM methods, with applications in wellbore damage and toxic-leaching of medical devices.
+      <li><strong><u>BayesFracX (repo coming soon):</u></strong> An open-source pipeline for the automatic identification and characterization of fractures in digital rock images. I developed a novel numerical method based on a Dirichlet-Process Bayesian Gaussian Mixture Model (DP-BGMM) that automatically detects and classifies fractures from μCT images. The processed fracture data can be exported directly to commercial discrete fracture network (DFN) simulators such as <em>dfnWorks</em> and <em>CMG</em>, enabling seamless upscaling to reservoir-scale performance models. Case studies have been deployed using open-source data from the <a href="https://www.digitalrocksportal.org/" target="_blank">Digital Rocks Portal</a>. This work is planned for presentation at AGU25, alongside a journal publication and software release.
       </li>
       <br>
       <li><strong><u>Digital Rocks Portal:</u></strong> Data curator of the <a href="https://www.digitalrocksportal.org/" target="_blank">Digital Rocks Portal</a>
@@ -317,6 +317,7 @@
 
   </div>
   <br>
+  <img src="images/gra.png">
   
   <a name="feem"></a>
   <br><br><br>  
@@ -354,7 +355,7 @@
   <div style="text-align: justify;">
 
   <ul>
-      <li><strong><u>Smart Contracts in Well Operations:</u></strong> During my MBA thesis at Eni SpA's Well Operations department, I assessed the implementation of smart contracts to automate interactions with service contractors. I translated these physical interactions into Smart Contracts using Solidity on Ethereum TestNets. The results contributed to confidential internal assessments of operating working capital, particularly in liabilities estimation, currency exchange fees, and bargaining power, and led to further company research into this technology.
+      <li><strong><u>Smart Contracts in Well Operations:</u></strong> I assessed the implementation of smart contracts to automate interactions with service contractors. I translated these physical interactions into Smart Contracts using Solidity on Ethereum TestNets. The results contributed to confidential internal assessments of operating working capital, particularly in liabilities estimation, currency exchange fees, and bargaining power, and led to further company research into this technology.
       </li>
       <br>
       <li>January 2023 - June 2023 
