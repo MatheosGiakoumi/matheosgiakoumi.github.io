@@ -326,7 +326,6 @@
       <br>
     <li><strong><u>Beyond Circular Tubes in MICP Analysis:</u></strong> Did you know that most mercury intrusion capillary pressure (MICP) models assume circular capillary tubes to estimate pore size distribution? This simplification often leads to inaccuracies. We are developing a new model that incorporates triangular and horn-shaped triangular geometries, aiming for a more realistic description of pore systems. This work is under preparation for a journal submission and is planned to be presented at SPWLA 2026.
       </li>
-      </li>
       <br>
     <li><strong><u>Analytical Framework for Hydrogen Storage & Geo-Methanation:</u></strong> Developed a mathematical model for underground hydrogen storage that covers (i) H₂ injection into depleted reservoirs, (ii) H₂ + CO₂ co-injection for geo-methanation, and (iii) H₂ injection for enhanced gas recovery (EGR). The framework integrates material balance, multiple equations of state (EoS), advection-driven gas mixing, water influx modeling, and Gibbs free-energy minimization. Published in <a href="https://www.sciencedirect.com/science/article/pii/S0196890425008520" target="_blank">Energy Conversion & Management (2025)</a>.
       </li>
