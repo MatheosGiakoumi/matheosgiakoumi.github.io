@@ -259,7 +259,7 @@
   <a name="conf"></a>
   
   <br><br><br>
-  <h1>CONFERENCE PRESENTATIONS - NOT UPDATED (CHECK MY GOOGLE SCHOLAR)</h1>
+  <h1>CONFERENCE PRESENTATIONS</h1>
   <br><br><br>
 
   <div style="text-align: justify;">
