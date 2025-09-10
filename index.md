@@ -320,6 +320,13 @@
       <li><strong><u>Supervisor:</u></strong> <a href="https://pge.utexas.edu/facultystaff/faculty-directory/prodanovic" target="_blank"> Professor Masa Prodanovic</a>
       </li>  
       <br>  
+    li><strong><u>Analytical Framework for Hydrogen Storage & Geo-Methanation:</u></strong> Developed a mathematical model for underground hydrogen storage that covers (i) H₂ injection into depleted reservoirs, (ii) H₂ + CO₂ co-injection for geo-methanation, and (iii) H₂ injection for enhanced gas recovery (EGR). The framework integrates material balance, multiple equations of state (EoS), advection-driven gas mixing, water influx modeling, and Gibbs free-energy minimization. Published in <a href="https://www.sciencedirect.com/science/article/pii/S0196890425008520" target="_blank">Energy Conversion & Management (2025)</a>.
+      </li>
+      </li>
+      <br>
+      <li><strong><u>Supervisor:</u></strong> <a href="https://pge.utexas.edu/facultystaff/faculty-directory/prodanovic" target="_blank"> Professor Masa Prodanovic</a>
+      </li>  
+      <br> 
       <li>August 2024 - Present 
       </li>  
   </ul>
@@ -327,6 +334,7 @@
   </div>
   <br>
   <img src="images/gra.png">
+  <img src="images/gra2.png">
   
   <a name="feem"></a>
   <br><br><br>  
