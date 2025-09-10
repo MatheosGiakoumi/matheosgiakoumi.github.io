@@ -175,31 +175,6 @@
   <div style="text-align: justify;">
 
   <ol>
-      <li><strong> Giakoumi, M.</strong>, Stephanou, PS., Kapnisis, KK., Anayiotos, A. “On the Development of Physiologically Based Toxicokinetic Models (PBTK) for Cardiovascular Implants”. <a href="https://www.sciencedirect.com/journal/regulatory-toxicology-and-pharmacology" target="_blank"> Regulatory Toxicology and Pharmacology</a>. 2023 Sep 1;144:105489. <a href="https://www.sciencedirect.com/science/article/abs/pii/S0273230023001575" target="_blank"> DOI: 10.1016/j.yrtph.2023.105489</a>. PMID: 37659713.
-      <br>
-      <strong>Status</strong>: Published
-      </li>
-      <br>
-      <li><strong> Giakoumi, M.</strong>, Konstantinou, C., Ehlig-Economides, C., Papanastasiou, P. “A Screening Tool for Carbon Dioxide Injection in Gas Reservoirs with Water Influx Based on the Material Balance Approach”. <a href="https://www.sciencedirect.com/journal/geomechanics-for-energy-and-the-environment" target="_blank"> Geomechanics for Energy and The Environment</a>. 2023 Dec 23, ISSN 2352-3808, <a href="https://www.sciencedirect.com/science/article/abs/pii/S2352380823001016" target="_blank"> DOI: 10.1016/j.gete.2023.100532</a>.
-      <br>
-      <strong>Status</strong>: Published
-      </li>
-      <br>
-      <li><strong> Giakoumi, M.</strong>, Stephanou, PS., Kokkinidou, D., Papastefanou, C., Kapnisis, KK., Anayiotos, A. “A Predictive Toxicokinetic Model for Nickel Leaching from Vascular Stents”. <a href="https://pubs.acs.org/journal/abseba" target="_blank"> ACS Biomaterials Science & Engineering</a>. 2024 10 (4), 2534-2551, <a href="https://doi.org/10.1021/acsbiomaterials.3c01436" target="_blank"> DOI: 10.1021/acsbiomaterials.3c01436</a>.
-      <br>
-      <strong>Status</strong>: Published
-      </li>
-      <br>
-      <li> <strong>Giakoumi, M.</strong>, Konstantinou, C., Papadimitriou, N., Panagiotou, F. C., Tsangarides, A., Iosif, G., Stasis, N., Finiris, S., Georgiou, V., Papanastasiou, P. “Advancements in field development planning through mathematical analysis for reserves estimation, casing design, accidental events and carbon dioxide storage”.<a href="https://www.sciencedirect.com/journal/gas-science-and-engineering"   target="_blank"> Gas Science and Engineering</a>. Volume 130, October 2024, 205420, <a href="https://doi.org/10.1016/j.jgsce.2024.205420"   target="_blank"> DOI: 10.1016/j.jgsce.2024.205420 </a>
-      <br>
-      <strong>Status</strong>: Published
-      </li>
-      <br>
-      <li><strong> Giakoumi, M.</strong>, Stephanou, PS., Kapnisis, KK., Anayiotos, A. “Analytical Solutions of PBTK Models for Evaluating the Impact of Surface Diffusion Characteristics on the Leaching Profile of Implant Bioproducts”. <a href="https://link.springer.com/journal/11538"   target="_blank"> Mathematical and Computational Applications</a>. Volume 29, November 2024, <a href="https://www.mdpi.com/2297-8747/29/6/101"   target="_blank"> DOI: 10.3390/mca29060101 </a>
-      <br>
-      <strong>Status</strong>: Published
-      </li>
-      <br>
       <li><strong>Giakoumi, M.</strong>, Konstantinou, C., Ciola, E., Papanastasiou, P., Pontoni, P. “Pricing CO2 as a Dual Commodity: Engineering-Driven Market Design for CCUS Deployment”. <a href="https://www.sciencedirect.com/journal/applied-energy"   target="_blank"> Applied Energy</a>
       <br>
       <strong>Status</strong>: Under Review (Phase 2 - coming out soon)
@@ -211,6 +186,29 @@
       </li>
       <br>
       <li>Konstantinou, C., <strong>Giakoumi, M.</strong>, Panagiotou, F. C. “A game-theoretic framework for sustainable water allocation in agriculture: Enhancing economic and water efficiency in Akrotiri district (Cyprus)”. <a href="https://www.sciencedirect.com/journal/science-of-the-total-environment"   target="_blank"> Science of The Total Environment (STOTEN)</a>. Volume 966, February 2025, <a href="https://doi.org/10.1016/j.scitotenv.2025.178691"   target="_blank"> DOI: 10.1016/j.scitotenv.2025.178691 </a>
+      <br>
+      <strong>Status</strong>: Published
+      </li>
+      <br>
+      <li><strong> Giakoumi, M.</strong>, Konstantinou, C., Ehlig-Economides, C., Papanastasiou, P. “A Screening Tool for Carbon Dioxide Injection in Gas Reservoirs with Water Influx Based on the Material Balance Approach”. <a href="https://www.sciencedirect.com/journal/geomechanics-for-energy-and-the-environment" target="_blank"> Geomechanics for Energy and The Environment</a>. 2023 Dec 23, ISSN 2352-3808, <a href="https://www.sciencedirect.com/science/article/abs/pii/S2352380823001016" target="_blank"> DOI: 10.1016/j.gete.2023.100532</a>.
+      <br>
+      <strong>Status</strong>: Published
+      </li>
+      <br>
+      <li> <strong>Giakoumi, M.</strong>, Konstantinou, C., Papadimitriou, N., Panagiotou, F. C., Tsangarides, A., Iosif, G., Stasis, N., Finiris, S., Georgiou, V., Papanastasiou, P. “Advancements in field development planning through mathematical analysis for reserves estimation, casing design, accidental events and carbon dioxide storage”.<a href="https://www.sciencedirect.com/journal/gas-science-and-engineering"   target="_blank"> Gas Science and Engineering</a>. Volume 130, October 2024, 205420, <a href="https://doi.org/10.1016/j.jgsce.2024.205420"   target="_blank"> DOI: 10.1016/j.jgsce.2024.205420 </a>
+      <br>
+      <strong>Status</strong>: Published
+      </li>
+      <li><strong> Giakoumi, M.</strong>, Stephanou, PS., Kapnisis, KK., Anayiotos, A. “On the Development of Physiologically Based Toxicokinetic Models (PBTK) for Cardiovascular Implants”. <a href="https://www.sciencedirect.com/journal/regulatory-toxicology-and-pharmacology" target="_blank"> Regulatory Toxicology and Pharmacology</a>. 2023 Sep 1;144:105489. <a href="https://www.sciencedirect.com/science/article/abs/pii/S0273230023001575" target="_blank"> DOI: 10.1016/j.yrtph.2023.105489</a>. PMID: 37659713.
+      <br>
+      <strong>Status</strong>: Published
+      </li>
+      <li><strong> Giakoumi, M.</strong>, Stephanou, PS., Kokkinidou, D., Papastefanou, C., Kapnisis, KK., Anayiotos, A. “A Predictive Toxicokinetic Model for Nickel Leaching from Vascular Stents”. <a href="https://pubs.acs.org/journal/abseba" target="_blank"> ACS Biomaterials Science & Engineering</a>. 2024 10 (4), 2534-2551, <a href="https://doi.org/10.1021/acsbiomaterials.3c01436" target="_blank"> DOI: 10.1021/acsbiomaterials.3c01436</a>.
+      <br>
+      <strong>Status</strong>: Published
+      </li>
+      <br>
+      <li><strong> Giakoumi, M.</strong>, Stephanou, PS., Kapnisis, KK., Anayiotos, A. “Analytical Solutions of PBTK Models for Evaluating the Impact of Surface Diffusion Characteristics on the Leaching Profile of Implant Bioproducts”. <a href="https://link.springer.com/journal/11538"   target="_blank"> Mathematical and Computational Applications</a>. Volume 29, November 2024, <a href="https://www.mdpi.com/2297-8747/29/6/101"   target="_blank"> DOI: 10.3390/mca29060101 </a>
       <br>
       <strong>Status</strong>: Published
       </li>
