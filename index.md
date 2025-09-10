@@ -293,10 +293,8 @@
       <br>
       <li><strong><u>Digital Twin of the Texas Power System for CCUS, UHS, and Geo-Methanation:</u></strong> Building on my award-winning framework presented at the <a href="https://www.iaee.org/proceedings/article/19034" target="_blank">46th IAEE Conference</a>, where I introduced the concept of CO<sub>2</sub> as an energy commodity, I am developing a digital twin of the Texas power system to evaluate CO<sub>2</sub> storage availability and economic viability. The model integrates market equilibrium, stakeholder coordination (Emitters, O&G Producers, Policymakers), and reservoir capacity assessments to forecast the CO<sub>2</sub> selling price and investment potential. Beyond CCUS, the methodology is being extended to <strong>underground hydrogen storage (UHS)</strong> and <strong>geo-methanation</strong>, providing a unified framework for assessing multi-vector energy storage solutions. The approach expands earlier applications to the Aphrodite Gas Field (Cyprus) and Ravenna CCS hub (Italy, operated by Eni SpA) into a large-scale U.S. context. The work is under active development, with multiple publications in preparation.
       </li>
-      </li>
       <br>
     <li><strong><u>Proppant Transport in Rough Fractures (Pipeline Extension of BayesFracX):</u></strong> As a continuation of <em>BayesFracX</em>, I am implementing coupled finite element–discrete element (FEM–DEM) simulations on the identified fracture networks. This step enables the study of proppant placement efficiency, bridging risk, and fracture conductivity under realistic geometries. Together with BayesFracX, the goal is to establish a complete pipeline: from automatic fracture identification in μCT images, to detailed particle-scale simulations, and finally to seamless upscaling into reservoir-scale DFN simulators such as <em>dfnWorks</em> and <em>CMG</em>.
-      </li>
       </li>
       <br>
     <li><strong><u>Beyond Circular Tubes in MICP Analysis:</u></strong> Did you know that most mercury intrusion capillary pressure (MICP) models assume circular capillary tubes to estimate pore size distribution? This simplification often leads to inaccuracies. We are developing a new model that incorporates triangular and horn-shaped triangular geometries, aiming for a more realistic description of pore systems. This work is under preparation for a journal submission and is planned to be presented at SPWLA 2026.</em>.
@@ -304,7 +302,6 @@
       </li>
       <br>
     <li><strong><u>Analytical Framework for Hydrogen Storage & Geo-Methanation:</u></strong> Developed a mathematical model for underground hydrogen storage that covers (i) H₂ injection into depleted reservoirs, (ii) H₂ + CO₂ co-injection for geo-methanation, and (iii) H₂ injection for enhanced gas recovery (EGR). The framework integrates material balance, multiple equations of state (EoS), advection-driven gas mixing, water influx modeling, and Gibbs free-energy minimization. Published in <a href="https://www.sciencedirect.com/science/article/pii/S0196890425008520" target="_blank">Energy Conversion & Management (2025)</a>.
-      </li>
       </li>
       <br>
       <li><strong><u>Supervisor:</u></strong> <a href="https://pge.utexas.edu/facultystaff/faculty-directory/prodanovic" target="_blank"> Professor Masa Prodanovic</a>
