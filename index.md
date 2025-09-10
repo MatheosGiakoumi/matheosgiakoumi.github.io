@@ -6,20 +6,6 @@
     <h1>Detailed Portfolio</h1>
 
   <hr>
-
-<div class="video-container">
-  <iframe
-    width="460"
-    height="315"
-    src="https://www.youtube.com/watch?v=yf5cEJULZXk?autoplay=1&mute=1"
-    frameborder="0"
-    allow="autoplay; encrypted-media"
-    allowfullscreen
-    playsinline>
-  </iframe>
-</div>
-  <br><br><br>
-  <hr>
   
   <h2>Academics</h2>
     <ul>
