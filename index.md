@@ -305,13 +305,22 @@
       <li><strong><u>BayesFracX (repo coming soon):</u></strong> An open-source pipeline for the automatic identification and characterization of fractures in digital rock images. I developed a novel numerical method based on a Dirichlet-Process Bayesian Gaussian Mixture Model (DP-BGMM) that automatically detects and classifies fractures from μCT images. The processed fracture data can be exported directly to commercial discrete fracture network (DFN) simulators such as <em>dfnWorks</em> and <em>CMG</em>, enabling seamless upscaling to reservoir-scale performance models. Case studies have been deployed using open-source data from the <a href="https://www.digitalrocksportal.org/" target="_blank">Digital Rocks Portal</a>. This work is planned for presentation at AGU25, alongside a journal publication and software release.
       </li>
       <br>
-      <li><strong><u>Digital Rocks Portal:</u></strong> Data curator of the <a href="https://www.digitalrocksportal.org/" target="_blank">Digital Rocks Portal</a>
+      li><strong><u>Digital Twin of the Texas Power System for CCUS, UHS, and Geo-Methanation:</u></strong> Building on my award-winning framework presented at the <a href="https://www.iaee.org/proceedings/article/19034" target="_blank">46th IAEE Conference</a>, where I introduced the concept of CO<sub>2</sub> as an energy commodity, I am developing a digital twin of the Texas power system to evaluate CO<sub>2</sub> storage availability and economic viability. The model integrates market equilibrium, stakeholder coordination (Emitters, O&G Producers, Policymakers), and reservoir capacity assessments to forecast the CO<sub>2</sub> selling price and investment potential. Beyond CCUS, the methodology is being extended to <strong>underground hydrogen storage (UHS)</strong> and <strong>geo-methanation</strong>, providing a unified framework for assessing multi-vector energy storage solutions. The approach expands earlier applications to the Aphrodite Gas Field (Cyprus) and Ravenna CCS hub (Italy, operated by Eni SpA) into a large-scale U.S. context. The work is under active development, with multiple publications in preparation.
+      </li>
+      </li>
+      <br>
+    li><strong><u>Proppant Transport in Rough Fractures (Pipeline Extension of BayesFracX):</u></strong> As a continuation of <em>BayesFracX</em>, I am implementing coupled finite element–discrete element (FEM–DEM) simulations on the identified fracture networks. This step enables the study of proppant placement efficiency, bridging risk, and fracture conductivity under realistic geometries. Together with BayesFracX, the goal is to establish a complete pipeline: from automatic fracture identification in μCT images, to detailed particle-scale simulations, and finally to seamless upscaling into reservoir-scale DFN simulators such as <em>dfnWorks</em> and <em>CMG</em>.
+      </li>
+      </li>
+      <br>
+    li><strong><u>Beyond Circular Tubes in MICP Analysis:</u></strong> Did you know that most mercury intrusion capillary pressure (MICP) models assume circular capillary tubes to estimate pore size distribution? This simplification often leads to inaccuracies. We are developing a new model that incorporates triangular and horn-shaped triangular geometries, aiming for a more realistic description of pore systems. This work is under preparation for a journal submission and is planned to be presented at SPWLA 2026.</em>.
+      </li>
       </li>
       <br>
       <li><strong><u>Supervisor:</u></strong> <a href="https://pge.utexas.edu/facultystaff/faculty-directory/prodanovic" target="_blank"> Professor Masa Prodanovic</a>
       </li>  
       <br>  
-      <li>August 2024 - Now 
+      <li>August 2024 - Present 
       </li>  
   </ul>
 
