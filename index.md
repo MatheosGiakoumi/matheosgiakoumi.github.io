@@ -76,7 +76,7 @@
         President, SPWLA UT Austin Chapter
       </a> (2025)
       </li>
-      <li><strong><u>Notable Courses:</u></strong> Transport Phenomena (A), Advanced Petrophysics (A), Numerical Methods in Petroleum and Geosystems Engineering (A), Digital Rock Physics (A), Engineering Analysis (A-), Advanced Fluid Flow in Porous Media (A), Numerical Solutions of Time-Dependent Problems (A), Computational Non-Linear Continuum Mechanics I (Pending), Deep Learning (Pending)
+      <li><strong><u>Notable Courses:</u></strong> Transport Phenomena (A), Advanced Petrophysics (A), Numerical Methods in Petroleum and Geosystems Engineering (A), Digital Rock Physics (A), Engineering Analysis (A-), Advanced Fluid Flow in Porous Media (A), Numerical Solutions of Time-Dependent Problems (A), Computational Non-Linear Continuum Mechanics I (A), Computational Non-Linear Continuum Mechanics II (Pending)
       </li>
       <li>2024 - Present 
       </li>  
@@ -175,9 +175,9 @@
   <div style="text-align: justify;">
 
   <ol>
-      <li><strong>Giakoumi, M.</strong>, Konstantinou, C., Ciola, E., Papanastasiou, P., Pontoni, P. “Pricing CO2 as a Dual Commodity: Engineering-Driven Market Design for CCUS Deployment”. <a href="https://www.sciencedirect.com/journal/applied-energy"   target="_blank"> Applied Energy</a>
+      <li><strong>Giakoumi, M.</strong>, Konstantinou, C., Ciola, E., Papanastasiou, P., Pontoni, P. “Pricing CO2 as a Dual Commodity: Engineering-Driven Market Design for CCUS Deployment”. <a href="https://www.sciencedirect.com/journal/applied-energy"   target="_blank"> Applied Energy</a>. Volume 406, March 2026, <a href="https://doi.org/10.1016/j.apenergy.2025.12721)"   target="_blank"> DOI: 10.1016/j.apenergy.2025.12721 </a>
       <br>
-      <strong>Status</strong>: Under Review (Phase 2 - coming out soon)
+      <strong>Status</strong>: Published
       </li>
       <br>
       <li>Konstantinou, C., <strong>Giakoumi, M.* (cooresponding author)</strong>, Angastiniotis, N., Papanastasiou, P. “A Mathematical Framework for Underground Hydrogen Storage in Reservoirs with Geo-methanation and Enhanced Gas Recovery”. <a href="https://www.sciencedirect.com/journal/energy-conversion-and-management"   target="_blank"> Energy Conversion and Management</a>. Volume 345, December 2025, <a href="https://doi.org/10.1016/j.enconman.2025.120328"   target="_blank"> DOI: 10.1016/j.enconman.2025.120328 </a>
@@ -213,9 +213,9 @@
       <strong>Status</strong>: Published
       </li>
       <br>
-      <li>Konstantinou, C., <strong>Giakoumi, M.</strong>, Papanastasiou, P. “A Points of Interest (POIs)-based method for determining accident risks in hydrogen hubs and valleys”. <a href="https://www.sciencedirect.com/journal/process-safety-and-environmental-protection"   target="_blank"> Process Safety and Environmental Protection</a>.
+      <li>Konstantinou, C., <strong>Giakoumi, M.</strong>, Papanastasiou, P. “A Points of Interest (POIs)-based method for determining accident risks in hydrogen hubs and valleys”. <a href="https://www.sciencedirect.com/journal/process-safety-and-environmental-protection"   target="_blank"> Process Safety and Environmental Protection</a>.Volume 206, January 2026, <a href="https://doi.org/10.1016/j.psep.2025.108278"   target="_blank"> DOI: 10.1016/j.psep.2025.108278 </a>
       <br>
-      <strong>Status</strong>: Under Review
+      <strong>Status</strong>: Published
       </li>
       <br>
       <li>Konstantinou, C., <strong>Giakoumi, M.</strong>, Papanastasiou, P. “Effects of formation hydraulic properties on green hydrogen storage potential in depleted gas reservoirs”.
