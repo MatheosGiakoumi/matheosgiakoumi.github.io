@@ -260,7 +260,7 @@
   <div style="text-align: justify;">
 
   <ol>
-      <li> <strong>Giakoumi, M.</strong>, Almajed, H., Chang, B., Prodanovic, M. (2025). “Integrating Digital Rock Physics and Discrete Fracture Networks for Fracture Flow Upscaling”. To be presented at <a href="https://www.agu.org/annual-meeting" target="_blank"> AGU25 </a> , Louisiana, New Orleans, 15 – 19 December 2025.
+      <li> <strong>Giakoumi, M.</strong>, Almajed, H., Chang, B., Prodanovic, M. (2025). “Integrating Digital Rock Physics and Discrete Fracture Networks for Fracture Flow Upscaling”. To be presented at <a href="https://www.agu.org/annual-meeting" target="_blank"> AGU25 </a> , Louisiana, New Orleans, 15 – 19 December 2025. <a href="https://scholar.google.com/scholar?cluster=17461369898268582626&hl=en&oi=scholarr"> Link</a>.
       </li>
       <br> 
       <li> <strong>Giakoumi, M.</strong> (2025). “An Engineering-Informed Economic Model for Predicting the CO2 Market Price in a CCUS Infrastructure: A Case Study in the Eastern Mediterranean Basin”. Presented at <a href="https://iaee2025paris.org/" target="_blank"> the 46th International Association of Energy Economics</a> , Paris, France, 15 – 18 June 2025.  <a href="https://www.iaee.org/proceedings/article/19034" target="_blank"> Best Student Paper Award Presentation</a>.
