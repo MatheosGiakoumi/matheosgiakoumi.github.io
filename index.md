@@ -233,14 +233,9 @@
       <strong>Status</strong>: In Preparation
       </li>
       <br>
-      <li> <strong>Giakoumi, M.</strong>, Zanini, S., Agathokleous, R., Konstantinou, C., Pontoni, F. (2024). “Pimp my house: A stochastic framework for evaluating energy retrofit investments”.
-      <br>
-      <strong>Status</strong>: In Preparation
-      </li>
-      <br>
       <li> <strong>Giakoumi, M.</strong>, Stephanou, PS., Kapnisis, KK., Anayiotos, A. “Predictive capability testing and sensitivity analysis of physiologically based toxicokinetic (PBTK) models for vascular implants”. 
       <br>
-      <strong>Status</strong>: In Preparation
+      <strong>Status</strong>: Under Review
       </li>
       <br>
       <li> Pontoni, F., Somenzi, E., Zanini, S., Risso G., <strong>Giakoumi, M.</strong> (2025). “The Italian electricity market in 2030 between NECP’s and reality. What do we expect from Italian electricity prices if national targets are not reached?”. ISBN: 9791280348333, <a href="https://www.researchgate.net/profile/Sara-Zanini-7/publication/393047972_The_Italian_electricity_market_in_2030_between_NECPs_and_reality_What_do_we_expect_from_Italian_wholesale_electricity_prices_if_national_targets_are_not_reached/links/685d347a99d2ce32c1cb6b8b/The-Italian-electricity-market-in-2030-between-NECPs-and-reality-What-do-we-expect-from-Italian-wholesale-electricity-prices-if-national-targets-are-not-reached.pdf"   target="_blank"> FEEM Policy Brief</a>
