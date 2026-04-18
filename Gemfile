@@ -1,11 +1,6 @@
-gem "jekyll", "~> 4.2.1"
+source "https://rubygems.org"
 
-gem "jekyll-athena"
-
-group: :jekyll_plugins do
-    gem "jekyll-feed", "~> 0.16.0"
-end
-
-gem 'tzinfo-data', platforms:[:mingw, :mswin, :x64_mingw, :jruby]
-
-gem 'jekyll-compose', group: [:jekyll_plugins]
+gem "github-pages", group: :jekyll_plugins
+gem "jekyll-seo-tag"
+gem "jekyll-sitemap"
+gem "webrick"  # needed for Ruby >= 3.0
