@@ -21,7 +21,7 @@ title: Home
       <a href="https://www.lanl.gov/" target="_blank" rel="noopener">Los Alamos National Laboratory</a>
       as a Graduate Research Intern with the Earth and Environmental Sciences Division.
       I currently serve as President of the SPWLA UT Austin Student Chapter and as a
-      <strong>TEX-E Fellow</strong> in the Texas Energy Entrepreneurship programme.
+      TEX-E Fellow in the Texas Energy Entrepreneurship programme.
     </p>
   </div>
 </section>
