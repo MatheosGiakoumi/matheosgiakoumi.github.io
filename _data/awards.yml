@@ -1,0 +1,55 @@
+# Awards & honors — featured prominently on the home page.
+# Most recent / most prestigious first.
+
+- title: "TVLC Semifinalist — ARGUS"
+  venue: "Texas Venture Labs Competition, UT Austin"
+  year: "2026"
+  url: "https://argus-v2-dujcv4tsmtvx9pektlbgpd.streamlit.app/"
+  detail: "Team ARGUS advanced to the semifinal round with a venture developing analytics tooling for managed-pressure drilling. Finals on 1 May 2026. An interactive financial and technical model is available on Streamlit."
+
+- title: "TEX-E Fellow"
+  venue: "Texas Energy Entrepreneurship Programme"
+  year: "2025 – Present"
+  detail: "Selected fellow in the TEX-E programme at UT Austin, supporting student-led ventures in the energy and climate-tech space."
+
+- title: "Best Student Paper Award"
+  venue: "46th International Association for Energy Economics"
+  year: "2025"
+  location: "Paris, France"
+  url: "https://www.iaee.org/proceedings/article/19034"
+  detail: "Engineering-informed economic model for predicting CO₂ market price in a CCUS infrastructure — Eastern Mediterranean case study."
+
+- title: "1st Place — SPWLA Student Paper Competition"
+  venue: "Society of Petrophysicists and Well Log Analysts, UT Austin Chapter"
+  year: "2024"
+  url: "https://www.linkedin.com/posts/spwla-texas_the-spwla-ut-austin-student-chapter-is-activity-7292900957279989761-TTeo"
+  detail: "Engineering-informed economic model for CO₂ market price in UHS infrastructure."
+
+- title: "Luciano Novelli Award"
+  venue: "MEDEA — Eni Scuola Mattei, University of Pavia"
+  year: "2023"
+  detail: "Best dissertation in the program: Smart Contracts in Well Operations."
+
+- title: "Honorary distinction — highest grade in the program"
+  venue: "MEDEA (Managing Technical Assets)"
+  year: "2023"
+
+- title: "MEDEA Full Scholarship"
+  venue: "Eni S.p.A."
+  year: "2022 – 2023"
+  detail: "€39,000 — tuition, stipend, and living expenses."
+
+- title: "MEng Full Scholarship"
+  venue: "Ministry of Energy, Commerce and Industry — Cyprus"
+  year: "2021 – 2023"
+  detail: "€14,500 — tuition and stipend."
+
+- title: "BS Full Scholarship"
+  venue: "Cyprus State Scholarship Foundation"
+  year: "2017 – 2021"
+  detail: "€12,000 stipend."
+
+- title: "Top undergraduate, all four years"
+  venue: "Cyprus University of Technology · ExxonMobil Cyprus"
+  year: "2017 – 2021"
+  detail: "Highest GPA in the department every academic year. €4,500."
