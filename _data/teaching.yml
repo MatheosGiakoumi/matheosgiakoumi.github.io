@@ -1,0 +1,51 @@
+- role: "Instructor — Natural Gas in Energy Transition"
+  organization: "University of Cyprus"
+  organization_url: "https://websites.ucy.ac.cy/petcy/en/"
+  period: "Sep 2023 – Present"
+  courses:
+    - code: "NGE 502"
+      name: "Natural Gas Economics"
+      level: "Graduate"
+      description: >-
+        Five in-person lectures covering history of oil & gas prices, gas markets,
+        development economics, stochastic project cashflow, and project screening
+        and ranking. Course project: IOC economic analysis of a real gas field
+        using public data.
+
+    - code: "NGE 501"
+      name: "Natural Gas Production in Energy Transition"
+      level: "Graduate"
+      description: >-
+        Introductory course on the field life cycle, petroleum and gas agreements
+        and bidding, stochastic modelling, and volumetric estimations. Co-designed
+        a stochastic volumetric estimation project with the Petroleum Geology
+        course.
+
+- role: "Visiting Instructor — Environmental and Food Economics"
+  organization: "University of Milan"
+  organization_url: "https://efe.cdl.unimi.it/en"
+  period: "Dec 2023"
+  courses:
+    - name: "Energy Economics"
+      level: "Graduate"
+      description: >-
+        Two lectures on the field life cycle and stochastic modelling for
+        profitability assessment, modeled on the UCY curriculum.
+
+- role: "University Tutor"
+  organization: "Cyprus University of Technology · Center of Student Development"
+  organization_url: "https://www.cut.ac.cy/students/advisory-and-counseling/?languageId=1"
+  period: "Sep 2018 – Dec 2022"
+  courses:
+    - name: "Heat and Mass Transfer (MEM 323)"
+    - name: "Control Systems (MEM 322)"
+    - name: "Dynamic Systems (MEM 324)"
+    - name: "Stress Analysis (MEM 414)"
+    - name: "Industrial Methods (MEM 421)"
+    - name: "HVAC (MEM 423)"
+    - name: "Energy Resources (MEM 426)"
+
+- role: "Mathematics Tutor"
+  organization: "High School Students · Private"
+  period: "Sep 2019 – Jun 2022"
+  description: "Prepared students for the national mathematics examination."

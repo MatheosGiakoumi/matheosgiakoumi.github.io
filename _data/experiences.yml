@@ -1,0 +1,231 @@
+# Research & industry experience. Most recent first.
+# `projects` is a list of bullet points for that role — where most of the content lives.
+# Use Markdown inside descriptions — it's rendered.
+# `images:` list renders a small image banner at the bottom of the card.
+
+- role: "Graduate Research Intern (EES)"
+  organization: "Los Alamos National Laboratory"
+  organization_url: "https://www.lanl.gov/"
+  period: "Summer 2026"
+  upcoming: true
+  tags: ["Fracture Networks", "Upscaling", "Nuclear Waste Disposal", "HPC"]
+  projects:
+    - title: "Upscaling strategies for fracture networks — Spent Fuel and Waste Science and Technology programme"
+      description: >-
+        Developing and comparing upscaling strategies for fracture networks using
+        [dfnWorks](https://dfnworks.lanl.gov/),
+        [PFLOTRAN](https://www.pflotran.org/), and
+        [LaGriT](https://lagrit.lanl.gov/),
+        in support of the U.S. Department of Energy&#39;s Spent Fuel and Waste Disposition programme
+        on crystalline-rock geological disposal.
+
+- role: "Graduate Research Assistant"
+  organization: "Hildebrand Department of Petroleum & Geosystems Engineering, UT Austin"
+  organization_url: "https://sites.google.com/utexas.edu/masha/people?authuser=0"
+  period: "Aug 2024 – Present"
+  current: true
+  supervisor: "Prof. Maša Prodanović"
+  supervisor_url: "https://pge.utexas.edu/facultystaff/faculty-directory/prodanovic"
+  tags: ["Digital Rock Physics", "LBM", "CCUS", "UHS", "Python"]
+  images:
+    - /images/gra.png
+    - /images/gra2.png
+  projects:
+    - title: "BayesFracX"
+      description: >-
+        Open-source pipeline for automatic identification and characterization
+        of fractures in digital rock images. Developed a Dirichlet-Process
+        Bayesian Gaussian Mixture Model (DP-BGMM) that detects and classifies
+        fractures from μCT images. Processed fracture data exports directly to
+        commercial DFN simulators (dfnWorks, CMG), enabling upscaling to
+        reservoir-scale performance models. Case studies deployed using the
+        [Digital Porous Media](https://www.digitalporousmedia.org/) portal.
+        Planned for AGU25 with journal publication and software release.
+
+    - title: "Digital Twin of the Texas Power System for CCUS, UHS, and Geo-Methanation"
+      description: >-
+        Extending the award-winning CO₂-as-energy-commodity framework from the
+        [46th IAEE](https://www.iaee.org/proceedings/article/19034) to a digital
+        twin of the Texas power system. Integrates market equilibrium, stakeholder
+        coordination (emitters, O&G producers, policymakers), and reservoir
+        capacity to forecast CO₂ selling price and investment potential. Being
+        extended to underground hydrogen storage and geo-methanation for a
+        unified multi-vector storage assessment.
+
+    - title: "Proppant Transport in Rough Fractures"
+      description: >-
+        Coupled finite element–discrete element (FEM–DEM) simulations on
+        BayesFracX-identified fracture networks. Studies proppant placement
+        efficiency, bridging risk, and fracture conductivity under realistic
+        geometries. Completes the pipeline from μCT fracture identification to
+        particle-scale simulation and DFN upscaling.
+
+    - title: "Beyond Circular Tubes in MICP Analysis"
+      description: >-
+        New pore-size-distribution model that replaces the standard circular
+        capillary tube assumption in MICP with triangular and horn-shaped
+        triangular geometries for a more realistic description of pore systems.
+        Under preparation for journal submission; planned for SPWLA 2026.
+
+    - title: "Analytical Framework for Hydrogen Storage & Geo-Methanation"
+      description: >-
+        Mathematical model covering H₂ injection into depleted reservoirs,
+        H₂+CO₂ co-injection for geo-methanation, and H₂ injection for enhanced
+        gas recovery. Integrates material balance, multiple EoS, advection-driven
+        gas mixing, water influx, and Gibbs-energy minimization. Published in
+        [Energy Conversion & Management (2025)](https://www.sciencedirect.com/science/article/pii/S0196890425008520).
+
+- role: "Researcher — Technologies for the Energy Transition"
+  organization: "Fondazione Eni Enrico Mattei (FEEM)"
+  organization_url: "https://www.feem.it/ricerca/programmi/technologies-for-the-energy-transition/"
+  period: "Sep 2023 – Sep 2024"
+  tags: ["Game Theory", "PLEXOS", "Energy Economics", "Stochastic Modeling"]
+  images:
+    - /images/feem.png
+  projects:
+    - title: "Coupling Game Theory with Reservoir Models"
+      description: >-
+        Framework to evaluate coordination and utility of CCUS and UHS value-chain
+        stakeholders. At the 45th IAEE, introduced the price of CO₂ as an energy
+        commodity, moving beyond the carbon-tax framing. Demonstrated that a CCUS
+        infrastructure in Cyprus's Aphrodite Gas Field could generate positive NPV
+        for emitters and O&G producers with limited government subsidy.
+        Methodology now being implemented in the Ravenna CCS hub (Eni SpA) for
+        emitters in Lombardy, Veneto, and Emilia Romagna.
+
+    - title: "Decarbonization of a Residential House in the EU"
+      description: >-
+        Designed insulation and PV system for a Net-Zero upgrade of a house in
+        Limassol, Cyprus. Turned the groundwork into a novel stochastic cashflow
+        model for project profitability. Now generalizing the model across the
+        whole Cyprus market using behavioral-economics-informed input distributions.
+
+    - title: "Energy Transition Modeling in PLEXOS"
+      description: >-
+        Consultancy on modeling European electricity and gas markets in
+        [PLEXOS](https://www.energyexemplar.com/plexos) for [CESI](https://www.cesi.it/)
+        and the [World Bank](https://www.worldbank.org/en/home) on the
+        [Black Sea Electricity Project](https://www.euronews.com/2022/12/17/hungary-romania-georgia-azerbaijan-agree-to-black-sea-electricity-project).
+        Built a Python .NET automation pipeline for end-to-end PLEXOS project
+        execution from input to visualization.
+
+- role: "Intern — Well Operations Department"
+  organization: "Eni S.p.A."
+  organization_url: "https://www.eni.com/en-IT/home.html"
+  period: "Jan 2023 – Jun 2023"
+  tags: ["Solidity", "Ethereum", "Drilling Operations"]
+  images:
+    - /images/master.png
+  projects:
+    - title: "Smart Contracts in Well Operations"
+      description: >-
+        Assessed smart contracts for automating service-contractor interactions
+        in offshore drilling. Translated physical interactions into Solidity
+        contracts on Ethereum TestNets. Results contributed to confidential
+        internal assessments of operating working capital (liabilities estimation,
+        FX fees, bargaining power) and led to further company R&D in the area.
+
+- role: "Researcher — Geomechanics for Energy and Environment"
+  organization: "University of Cyprus"
+  organization_url: "https://websites.ucy.ac.cy/energygeomechanics/"
+  period: "Jan 2023 – Jul 2024"
+  tags: ["CCS", "Field Development", "Material Balance", "MATLAB"]
+  images:
+    - /images/gree.png
+  funding:
+    name: "FLINUGEE"
+    detail: "Fluid Injection in Unconsolidated formations for Geo Energy and Environmental Applications"
+    grant_id: "EXCELLENCE/0421/0456"
+    funder: "Cyprus Research and Innovation Foundation"
+    amount: "€200,000"
+  projects:
+    - title: "Mathematical & Computational Modelling of Geo-Energy Processes"
+      description: >-
+        Screening tool (material balance) for CO₂ injection with water influx in
+        depleted gas reservoirs and piston-like EGR. Adaptable to dry and
+        condensate reservoirs with stochastic petrophysical heterogeneity.
+        Grid-independent, positions CO₂ as a marketable product. Now being
+        extended to hydrogen storage with "pseudo-dispersion" and integrated with
+        geomechanics simulators.
+
+    - title: "Field Development Strategies"
+      description: >-
+        MEng thesis work using Petrel and MATLAB to simulate the Norwegian
+        section of the Frigg field. Contributions: CO₂ piston-like injection for
+        EGR, a semi-stochastic algorithm for optimal double-section casing design
+        (heuristic filter-and-sort), a kernel algorithm for spatial accident
+        risk factoring distance and POIs, and stochastic project economics with
+        uncertainty in production delays, gas prices, CAPEX and OPEX. Several
+        strategies integrated into the UCY master's curriculum.
+
+- role: "Researcher — Biomechanics and Living Systems Analysis"
+  organization: "Cyprus University of Technology"
+  organization_url: "http://biolisys.cut.ac.cy"
+  period: "Jul 2020 – Present"
+  tags: ["PBTK", "ODE Systems", "Optimization"]
+  images:
+    - /images/biolisys.png
+  funding:
+    name: "NITOXILICO"
+    grant_id: "POST-DOC/0916/0237"
+    funder: "Cyprus Research and Innovation Foundation"
+    amount: "€160,000"
+    url: "http://biolisys.cut.ac.cy/research/projects/active-projects/nitoxilico/"
+    achievement: "Contributor to [USPTO patent](https://patents.google.com/patent/US20240249808A1/en)"
+  projects:
+    - title: "Predictive PBTK Models for Cardiovascular Devices"
+      description: >-
+        Compartmental PBTK model for Nickel leaching from cardiovascular devices.
+        In-house animal experiments integrated into time-variant ODE systems,
+        framed as a multi-objective optimization problem balancing physiological
+        and device parameters. Addressed non-smoothness via global optimization
+        and stochastic analysis. Three publications. Now extending to PDE-based
+        modeling of the peri-implant environment. Platform "TOXILICO App"
+        in development as a hard-tech spin-off.
+
+- role: "Undergraduate Researcher — Materials Thermodynamics Lab"
+  organization: "Cyprus University of Technology"
+  organization_url: "https://www.cut.ac.cy/faculties/fet/mem/staff/dep/nicos.angastiniotis/?languageId=1"
+  period: "Jul 2021 – Jul 2023"
+  tags: ["Thermodynamics", "Tungsten Nanostructures"]
+  images:
+    - /images/thermo.png
+  projects:
+    - title: "Thermodynamic Control of Reactive Spontaneous Systems"
+      description: >-
+        Fundamental work regulating equilibrium of chemical reactions by adjusting
+        the rate of change of auxiliary functions. Control the rate of chemical
+        work relative to invoked thermal and configurational entropy shifts via
+        independent-variable tuning. Goal: synthesis of bulk amorphous tungsten
+        nanostructures as templates for tungsten carbide and oxides.
+
+- role: "Undergraduate Researcher — Device Technology & Chemical Physics Lab"
+  organization: "Cyprus University of Technology"
+  organization_url: "https://www.devtechcp.eu"
+  period: "Sep 2019 – Dec 2019"
+  tags: ["Thin Films", "OPV/OLED", "UV-Vis"]
+  images:
+    - /images/devtech.png
+  projects:
+    - title: "Characterization & Fabrication of Organic Nanomaterials"
+      description: >-
+        Studied dichroism in CBP (4,4′-Bis(N-carbazolyl)-1,1′-biphenyl) thin films
+        following the processing-structure-properties-performance tetrahedron.
+        Spin-coating with varied speeds and annealing; UV-Vis with polarizer for
+        anisotropy. Separately fabricated OPVs and OLEDs using ITO/PEDOT:PSS and
+        P3HT:PCBM via doctor blade, inkjet printing, and sputtering.
+
+- role: "Undergraduate Researcher — Nanostructured Materials Science"
+  organization: "Cyprus University of Technology"
+  organization_url: "https://www.cut.ac.cy/faculties/fet/mem/research/research-units-and-laboratories/runms/?languageId=1"
+  period: "Jul 2018 – Aug 2018"
+  tags: ["Supercapacitors", "XRD", "SEM"]
+  images:
+    - /images/nano.png
+  projects:
+    - title: "Fabrication & Characterization of Supercapacitors"
+      description: >-
+        Fabricated home-made supercapacitors varying carbon grinding duration,
+        salt concentration, and binder quantity. Electrode nanostructure examined
+        by SEM. Parallel XRD work with RIR quantitative phase analysis using
+        [Match! Software](https://www.crystalimpact.com/match/).

@@ -1,0 +1,88 @@
+# To add a new degree: add an entry with the fields below.
+# Everything is optional except `degree`, `institution`, `period`.
+
+- degree: "PhD in Petroleum and Geosystems Engineering"
+  institution: "The University of Texas at Austin"
+  department: "Hildebrand Department of Petroleum & Geosystems Engineering, Cockrell School of Engineering"
+  period: "2024 – Present"
+  gpa: "3.95 / 4.00"
+  url: "https://pge.utexas.edu/"
+  image: "/images/phd.png"
+  highlights:
+    - label: "Best Student Paper Award"
+      detail: "46th IAEE — Paris 2025. Paper on engineering-informed CO₂ market design for CCUS in the Eastern Mediterranean."
+      url: "https://www.iaee.org/proceedings/article/19034"
+    - label: "1st Place, SPWLA Student Paper Competition"
+      detail: "UT Austin 2024 — engineering-informed CO₂ pricing for UHS infrastructure."
+      url: "https://www.linkedin.com/posts/spwla-texas_the-spwla-ut-austin-student-chapter-is-activity-7292900957279989761-TTeo"
+    - label: "President, SPWLA UT Austin Chapter"
+      detail: "2025–Present."
+      url: "https://www.linkedin.com/posts/spwla-texas_spwla-utaustin-digitalpetrophysics-activity-7364818481298472960-6Cfo"
+  courses:
+    - "Transport Phenomena (A)"
+    - "Advanced Petrophysics (A)"
+    - "Numerical Methods in PGE (A)"
+    - "Digital Rock Physics (A)"
+    - "Advanced Fluid Flow in Porous Media (A)"
+    - "Numerical Solutions of Time-Dependent Problems (A)"
+    - "Computational Nonlinear Continuum Mechanics I (A)"
+    - "Computational Nonlinear Continuum Mechanics II"
+    - "Engineering Analysis (A-)"
+
+- degree: "MBA — Energy & Environmental Management and Economics (MEDEA)"
+  institution: "University of Pavia · Eni Scuola Mattei"
+  department: "Eni's corporate graduate program"
+  period: "2022 – 2023"
+  gpa: "92.71 / 100 · Ranked 1st"
+  url: "https://www.eni.com/en-IT/careers/medea-masters.html"
+  image: "/images/master.png"
+  scholarship: "Fully funded by Eni S.p.A. — tuition, stipend, and living expenses (€39,000)."
+  highlights:
+    - label: "Luciano Novelli Award"
+      detail: "Awarded for the best dissertation in the program — 'Smart Contracts in Well Operations.'"
+    - label: "Honorary distinction"
+      detail: "Highest grade in the program for Managing Technical Assets."
+  thesis:
+    title: "Smart Contracts in Well Operations"
+    description: >-
+      Group project with Eni's Well Operations department exploring optimization of
+      operating working capital in offshore drilling through Ethereum-based smart
+      contracts. Deliverables included a live blockchain lottery demonstration showing
+      the tech's practicality in oil and gas.
+  courses:
+    - "Quantitative Methods for Management (97)"
+    - "Corporate Finance (100)"
+    - "Strategic Management (99)"
+    - "Field Development Strategy (100)"
+    - "Energy Economics and Policy (95)"
+    - "Energy Transition & Climate Change Economics (94)"
+
+- degree: "MEng in Natural Gas Engineering"
+  institution: "University of Cyprus"
+  department: "Department of Civil and Environmental Engineering"
+  period: "2021 – 2023"
+  gpa: "9.57 / 10 · Ranked 1st"
+  url: "https://www.ucy.ac.cy/nge/"
+  image: "/images/MEng.png"
+  scholarship: "Fully funded by the Hydrocarbons Service, Ministry of Energy, Commerce and Industry of Cyprus (€14,500)."
+  thesis:
+    title: "The Frigg Field Development Plan revisited"
+  courses:
+    - "Petroleum Geomechanics (10/10)"
+    - "Reservoir Engineering (10/10)"
+    - "Formation Evaluation (10/10)"
+    - "Well and Subsea Completion and Production (10/10)"
+
+- degree: "BS in Mechanical Engineering & Materials Science"
+  institution: "Cyprus University of Technology"
+  department: "Faculty of Engineering and Technology"
+  period: "2017 – 2021"
+  gpa: "8.975 / 10 · Ranked 1st"
+  url: "https://www.cut.ac.cy/faculties/fet/mem/study-guide/Bachelor/?languageId=1"
+  image: "/images/bs.gif"
+  scholarship: "Fully funded by the Cyprus State Scholarship Foundation (€12,000)."
+  highlights:
+    - label: "Top undergraduate, all four years"
+      detail: "Honorary distinction for highest GPA in the department (2017–2021). Best dissertation in program. Awarded by ExxonMobil Cyprus and the Cyprus Ministry of Education (€4,500)."
+  thesis:
+    title: "Reactive gas systems with simulated and non-limiting controlled equilibrium"

@@ -1,0 +1,78 @@
+# Conference presentations & talks.
+# Most recent first. `award` field optional for highlighted talks.
+
+- authors: "**Giakoumi, M.**, Almajed, H., Chang, B., Prodanović, M."
+  title: "Integrating Digital Rock Physics and Discrete Fracture Networks for Fracture Flow Upscaling"
+  venue: "AGU25"
+  location: "New Orleans, LA"
+  date: "15 – 19 December 2025"
+  url: "https://www.agu.org/annual-meeting"
+  status: upcoming
+
+- authors: "**Giakoumi, M.**"
+  title: "An Engineering-Informed Economic Model for Predicting the CO₂ Market Price in a CCUS Infrastructure: A Case Study in the Eastern Mediterranean Basin"
+  venue: "46th International Association of Energy Economics (IAEE)"
+  location: "Paris, France"
+  date: "15 – 18 June 2025"
+  url: "https://iaee2025paris.org/"
+  award: "Best Student Paper Award"
+  award_url: "https://www.iaee.org/proceedings/article/19034"
+
+- authors: "Konstantinou, C., **Giakoumi, M.**, Papanastasiou, P."
+  title: "Green Hydrogen Storage in Depleted Gas Reservoirs"
+  venue: "International Geomechanics Conference"
+  location: "Kuala Lumpur, Malaysia"
+  date: "18 – 20 October 2024"
+  doi: "10.56952/IGS-2024-0452"
+  url: "https://onepetro.org/armaigs/IGS24/conference/IGS24/"
+
+- authors: "Konstantinou, C., **Giakoumi, M.**, Papanastasiou, P., Olympios, A., Kourougianni, F., Arsalis, A., Georghiou, G."
+  title: "Green Hydrogen Storage in Depleted Gas Reservoirs"
+  venue: "SyNERGY MED 2024 — 3rd International Conference on Energy Transition in the Mediterranean Area"
+  location: "Limassol, Cyprus"
+  date: "21 – 23 October 2024"
+  doi: "10.1109/SyNERGYMED62435.2024.10799311"
+  url: "https://synergy-med.org/"
+
+- authors: "**Giakoumi, M.**, Konstantinou, C., Burdeau, P., Papanastasiou, P., Pontoni, P."
+  title: "From Waste to Commodity: Leveraging Game Theory in the CCUS-Driven CO₂ Market — A Case Study in Cyprus"
+  venue: "45th IAEE International Conference"
+  location: "Istanbul, Turkey"
+  date: "25 – 28 June 2024"
+  url: "https://www.iaee2024.org.tr/"
+
+- title: "Attended Petroleum Engineering Summer School (PESS) 55A Workshop: Production & Reservoir Engineering"
+  venue: "PESS 55A"
+  location: "Dubrovnik, Croatia"
+  date: "10 – 14 June 2024"
+  url: "https://rgn-pess.com/"
+  attendance_only: true
+
+- authors: "**Giakoumi, M.**, Stephanou, P. S., Kapnisis, K., Anayiotos, A."
+  title: "Incorporating Confidence Intervals in Physiologically Based Toxicokinetic (PBTK) Modeling"
+  venue: "14th Panhellenic Scientific Conference of Chemical Engineering"
+  location: "Thessaloniki, Greece"
+  date: "29 – 31 May 2024"
+  url: "https://pesxm14.gr/"
+
+- authors: "**Giakoumi, M.**, Zanini, S., Agathokleous, R., Pontoni, F."
+  title: "Beyond Traditional Analysis: A Stochastic Framework for Evaluating Energy Retrofit Investments"
+  venue: "12th IAERE Annual Conference"
+  location: "Pescara, Italy"
+  date: "22 – 23 February 2024"
+  url: "https://www.iaere.org/conferences/2024/index.html"
+
+- authors: "Konstantinou, C., Papadimitriou, N., **Giakoumi, M.**, Tsangarides, A., Iosif, G., Stasis, N., Finiris, S., Georgiou, V., Panagiotou, F. C., Papanastasiou, P."
+  title: "Advancements in Field Development Plans: Applicability of the Frigg field findings in the Eastern Mediterranean analogues"
+  venue: "4th EAGE Eastern Mediterranean Workshop"
+  location: "Athens, Greece"
+  date: "4 – 6 December 2023"
+  doi: "10.3997/2214-4609.202330028"
+  url: "https://www.earthdoc.org/content/proceedings/east-med-2023"
+
+- authors: "Konstantinou, C., **Giakoumi, M.**, Tsangarides, A., Iosif, G., Stasis, N., Finiris, S., Georgiou, V., Panagiotou, F. C., Papadimitriou, N., Papanastasiou, P."
+  title: "Lessons learned from the Frigg Field: Applicability of the findings in the Eastern Mediterranean analogues"
+  venue: "AAPG Europe Regional Conference"
+  location: "Larnaca, Cyprus"
+  date: "23 – 24 May 2023"
+  url: "https://erc.aapg.org/2023"
