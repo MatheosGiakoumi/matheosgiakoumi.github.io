@@ -1,0 +1,70 @@
+<aside class="sidebar">
+  {% if site.author.photo %}
+  <div class="photo-wrap">
+    <img src="{{ site.author.photo | relative_url }}" alt="{{ site.author.name }}">
+  </div>
+  {% endif %}
+
+  <h1 class="name">{{ site.author.name }}</h1>
+  <div class="role">{{ site.author.role }}</div>
+  <div class="affiliation">
+    {% if site.author.affiliation_url %}
+      <a href="{{ site.author.affiliation_url }}">{{ site.author.affiliation }}</a>
+    {% else %}
+      {{ site.author.affiliation }}
+    {% endif %}
+  </div>
+  {% if site.author.location %}
+    <div class="location">{{ site.author.location }}</div>
+  {% endif %}
+
+  <div class="social">
+    {% for link in site.social %}
+      <a href="{{ link.url }}" target="_blank" rel="noopener" aria-label="{{ link.label }}" title="{{ link.label }}">
+        {% case link.icon %}
+          {% when 'scholar' %}
+            <svg viewBox="0 0 24 24" fill="currentColor"><path d="M5.242 13.769L0 9.5 12 0l12 9.5-5.242 4.269C17.548 11.249 14.978 9.5 12 9.5c-2.977 0-5.548 1.748-6.758 4.269zM12 10a7 7 0 1 0 0 14 7 7 0 0 0 0-14z"/></svg>
+          {% when 'linkedin' %}
+            <svg viewBox="0 0 24 24" fill="currentColor"><path d="M20.447 20.452h-3.554v-5.569c0-1.328-.027-3.037-1.852-3.037-1.853 0-2.136 1.445-2.136 2.939v5.667H9.351V9h3.414v1.561h.046c.477-.9 1.637-1.85 3.37-1.85 3.601 0 4.267 2.37 4.267 5.455v6.286zM5.337 7.433a2.062 2.062 0 01-2.063-2.065 2.063 2.063 0 112.063 2.065zm1.782 13.019H3.555V9h3.564v11.452zM22.225 0H1.771C.792 0 0 .774 0 1.729v20.542C0 23.227.792 24 1.771 24h20.451C23.2 24 24 23.227 24 22.271V1.729C24 .774 23.2 0 22.222 0h.003z"/></svg>
+          {% when 'researchgate' %}
+            <svg viewBox="0 0 24 24" fill="currentColor"><path d="M19.586 0c-.818 0-1.508.19-2.073.565-.563.377-.97.936-1.213 1.68a3.193 3.193 0 0 0-.112.437 8.365 8.365 0 0 0-.078.53 9 9 0 0 0-.05.727c-.01.282-.013.621-.013 1.016a31.121 31.121 0 0 0 .014 1.017 9 9 0 0 0 .05.727 7.946 7.946 0 0 0 .077.53h.005a3.334 3.334 0 0 0 .113.438c.242.744.65 1.303 1.214 1.68.565.376 1.256.564 2.075.564.8 0 1.536-.213 2.105-.603.57-.39.94-.916 1.175-1.65.076-.235.135-.558.177-.93a15.594 15.594 0 0 0 .082-1.299l.003-.822v-.316-.015c0-.812-.22-1.216-.354-1.471a2.44 2.44 0 0 0-.554-.68c-.55-.462-1.427-.71-2.244-.71m-7.898.074a3.28 3.28 0 0 1 2.02.706 2.5 2.5 0 0 1 .556.681c.132.254.354.657.354 1.47v.016l-.003.821a15.6 15.6 0 0 1-.082 1.3c-.042.373-.1.693-.176.928-.236.736-.604 1.26-1.175 1.65-.569.39-1.306.605-2.106.605-.819 0-1.509-.19-2.075-.567-.564-.375-.972-.935-1.214-1.68a3.322 3.322 0 0 1-.113-.435h-.004a7.906 7.906 0 0 1-.077-.53 9.152 9.152 0 0 1-.051-.728 30.828 30.828 0 0 1-.014-1.018c0-.393.005-.732.014-1.015 0-.286.027-.528.05-.728.023-.2.05-.376.078-.53a3.335 3.335 0 0 1 .113-.437c.242-.745.648-1.303 1.213-1.68A3.28 3.28 0 0 1 11.688.074m-7.898 0c-.818 0-1.508.19-2.073.565C1.155.917.747 1.476.504 2.22a3.193 3.193 0 0 0-.112.437 8.365 8.365 0 0 0-.078.53 9 9 0 0 0-.05.727c-.01.282-.013.621-.013 1.016a31.121 31.121 0 0 0 .014 1.017 9 9 0 0 0 .05.727 7.946 7.946 0 0 0 .077.53h.005a3.334 3.334 0 0 0 .113.438c.242.744.65 1.303 1.214 1.68.565.376 1.256.564 2.075.564.8 0 1.536-.213 2.105-.603.57-.39.94-.916 1.175-1.65.076-.235.135-.558.177-.93a15.594 15.594 0 0 0 .082-1.299l.003-.822v-.316-.015c0-.812-.22-1.216-.354-1.471a2.44 2.44 0 0 0-.554-.68C5.483.322 4.607.074 3.79.074M19.586 24c-4.66 0-8.455-3.794-8.455-8.452 0-4.66 3.795-8.453 8.455-8.453 4.658 0 8.452 3.794 8.452 8.453C28.038 20.207 24.244 24 19.586 24m-15.796 0C-.868 24-4.662 20.206-4.662 15.547-4.662 10.887-.868 7.095 3.79 7.095c4.657 0 8.452 3.792 8.452 8.452C12.243 20.207 8.448 24 3.79 24" transform="scale(0.8)"/><text x="3" y="19" font-size="13" font-weight="700" font-family="Arial" fill="currentColor">RG</text></svg>
+          {% when 'github' %}
+            <svg viewBox="0 0 24 24" fill="currentColor"><path d="M12 .297c-6.63 0-12 5.373-12 12 0 5.303 3.438 9.8 8.205 11.385.6.113.82-.258.82-.577 0-.285-.01-1.04-.015-2.04-3.338.724-4.042-1.61-4.042-1.61C4.422 18.07 3.633 17.7 3.633 17.7c-1.087-.744.084-.729.084-.729 1.205.084 1.838 1.236 1.838 1.236 1.07 1.835 2.809 1.305 3.495.998.108-.776.417-1.305.76-1.605-2.665-.3-5.466-1.332-5.466-5.93 0-1.31.465-2.38 1.235-3.22-.135-.303-.54-1.523.105-3.176 0 0 1.005-.322 3.3 1.23.96-.267 1.98-.399 3-.405 1.02.006 2.04.138 3 .405 2.28-1.552 3.285-1.23 3.285-1.23.645 1.653.24 2.873.12 3.176.765.84 1.23 1.91 1.23 3.22 0 4.61-2.805 5.625-5.475 5.92.42.36.81 1.096.81 2.22 0 1.606-.015 2.896-.015 3.286 0 .315.21.69.825.57C20.565 22.092 24 17.592 24 12.297c0-6.627-5.373-12-12-12"/></svg>
+          {% when 'cv' %}
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><polyline points="14 2 14 8 20 8"/><line x1="16" y1="13" x2="8" y2="13"/><line x1="16" y1="17" x2="8" y2="17"/><line x1="10" y1="9" x2="8" y2="9"/></svg>
+          {% when 'email' %}
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"/><polyline points="22,6 12,13 2,6"/></svg>
+          {% else %}
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/></svg>
+        {% endcase %}
+      </a>
+    {% endfor %}
+  </div>
+
+  <nav class="nav">
+    <h4>Contents</h4>
+    <ul>
+      <li><a href="#about">About</a></li>
+      <li><a href="#awards">Honours and Awards</a></li>
+      <li><a href="#education">Education</a></li>
+      <li><a href="#experience">Research Experience</a></li>
+      <li><a href="#publications">Publications</a></li>
+      <li><a href="#conferences">Conference Presentations</a></li>
+      <li><a href="#teaching">Teaching</a></li>
+      <li><a href="#skills">Skills and Contact</a></li>
+    </ul>
+  </nav>
+
+  <div class="theme-toggle-wrap">
+    <button id="theme-toggle" class="theme-toggle" aria-label="Toggle theme" title="Toggle light / dark mode">
+      <svg class="icon-sun" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <circle cx="12" cy="12" r="4"/>
+        <path d="M12 2v2M12 20v2M4.93 4.93l1.41 1.41M17.66 17.66l1.41 1.41M2 12h2M20 12h2M4.93 19.07l1.41-1.41M17.66 6.34l1.41-1.41"/>
+      </svg>
+      <svg class="icon-moon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/>
+      </svg>
+      <span class="theme-toggle-label">Toggle theme</span>
+    </button>
+  </div>
+</aside>
