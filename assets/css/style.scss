@@ -644,6 +644,68 @@ section {
   letter-spacing: 0.04em;
   text-transform: uppercase;
 }
+.period-badge.completed {
+  color: var(--ink-3);
+  border-color: var(--ink-3);
+}
+
+/* Leadership-section specific elements */
+.exp-desc {
+  font-size: 0.92rem;
+  color: var(--ink-2);
+  line-height: 1.65;
+  margin: 10px 0 12px;
+}
+.exp-highlights {
+  margin: 8px 0 14px;
+  padding: 0;
+  list-style: none;
+}
+.exp-highlights li {
+  padding: 5px 0 5px 18px;
+  position: relative;
+  font-size: 0.88rem;
+  color: var(--ink-2);
+  line-height: 1.55;
+}
+.exp-highlights li::before {
+  content: '';
+  position: absolute;
+  left: 2px;
+  top: 12px;
+  width: 5px;
+  height: 5px;
+  background: var(--accent);
+  border-radius: 50%;
+}
+.exp-credits {
+  margin: 14px 0;
+  padding: 12px 14px;
+  background: var(--bg-alt);
+  border-radius: var(--radius-sm);
+  border-left: 2px solid var(--border);
+}
+.exp-credits .credit-block {
+  font-size: 0.82rem;
+  color: var(--ink-2);
+  line-height: 1.6;
+  padding: 3px 0;
+}
+.exp-credits .credit-block + .credit-block {
+  border-top: 1px dashed var(--border-soft);
+  margin-top: 6px;
+  padding-top: 8px;
+}
+.credit-label {
+  display: inline-block;
+  font-family: var(--font-mono);
+  font-size: 0.7rem;
+  color: var(--ink-3);
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  margin-right: 8px;
+  font-weight: 600;
+}
 .exp-head .role {
   font-size: 1.05rem;
   font-weight: 600;
