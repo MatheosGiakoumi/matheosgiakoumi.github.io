@@ -1,8 +1,4 @@
 # Leadership & service roles (student chapters, fellowships, governance).
-# Most recent first. Use `status: current` for active terms, `status: completed` for past terms.
-#
-# Future entries (e.g. TEX-E end-of-year writeup) follow the same shape:
-# copy any block below, update fields, add a new image to /images/.
 
 - role: "President"
   organization: "SPWLA Texas Student Chapter, UT Austin"
@@ -38,4 +34,3 @@
     - "SLB"
     - "Halliburton"
     - "SPWLA"
-    - "Jesus M. Salazar (alumnus)"
