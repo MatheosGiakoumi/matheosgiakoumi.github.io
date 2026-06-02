@@ -1,0 +1,14 @@
+# Peer-review activity (from ORCID).
+# One block per journal. `count` is the number of reviews; `years` is a display string.
+
+- journal: "International Journal of Hydrogen Energy"
+  publisher: "Elsevier"
+  issn: "0360-3199"
+  count: 2
+  years: "2026"
+
+- journal: "Transport in Porous Media"
+  publisher: "Springer Nature"
+  issn: "0169-3913"
+  count: 5
+  years: "2024 – 2025"
