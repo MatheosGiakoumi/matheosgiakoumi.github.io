@@ -1,0 +1,41 @@
+# Leadership & service roles (student chapters, fellowships, governance).
+# Most recent first. Use `status: current` for active terms, `status: completed` for past terms.
+#
+# Future entries (e.g. TEX-E end-of-year writeup) follow the same shape:
+# copy any block below, update fields, add a new image to /images/.
+
+- role: "President"
+  organization: "SPWLA Texas Student Chapter, UT Austin"
+  organization_url: "https://www.linkedin.com/company/spwla-texas/"
+  period: "2025 – 2026"
+  status: completed
+  tags: ["Petrophysics", "Formation Evaluation", "Chapter Leadership"]
+  image: /images/spwla_2025_2026.png
+  description: >-
+    Led the chapter through the 2025–2026 academic year, coordinating technical
+    programming, student initiatives, sponsorship, and faculty engagement
+    across UT Austin&#39;s petrophysics and formation-evaluation community.
+  highlights:
+    - "11 technical presentations from industry and academia"
+    - "9 social events and student initiatives, including PetroPotluck, Trivia Night, Gone to Engineering, the Halliburton field trip, the Longhorn Run, and the chapter booth at the SPWLA Annual Symposium"
+    - "Hosted the annual local SPWLA Student Paper Contest with industry judges"
+    - "Coordinated 11 student presentations at the 67th SPWLA Annual Logging Symposium (Lake Conroe)"
+    - "Supported [Julio C. Villarroel](https://www.linkedin.com/in/juliovillarroel/) winning the PhD category at the 2026 SPWLA International Student Paper Contest"
+  advisors:
+    - name: "Prof. Carlos Torres-Verdín"
+      url: "https://www.linkedin.com/in/carlos-torres-verdin-9370081a9/"
+    - name: "Prof. Zoya Heidari"
+      url: "https://www.linkedin.com/in/zoya-heidari-29067b5a/"
+    - name: "Prof. Maša Prodanović"
+      url: "https://www.linkedin.com/in/masa-prodanovic-9121543/"
+  regional_director:
+    name: "Amer Hanif"
+    url: "https://www.linkedin.com/in/amer-hanif-096b9541/"
+  sponsors:
+    - "Hildebrand Department of Petroleum & Geosystems Engineering, UT Austin"
+    - "Oxy"
+    - "GEOLOG International"
+    - "SLB"
+    - "Halliburton"
+    - "SPWLA"
+    - "Jesus M. Salazar (alumnus)"
