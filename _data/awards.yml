@@ -1,11 +1,11 @@
 # Awards & honors — featured prominently on the home page.
 # Most recent / most prestigious first.
 
-- title: "TVLC Semifinalist — ARGUS"
+- title: "TVLC Finalists & Energy Innovators Winners — ARGUS"
   venue: "Texas Venture Labs Competition, UT Austin"
   year: "2026"
   url: "https://argus-v2-dujcv4tsmtvx9pektlbgpd.streamlit.app/"
-  detail: "Team ARGUS advanced to the semifinal round with a venture developing analytics tooling for managed-pressure drilling. Finals on 1 May 2026. An interactive financial and technical model is available on Streamlit."
+  detail: "Team ARGUS advanced to the final round with a venture developing analytics tooling for managed-pressure drilling and won the Energy Innovator Award. An interactive financial and technical model is available on Streamlit"
 
 - title: "TEX-E Fellow"
   venue: "Texas Energy Entrepreneurship Programme"
