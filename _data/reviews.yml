@@ -1,6 +1,18 @@
 # Peer-review activity (from ORCID).
 # One block per journal. `count` is the number of reviews; `years` is a display string.
 
+- journal: "Carbon Research"
+  publisher: "Springer Nature"
+  issn: "2731-6696"
+  count: 1
+  years: "2026"
+
+- journal: "Journal of Petroleum Exploration and Production Technology"
+  publisher: "Springer Nature"
+  issn: "2190-0566"
+  count: 1
+  years: "2026"
+
 - journal: "International Journal of Hydrogen Energy"
   publisher: "Elsevier"
   issn: "0360-3199"
@@ -10,5 +22,5 @@
 - journal: "Transport in Porous Media"
   publisher: "Springer Nature"
   issn: "0169-3913"
-  count: 5
+  count: 6
   years: "2024 – 2025"
