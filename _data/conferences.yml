@@ -1,6 +1,27 @@
 # Conference presentations & talks.
 # Most recent first. `award` field optional for highlighted talks.
 
+- authors: "**Giakoumi, M.**, Sweeney, M. R., Hyman, J. D."
+  title: "On the Fidelity and Cost of Upscaled and Graph-based Representations of Discrete Fracture Networks"
+  venue: "LANL Student Symposium & Science Café (poster and oral presentation)"
+  location: "Los Alamos, NM"
+  date: "Summer 2026"
+  url: "https://www.lanl.gov/engage/collaboration/student-programs/symposium"
+ 
+- authors: "**Giakoumi, M.**"
+  title: "How Much Fidelity Do We Sacrifice to Simulate Fractures Faster?"
+  venue: "LANL Science Café — Lightning Talk"
+  location: "Los Alamos, NM"
+  date: "Summer 2026"
+  url: "https://www.lanl.gov/engage/collaboration/student-programs/symposium"
+ 
+- authors: "**Giakoumi, M.**, Yoon, H., Bettir, N., Balhoff, M., Prodanović, M., Huh, C."
+  title: "Marangoni-driven drainage of elongated residual oil films: a pore-scale lattice Boltzmann study"
+  venue: "Gordon Research Conference on Flow and Transport in Permeable Media"
+  location: "Les Diablerets, Switzerland"
+  date: "19 – 24 July 2026"
+  url: "https://www.grc.org/flow-and-transport-in-permeable-media-conference/2026/"
+
 - authors: "**Giakoumi, M.**, Almajed, H., Chang, B., Prodanović, M."
   title: "Integrating Digital Rock Physics and Discrete Fracture Networks for Fracture Flow Upscaling"
   venue: "AGU25"
