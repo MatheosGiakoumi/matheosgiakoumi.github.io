@@ -7,6 +7,19 @@
 #
 # Most recent first.
 
+- authors: "**Giakoumi, M.**, Chang, B. C., Prodanović, M."
+  title: "BayesFracX: A Bayesian-Based Algorithm for Individual Fracture Extraction and DFN-Ready Characterization from 3D CT Images"
+  status: in_preparation
+ 
+- authors: "**Giakoumi, M.**, Sweeney, M. R., Hyman, J. D."
+  title: "On the Fidelity and Cost of Upscaled and Graph-based Representations of Discrete Fracture Networks"
+  status: in_preparation
+ 
+- authors: "**Giakoumi, M.**, Yoon, H., Bettir, N., Balhoff, M., Prodanović, M., Huh, C."
+  title: "Marangoni-driven drainage of elongated residual oil films: a pore-scale lattice Boltzmann study"
+  status: in_preparation
+
+
 - authors: "**Giakoumi, M.**, Konstantinou, C., Ciola, E., Papanastasiou, P., Pontoni, P."
   title: "Pricing CO₂ as a Dual Commodity: Engineering-Driven Market Design for CCUS Deployment"
   venue: "Applied Energy"
