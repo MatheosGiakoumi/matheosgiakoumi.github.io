@@ -19,13 +19,14 @@ title: Home
       Prior to joining UT Austin, I completed an MBA in Energy and Environmental Management and Economics
       (<a href="#education">MEDEA</a>) at Eni Corporate University and an MEng in Natural Gas Engineering at
       the University of Cyprus. I have held research positions at Eni S.p.A.&#39;s Well Operations department
-      and at Fondazione Eni Enrico Mattei (FEEM), and in Summer 2026 I will join
-      <a href="https://www.lanl.gov/" target="_blank" rel="noopener">Los Alamos National Laboratory</a>
-      as a Graduate Research Intern with the Earth and Environmental Sciences Division.
-      I currently serve as President of the SPWLA UT Austin Student Chapter and as a
-      <strong>TEX-E Fellow</strong> in the Texas Energy Entrepreneurship programme.
+      and at Fondazione Eni Enrico Mattei (FEEM). In Summer 2026 I was a Graduate Research Intern at
+      <a href="https://www.lanl.gov/" target="_blank" rel="noopener">Los Alamos National Laboratory</a>,
+      in the Earth and Environmental Sciences Division.
+      I served as President of the SPWLA UT Austin Student Chapter and am currently a
+      <strong>TEX-E Fellow</strong> in the Texas Energy Entrepreneurship programme, where I am
+      advancing our startup, <a href="https://argusdrillers.com" target="_blank" rel="noopener">ARGUS</a>.
     </p>
-  </div>
+</div>
 </section>
 
 <!-- =========== AWARDS =========== -->
