@@ -9,6 +9,8 @@
   period: "Summer 2026"
   upcoming: true
   tags: ["Fracture Networks", "Upscaling", "Nuclear Waste Disposal", "HPC"]
+  images:
+    - /images/lanl.png
   projects:
     - title: "Upscaling strategies for fracture networks — Spent Fuel and Waste Science and Technology programme"
       description: >-
