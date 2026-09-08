@@ -19,7 +19,6 @@
   title: "Marangoni-driven drainage of elongated residual oil films: a pore-scale lattice Boltzmann study"
   status: in_preparation
 
-
 - authors: "**Giakoumi, M.**, Konstantinou, C., Ciola, E., Papanastasiou, P., Pontoni, P."
   title: "Pricing CO₂ as a Dual Commodity: Engineering-Driven Market Design for CCUS Deployment"
   venue: "Applied Energy"
@@ -28,7 +27,6 @@
   doi: "10.1016/j.apenergy.2025.127214"
   url: "https://doi.org/10.1016/j.apenergy.2025.127214"
   status: published
-  featured: true
 
 - authors: "Konstantinou, C., **Giakoumi, M.**, Angastiniotis, N., Papanastasiou, P."
   title: "A Mathematical Framework for Underground Hydrogen Storage in Reservoirs with Geo-methanation and Enhanced Gas Recovery"
@@ -39,7 +37,6 @@
   url: "https://doi.org/10.1016/j.enconman.2025.120328"
   status: published
   corresponding: true
-  featured: true
 
 - authors: "Konstantinou, C., **Giakoumi, M.**, Panagiotou, F. C."
   title: "A game-theoretic framework for sustainable water allocation in agriculture: Enhancing economic and water efficiency in Akrotiri district (Cyprus)"
@@ -114,10 +111,6 @@
 - authors: "Konstantinou, C., **Giakoumi, M.**, Papanastasiou, P."
   title: "Effects of formation hydraulic properties on green hydrogen storage potential in depleted gas reservoirs"
   status: under_review
-
-- authors: "**Giakoumi, M.**, Chang, B., Prodanović, M."
-  title: "Integrating Digital Rock Physics and Discrete Fracture Networks for Fracture Flow Upscaling"
-  status: in_preparation
 
 - authors: "**Giakoumi, M.**, Yoon, H., Prodanović, M., DiCarlo, D."
   title: "Derivation of Pore Size Distribution from MICP Data Using Triangular and Horn-Triangular Capillary Bundle Models"
