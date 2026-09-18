@@ -23,7 +23,7 @@ title: Home
       <a href="https://www.lanl.gov/" target="_blank" rel="noopener">Los Alamos National Laboratory</a>,
       in the Earth and Environmental Sciences Division.
       I served as President of the SPWLA UT Austin Student Chapter and am currently a
-      <strong>TEX-E Fellow</strong> in the Texas Energy Entrepreneurship programme, where I am
+      TEX-E Fellow in the Texas Energy Entrepreneurship programme, where I am
       advancing our startup, <a href="https://argusdrillers.com" target="_blank" rel="noopener">ARGUS</a>.
     </p>
 </div>
