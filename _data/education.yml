@@ -10,13 +10,15 @@
   image: "/images/phd.png"
   courses:
     - "Transport Phenomena (A)"
+    - "Pore Scale Multiphase Flow Transport (A)"
+    - "Numerical Solutions of Time-Dependent Problems (A)"
+    - "Computational Nonlinear Continuum Mechanics I (A)"
+    - "Computational Nonlinear Continuum Mechanics II (A)"
     - "Advanced Petrophysics (A)"
     - "Numerical Methods in PGE (A)"
     - "Digital Rock Physics (A)"
     - "Advanced Fluid Flow in Porous Media (A)"
-    - "Numerical Solutions of Time-Dependent Problems (A)"
-    - "Computational Nonlinear Continuum Mechanics I (A)"
-    - "Computational Nonlinear Continuum Mechanics II"
+    - "Energy Ventures Practicum (A)"
     - "Engineering Analysis (A-)"
 
 - degree: "MBA — Energy & Environmental Management and Economics (MEDEA)"
@@ -68,3 +70,14 @@
   scholarship: "Fully funded by the Cyprus State Scholarship Foundation (€12,000)."
   thesis:
     title: "Reactive gas systems with simulated and non-limiting controlled equilibrium"
+  courses:
+    - "Thermodynamics of Materials I & II (9.5/10)"
+    - "Quantum Mechanics and Statistical Thermodynamics (9.5/10)"
+    - "Solid State Physics (9.0/10)"
+    - "Materials Laboratory & Synthesis of Advanced Materials (9.0/10)"
+    - "Heat and Mass Transfer (8.0/10)"
+    - "Stress Analysis (9.5/10)"
+    - "Heat and Mass Transfer (8.0/10)"
+    - "Automatic Control Systems (9/10)"
+    - "Polymers (8.5/10)"
+    - "Organic Chemistry (9.0/10)"
