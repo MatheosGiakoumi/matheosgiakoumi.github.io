@@ -60,6 +60,20 @@
         with statistical DFN upscaling (pySimFrac, dfnWorks) to develop
         particle-transport closure relationships for larger-scale simulations.
 
+    - title: "Marangoni-Driven Drainage of Residual Oil Films"
+      description: >-
+        Developed a fully coupled phase-field lattice Boltzmann
+        framework to simulate surfactant-driven mobilization and
+        drainage of residual oil films at the pore scale.
+        Integrates two-phase hydrodynamics, interfacial surfactant
+        transport, concentration-dependent surface tension,
+        Marangoni stresses, and wettability effects.
+        Investigates the combined influence of fluid flow and
+        Marangoni forces on oil displacement and recovery
+        from oil-wet porous media. Presented at the 2026
+        Gordon Research Conference on Flow and Transport
+        in Permeable Media.
+
 
 - role: "Researcher — Technologies for the Energy Transition"
   organization: "Fondazione Eni Enrico Mattei (FEEM)"
