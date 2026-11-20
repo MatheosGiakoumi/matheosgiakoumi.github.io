@@ -6,14 +6,19 @@ title: Home
 <!-- =========== HERO =========== -->
 <section id="about" class="hero">
   <h1>Matheos Giakoumi</h1>
-  <p class="tagline">PhD student in Petroleum and Geosystems Engineering</p>
+  <p class="tagline">PhD Candidate in Petroleum and Geosystems Engineering</p>
   <div class="intro">
     <p>
-      I am a PhD student at the Hildebrand Department of Petroleum and Geosystems Engineering,
+      I am a PhD Candidate at the Hildebrand Department of Petroleum and Geosystems Engineering,
       The University of Texas at Austin, working under the supervision of
       <a href="https://pge.utexas.edu/facultystaff/faculty-directory/prodanovic" target="_blank" rel="noopener">Prof.&nbsp;Maša&nbsp;Prodanović</a>.
-      My research concerns digital rock physics, pore-scale simulation, and upscaling methodologies,
-      with applications to carbon dioxide storage, enhanced recovery, and underground hydrogen storage.
+      My research focuses on digital rock physics, CT-based fracture characterization,
+      and multiscale modeling of fluid flow and finite-size particulate transport in fractured media.
+      I investigate how fracture geometry and its simplification influence particle transport,
+      retention, and clogging using coupled CFD–DEM simulations, with the goal of developing
+      reduced transport models for discrete fracture network (DFN) upscaling.
+      My broader research interests include CO₂ sequestration, underground hydrogen storage,
+      and subsurface energy systems.
     </p>
     <p>
       Prior to joining UT Austin, I completed an MBA in Energy and Environmental Management and Economics
@@ -23,11 +28,12 @@ title: Home
       <a href="https://www.lanl.gov/" target="_blank" rel="noopener">Los Alamos National Laboratory</a>,
       in the Earth and Environmental Sciences Division.
       I served as President of the SPWLA UT Austin Student Chapter and am currently a
-      TEX-E Fellow in the Texas Energy Entrepreneurship programme, where I am
+      TEX-E Fellow in the Texas Energy Entrepreneurship program, where I am
       advancing our startup, <a href="https://argusdrillers.com" target="_blank" rel="noopener">ARGUS</a>.
     </p>
-</div>
+  </div>
 </section>
+
 
 <!-- =========== AWARDS =========== -->
 <section id="awards">
