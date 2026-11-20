@@ -30,52 +30,36 @@
   supervisor_url: "https://pge.utexas.edu/facultystaff/faculty-directory/prodanovic"
   tags: ["Digital Rock Physics", "LBM", "CCUS", "UHS", "Python"]
   images:
-    - /images/gra.png
     - /images/gra2.png
+    - /images/gra3.png
+    - /images/gra4.png
   projects:
     - title: "BayesFracX"
       description: >-
-        Open-source pipeline for automatic identification and characterization
-        of fractures in digital rock images. Developed a Dirichlet-Process
-        Bayesian Gaussian Mixture Model (DP-BGMM) that detects and classifies
-        fractures from μCT images. Processed fracture data exports directly to
-        commercial DFN simulators (dfnWorks, CMG), enabling upscaling to
-        reservoir-scale performance models. Case studies deployed using the
-        [Digital Porous Media](https://www.digitalporousmedia.org/) portal.
-        Planned for AGU25 with journal publication and software release.
-
-    - title: "Digital Twin of the Texas Power System for CCUS, UHS, and Geo-Methanation"
+        Open-source Python framework for automated extraction and
+        characterization of individual fractures from segmented 3D X-ray
+        CT images. Combines Dirichlet-Process Bayesian Gaussian Mixture
+        Modeling (DP-BGMM) with iterative geometric validation and
+        full-resolution reconstruction to identify and separate complex
+        fracture networks. Quantifies fracture orientation, geometry,
+        size, and spatial aperture distributions, generating DFN-ready
+        representations for subsequent numerical modeling. Validated
+        using synthetic fracture networks and experimental datasets from
+        the [Digital Porous Media](https://www.digitalporousmedia.org/)
+        portal. Source code available on
+        [GitHub](https://github.com/MatheosG/BayesFracX).
+        Manuscript currently under review in *Computers & Geosciences*.
+        
+    - title: "Multiscale Particulate Transport in Fracture Networks"
       description: >-
-        Extending the award-winning CO₂-as-energy-commodity framework from the
-        [46th IAEE](https://www.iaee.org/proceedings/article/19034) to a digital
-        twin of the Texas power system. Integrates market equilibrium, stakeholder
-        coordination (emitters, O&G producers, policymakers), and reservoir
-        capacity to forecast CO₂ selling price and investment potential. Being
-        extended to underground hydrogen storage and geo-methanation for a
-        unified multi-vector storage assessment.
+        Investigates finite-size particle transport in CT-derived fracture
+        networks using coupled CFD–DEM simulations (OpenFOAM, LIGGGHTS,
+        CFDEMcoupling). Examines how fracture roughness, aperture variability,
+        and geometric simplification affect particle transmission, retention,
+        bridging, and clogging. Integrates BayesFracX fracture characterization
+        with statistical DFN upscaling (pySimFrac, dfnWorks) to develop
+        particle-transport closure relationships for larger-scale simulations.
 
-    - title: "Proppant Transport in Rough Fractures"
-      description: >-
-        Coupled finite element–discrete element (FEM–DEM) simulations on
-        BayesFracX-identified fracture networks. Studies proppant placement
-        efficiency, bridging risk, and fracture conductivity under realistic
-        geometries. Completes the pipeline from μCT fracture identification to
-        particle-scale simulation and DFN upscaling.
-
-    - title: "Beyond Circular Tubes in MICP Analysis"
-      description: >-
-        New pore-size-distribution model that replaces the standard circular
-        capillary tube assumption in MICP with triangular and horn-shaped
-        triangular geometries for a more realistic description of pore systems.
-        Under preparation for journal submission; planned for SPWLA 2026.
-
-    - title: "Analytical Framework for Hydrogen Storage & Geo-Methanation"
-      description: >-
-        Mathematical model covering H₂ injection into depleted reservoirs,
-        H₂+CO₂ co-injection for geo-methanation, and H₂ injection for enhanced
-        gas recovery. Integrates material balance, multiple EoS, advection-driven
-        gas mixing, water influx, and Gibbs-energy minimization. Published in
-        [Energy Conversion & Management (2025)](https://www.sciencedirect.com/science/article/pii/S0196890425008520).
 
 - role: "Researcher — Technologies for the Energy Transition"
   organization: "Fondazione Eni Enrico Mattei (FEEM)"
