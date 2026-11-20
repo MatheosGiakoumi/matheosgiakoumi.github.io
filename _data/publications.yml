@@ -9,11 +9,11 @@
 
 - authors: "**Giakoumi, M.**, Chang, B. C., Prodanović, M."
   title: "BayesFracX: A Bayesian-Based Algorithm for Individual Fracture Extraction and DFN-Ready Characterization from 3D CT Images"
-  status: in_preparation
+  status: under_review
  
 - authors: "**Giakoumi, M.**, Sweeney, M. R., Hyman, J. D."
   title: "On the Fidelity and Cost of Upscaled and Graph-based Representations of Discrete Fracture Networks"
-  status: in_preparation
+  status: under_review
  
 - authors: "**Giakoumi, M.**, Yoon, H., Bettir, N., Balhoff, M., Prodanović, M., Huh, C."
   title: "Marangoni-driven drainage of elongated residual oil films: a pore-scale lattice Boltzmann study"
@@ -37,6 +37,14 @@
   url: "https://doi.org/10.1016/j.enconman.2025.120328"
   status: published
   corresponding: true
+
+- authors: "Konstantinou, C., **Giakoumi, M.**, Papanastasiou, P."
+  title: "Effects of formation hydraulic properties on green hydrogen storage potential in depleted gas reservoirs"
+  venue: "International Journal of Hydrogen Energy"
+  date: "November 2026"
+  doi: "10.1016/j.ijhydene.2026.158619"
+  url: "https://doi.org/10.1016/j.ijhydene.2026.158619"
+  status: published
 
 - authors: "Konstantinou, C., **Giakoumi, M.**, Panagiotou, F. C."
   title: "A game-theoretic framework for sustainable water allocation in agriculture: Enhancing economic and water efficiency in Akrotiri district (Cyprus)"
@@ -107,10 +115,6 @@
   url: "https://www.researchgate.net/profile/Sara-Zanini-7/publication/393047972"
   note: "ISBN 9791280348333"
   status: published
-
-- authors: "Konstantinou, C., **Giakoumi, M.**, Papanastasiou, P."
-  title: "Effects of formation hydraulic properties on green hydrogen storage potential in depleted gas reservoirs"
-  status: under_review
 
 - authors: "**Giakoumi, M.**, Yoon, H., Prodanović, M., DiCarlo, D."
   title: "Derivation of Pore Size Distribution from MICP Data Using Triangular and Horn-Triangular Capillary Bundle Models"
