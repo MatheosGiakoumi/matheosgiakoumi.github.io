@@ -1,17 +1,22 @@
 # Site settings
 title: Matheos Giakoumi
-tagline: "PhD Student, Petroleum & Geosystems Engineering"
+tagline: "PhD Candidate, Petroleum & Geosystems Engineering"
 description: >-
-  Matheos (Matthaios) Giakoumi — PhD student at UT Austin Hildebrand Department of
-  Petroleum and Geosystems Engineering. Research in digital rock physics,
-  pore-scale simulation, CO₂ storage, underground hydrogen storage, and
-  energy economics.
+  Matheos (Matthaios) Giakoumi — PhD Candidate at The University
+  of Texas at Austin, Hildebrand Department of Petroleum and
+  Geosystems Engineering. Research focuses on digital rock physics,
+  CT-based fracture characterization, multiscale fluid flow and
+  particulate transport modeling, coupled CFD–DEM simulations,
+  and discrete fracture network (DFN) upscaling. Additional research
+  interests include CO₂ sequestration, underground hydrogen storage,
+  and energy economics.
 url: "https://matheosgiakoumi.me"
+
 
 # Personal info (used by layouts)
 author:
   name: Matheos Giakoumi
-  role: "PhD Student · UT Austin PGE"
+  role: "PhD Candidate · UT Austin PGE"
   affiliation: "Hildebrand Department of Petroleum & Geosystems Engineering"
   affiliation_url: "https://pge.utexas.edu/"
   email: "matheos.giakoumis97@hotmail.com"
